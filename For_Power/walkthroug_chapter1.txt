@@ -1,9 +1,9 @@
 Scenario 1 - recruit woodsmen, attack with them and mages too, try to level-up wooodsmen to archers, you don't need to level-up Lemyr
-Scenario 2 - fly to the east with Lemyr, you can attacks some orcish warriors for xps
+Scenario 2 - flee to the east with Lemyr, you can attacks some orcish warriors for xps
 Scenario 3 - talk only
 Scenario 4 - recall mages, archers and woodsmen
 Scenario 5 - talk only
-Scenario 6 - kill as much orcs and goblins with Clare as you can 
+Scenario 6 - kill as many orcs and goblins with Clare as you can 
 Scenario 7 - go straight to the north with Clare
 Scenario 8 - talk only and at the end a crucial decision (good or not so good path)
 
