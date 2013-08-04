@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-02 23:05+0200\n"
+"POT-Creation-Date: 2013-08-04 23:17+0200\n"
 "PO-Revision-Date: 2013-08-02 23:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -399,10 +399,10 @@ msgstr ""
 #. [damage]: id=redeem 5
 #. [damage]: id=redeem 6
 #. [damage]: id=redeem 7
-#: For_Power/macros/redeem.cfg:15 For_Power/macros/redeem.cfg:24
-#: For_Power/macros/redeem.cfg:33 For_Power/macros/redeem.cfg:42
-#: For_Power/macros/redeem.cfg:51 For_Power/macros/redeem.cfg:60
-#: For_Power/macros/redeem.cfg:69 For_Power/units/Clare_Lich.cfg:1213
+#: For_Power/macros/redeem.cfg:15 For_Power/macros/redeem.cfg:23
+#: For_Power/macros/redeem.cfg:31 For_Power/macros/redeem.cfg:39
+#: For_Power/macros/redeem.cfg:47 For_Power/macros/redeem.cfg:55
+#: For_Power/macros/redeem.cfg:63 For_Power/units/Clare_Lich.cfg:1213
 #: For_Power/units/Lemyr_Lich.cfg:97
 msgid "redeem"
 msgstr ""
@@ -410,9 +410,8 @@ msgstr ""
 #. [damage]: id=redeem 1
 #: For_Power/macros/redeem.cfg:16
 msgid ""
-"Redeem:\n"
-"    The target of this attack is fully absorbed into the attacker's soul, a "
-"much better place than the world he was taken from. The attacker will grow "
+"The target of this attack is fully absorbed into the attacker's soul, a much "
+"better place than the world he was taken from. The attacker will grow "
 "stronger after a certain number of redeems. Level 0 targets are absorbed "
 "with a 100% chance to succeed, level 1 targets are absorbed with a 90% "
 "chance to be absorbed, level 2 targets are absorbed with a 40% chance, level "
@@ -422,11 +421,10 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=redeem 2
-#: For_Power/macros/redeem.cfg:25
+#: For_Power/macros/redeem.cfg:24
 msgid ""
-"Redeem:\n"
-"    The target of this attack is fully absorbed into the attacker's soul, a "
-"much better place than the world he was taken from. The attacker will grow "
+"The target of this attack is fully absorbed into the attacker's soul, a much "
+"better place than the world he was taken from. The attacker will grow "
 "stronger after a certain number of redeems. Level 0 and level 1 targets are "
 "absorbed with a 100% chance to succeed, level 2 targets are absorbed with a "
 "90% chance to be absorbed, level 3 targets are absorbed with a 50% chance, "
@@ -435,11 +433,10 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=redeem 3
-#: For_Power/macros/redeem.cfg:34
+#: For_Power/macros/redeem.cfg:32
 msgid ""
-"Redeem:\n"
-"    The target of this attack is fully absorbed into the attacker's soul, a "
-"much better place than the world he was taken from. The attacker will grow "
+"The target of this attack is fully absorbed into the attacker's soul, a much "
+"better place than the world he was taken from. The attacker will grow "
 "stronger after a certain number of redeems. Targets bellow level 3 are "
 "absorbed with a 100% chance to succeed, level 3 targets are absorbed with a "
 "80% chance, level 4 targets are absorbed with a 60% chance and level 5 "
@@ -447,11 +444,10 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=redeem 4
-#: For_Power/macros/redeem.cfg:43
+#: For_Power/macros/redeem.cfg:40
 msgid ""
-"Redeem:\n"
-"    The target of this attack is fully absorbed into the attacker's soul, a "
-"much better place than the world he was taken from. The attacker will grow "
+"The target of this attack is fully absorbed into the attacker's soul, a much "
+"better place than the world he was taken from. The attacker will grow "
 "stronger after a certain number of redeems. Targets bellow level 4 are "
 "absorbed with a 100% chance to succeed, level 4 targets are absorbed with a "
 "85% chance and level 5 targets are absorbed with a 60% chance. Experience is "
@@ -459,11 +455,10 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=redeem 5
-#: For_Power/macros/redeem.cfg:52
+#: For_Power/macros/redeem.cfg:48
 msgid ""
-"Redeem:\n"
-"    The target of this attack is fully absorbed into the attacker's soul, a "
-"much better place than the world he was taken from. The attacker will grow "
+"The target of this attack is fully absorbed into the attacker's soul, a much "
+"better place than the world he was taken from. The attacker will grow "
 "stronger after a certain number of redeems. Targets bellow level 5 are "
 "absorbed with a 100% chance to succeed and level 5 targets are absorbed with "
 "a 80% chance. Experience is not gained."
@@ -471,22 +466,21 @@ msgstr ""
 
 #. [damage]: id=redeem 6
 #. [damage]: id=redeem 7
-#: For_Power/macros/redeem.cfg:61 For_Power/macros/redeem.cfg:70
+#: For_Power/macros/redeem.cfg:56 For_Power/macros/redeem.cfg:64
 msgid ""
-"Redeem:\n"
-"    The target of this attack is fully absorbed into the attacker's soul, a "
-"much better place than the world he was taken from. The attacker will grow "
+"The target of this attack is fully absorbed into the attacker's soul, a much "
+"better place than the world he was taken from. The attacker will grow "
 "stronger after a certain number of redeems. All targets are absorbed with a "
 "100% chance to succeed. Experience is not gained."
 msgstr ""
 
 #. [chance_to_hit]: id=focused
-#: For_Power/macros/redeem.cfg:396
+#: For_Power/macros/redeem.cfg:389
 msgid "focused"
 msgstr ""
 
 #. [chance_to_hit]: id=focused
-#: For_Power/macros/redeem.cfg:397
+#: For_Power/macros/redeem.cfg:390
 msgid ""
 "Focused:\n"
 "    This attack always has at least a 80% chance to hit."
@@ -11559,9 +11553,9 @@ msgstr ""
 #. [advancement]: id=staff3
 #. [advancement]: id=staff4
 #: For_Power/scenarios5/01_Banished_from_paradise.cfg:390
-#: For_Power/units/Blessed_Mage.cfg:131 For_Power/units/Blessed_Mage.cfg:313
-#: For_Power/units/Blessed_Mage.cfg:635 For_Power/units/Blessed_Mage.cfg:650
-#: For_Power/units/Blessed_Mage.cfg:698 For_Power/units/Clare_Lich.cfg:400
+#: For_Power/units/Blessed_Mage.cfg:131 For_Power/units/Blessed_Mage.cfg:312
+#: For_Power/units/Blessed_Mage.cfg:633 For_Power/units/Blessed_Mage.cfg:648
+#: For_Power/units/Blessed_Mage.cfg:696 For_Power/units/Clare_Lich.cfg:400
 #: For_Power/units/Clare_Lich.cfg:433 For_Power/units/Clare_Lich.cfg:466
 #: For_Power/units/Clare_Lich.cfg:496
 msgid "better with staff"
@@ -11574,9 +11568,9 @@ msgstr ""
 #. [advancement]: id=magic4
 #. [advancement]: id=magic5
 #: For_Power/scenarios5/01_Banished_from_paradise.cfg:404
-#: For_Power/units/Blessed_Mage.cfg:161 For_Power/units/Blessed_Mage.cfg:343
-#: For_Power/units/Blessed_Mage.cfg:729 For_Power/units/Blessed_Mage.cfg:759
-#: For_Power/units/Blessed_Mage.cfg:774 For_Power/units/Merissa_Lich.cfg:183
+#: For_Power/units/Blessed_Mage.cfg:161 For_Power/units/Blessed_Mage.cfg:342
+#: For_Power/units/Blessed_Mage.cfg:727 For_Power/units/Blessed_Mage.cfg:757
+#: For_Power/units/Blessed_Mage.cfg:772 For_Power/units/Merissa_Lich.cfg:183
 #: For_Power/units/Merissa_Lich.cfg:214
 #: For_Power/units/Tinry_Shadow_Prince.cfg:196
 #: For_Power/units/Tinry_Shadow_Prince.cfg:227
@@ -12316,7 +12310,7 @@ msgstr ""
 #. [advancement]: id=health1
 #. [advancement]: id=health2
 #: For_Power/units/Amiwen_Elvish_Seer.cfg:674
-#: For_Power/units/Blessed_Mage.cfg:849 For_Power/units/Blessed_Mage.cfg:863
+#: For_Power/units/Blessed_Mage.cfg:846 For_Power/units/Blessed_Mage.cfg:860
 #: For_Power/units/Merissa_Lich.cfg:289
 msgid "more healthy"
 msgstr ""
@@ -12343,50 +12337,48 @@ msgstr ""
 
 #. [regenerate]: id=regenerates_slightly
 #. [regenerate]: id=regenerates_slightly2
-#: For_Power/units/Blessed_Mage.cfg:301 For_Power/units/Blessed_Mage.cfg:420
-#: For_Power/units/Blessed_Mage.cfg:799
+#: For_Power/units/Blessed_Mage.cfg:301 For_Power/units/Blessed_Mage.cfg:419
+#: For_Power/units/Blessed_Mage.cfg:797
 msgid "regenerates slightly"
 msgstr ""
 
 #. [regenerate]: id=regenerates_slightly
 #. [regenerate]: id=regenerates_slightly2
-#: For_Power/units/Blessed_Mage.cfg:302 For_Power/units/Blessed_Mage.cfg:421
-#: For_Power/units/Blessed_Mage.cfg:800
+#: For_Power/units/Blessed_Mage.cfg:302 For_Power/units/Blessed_Mage.cfg:420
+#: For_Power/units/Blessed_Mage.cfg:798
 msgid "female^regenerates slightly"
 msgstr ""
 
 #. [regenerate]: id=regenerates_slightly
 #: For_Power/units/Blessed_Mage.cfg:303
 msgid ""
-"Regenerates slightly:\n"
 "The unit will heal itself 4 HP per turn. If it is poisoned, these two "
 "effects will negate themselves."
 msgstr ""
 
 #. [regenerate]: id=regenerates_slightly2
-#: For_Power/units/Blessed_Mage.cfg:422 For_Power/units/Blessed_Mage.cfg:801
+#: For_Power/units/Blessed_Mage.cfg:421 For_Power/units/Blessed_Mage.cfg:799
 msgid ""
-"Regenerates slightly:\n"
 "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
 
 #. [advancement]: id=staff1_marksman
 #. [advancement]: id=staff3_marksman
-#: For_Power/units/Blessed_Mage.cfg:665 For_Power/units/Clare_Lich.cfg:415
+#: For_Power/units/Blessed_Mage.cfg:663 For_Power/units/Clare_Lich.cfg:415
 msgid "more precise with staff"
 msgstr ""
 
 #. [advancement]: id=staff3_attacks
 #. [advancement]: id=staff4_attacks
-#: For_Power/units/Blessed_Mage.cfg:683 For_Power/units/Clare_Lich.cfg:481
+#: For_Power/units/Blessed_Mage.cfg:681 For_Power/units/Clare_Lich.cfg:481
 #: For_Power/units/Clare_Lich.cfg:511
 msgid "faster with staff"
 msgstr ""
 
 #. [advancement]: id=magic2
 #. [advancement]: id=magic3_speed
-#: For_Power/units/Blessed_Mage.cfg:713 For_Power/units/Blessed_Mage.cfg:744
+#: For_Power/units/Blessed_Mage.cfg:711 For_Power/units/Blessed_Mage.cfg:742
 #: For_Power/units/Merissa_Lich.cfg:198
 #: For_Power/units/Tinry_Shadow_Prince.cfg:211
 msgid "faster with magic"
@@ -12394,64 +12386,64 @@ msgstr ""
 
 #. [advancement]: id=regeneration
 #. [advancement]: id=regeneration1
-#: For_Power/units/Blessed_Mage.cfg:789 For_Power/units/Clare_Lich.cfg:898
+#: For_Power/units/Blessed_Mage.cfg:787 For_Power/units/Clare_Lich.cfg:898
 #: For_Power/units/Lemyr_Lich.cfg:770 For_Power/units/Lemyr_Paladin.cfg:593
 #: For_Power/units/Merissa_Lich.cfg:303
 msgid "regenerating 4 additional hitpoints per turn"
 msgstr ""
 
 #. [advancement]: id=regeneration2
-#: For_Power/units/Blessed_Mage.cfg:820
+#: For_Power/units/Blessed_Mage.cfg:817
 msgid "immune to poison, drain and plague"
 msgstr ""
 
 #. [advancement]: id=heal
-#: For_Power/units/Blessed_Mage.cfg:835
+#: For_Power/units/Blessed_Mage.cfg:832
 msgid "able to heal allies"
 msgstr ""
 
 #. [advancement]: id=path_of_light
-#: For_Power/units/Blessed_Mage.cfg:879
+#: For_Power/units/Blessed_Mage.cfg:876
 msgid "following the path of light"
 msgstr ""
 
 #. [advancement]: id=holy_magic
-#: For_Power/units/Blessed_Mage.cfg:905
+#: For_Power/units/Blessed_Mage.cfg:902
 msgid "user of holy magic (sets alignment to lawful)"
 msgstr ""
 
 #. [advancement]: id=shield
 #. [advancement]: id=shield2
-#: For_Power/units/Blessed_Mage.cfg:933 For_Power/units/Lemyr_Lich.cfg:1050
+#: For_Power/units/Blessed_Mage.cfg:930 For_Power/units/Lemyr_Lich.cfg:1050
 msgid "able to make allies resist damage better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=leadership
-#: For_Power/units/Blessed_Mage.cfg:965 For_Power/units/Lemyr_Lich.cfg:577
+#: For_Power/units/Blessed_Mage.cfg:962 For_Power/units/Lemyr_Lich.cfg:577
 #: For_Power/units/Lemyr_Paladin.cfg:400
 msgid "inspiring allies to fight better"
 msgstr ""
 
 #. [advancement]: id=leadership2
-#: For_Power/units/Blessed_Mage.cfg:997 For_Power/units/Lemyr_Lich.cfg:593
+#: For_Power/units/Blessed_Mage.cfg:994 For_Power/units/Lemyr_Lich.cfg:593
 #: For_Power/units/Lemyr_Paladin.cfg:416
 msgid "inspiring allies to fight much better"
 msgstr ""
 
 #. [advancement]: id=illumination
-#: For_Power/units/Blessed_Mage.cfg:1019 For_Power/units/Lemyr_Lich.cfg:653
+#: For_Power/units/Blessed_Mage.cfg:1016 For_Power/units/Lemyr_Lich.cfg:653
 #: For_Power/units/Lemyr_Paladin.cfg:476
 msgid "illuminating"
 msgstr ""
 
 #. [advancement]: id=illumination2
-#: For_Power/units/Blessed_Mage.cfg:1051 For_Power/units/Lemyr_Lich.cfg:669
+#: For_Power/units/Blessed_Mage.cfg:1048 For_Power/units/Lemyr_Lich.cfg:669
 #: For_Power/units/Lemyr_Paladin.cfg:492
 msgid "spreading aura of light"
 msgstr ""
 
 #. [advancement]: id=movement
-#: For_Power/units/Blessed_Mage.cfg:1087 For_Power/units/Clare_Lich.cfg:737
+#: For_Power/units/Blessed_Mage.cfg:1084 For_Power/units/Clare_Lich.cfg:737
 #: For_Power/units/Lemyr_Lich.cfg:723 For_Power/units/Lemyr_Paladin.cfg:546
 #: For_Power/units/Merissa_Lich.cfg:259
 #: For_Power/units/Tinry_Shadow_Prince.cfg:272
