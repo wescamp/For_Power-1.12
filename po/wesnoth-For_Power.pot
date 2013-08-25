@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-04 23:17+0200\n"
+"POT-Creation-Date: 2013-08-25 19:02-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -330,17 +330,17 @@ msgid "This attack is so strong that it slows the target, and creates a shock wa
 msgstr ""
 
 #. [trait]: id=blessed
-#: ./For_Power/macros/misc.cfg:19
+#: ./For_Power/macros/misc.cfg:27
 msgid "blessed"
 msgstr ""
 
 #. [trait]: id=blessed
-#: ./For_Power/macros/misc.cfg:20
+#: ./For_Power/macros/misc.cfg:28
 msgid "female^blessed"
 msgstr ""
 
 #. [trait]: id=blessed
-#: ./For_Power/macros/misc.cfg:21
+#: ./For_Power/macros/misc.cfg:29
 msgid "This unit is probably blessed by a god/goddess because it it is better than others of its kind."
 msgstr ""
 
@@ -677,7 +677,7 @@ msgstr ""
 #. [message]: speaker=Merissa
 #. [message]: speaker=necro
 #. [message]: speaker=unit
-#: ./For_Power/multiplayer/Seeking_evil.cfg:585 ./For_Power/scenarios/04_Return.cfg:381 ./For_Power/scenarios/05_A_Mage.cfg:116 ./For_Power/scenarios/14b_More_Power.cfg:64 ./For_Power/scenarios/17a_Conversation_with_the_earl.cfg:123 ./For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:191 ./For_Power/scenarios2/01_Return_of_troubles.cfg:295 ./For_Power/scenarios2/13b_The_Underground.cfg:328 ./For_Power/scenarios3/02_More_undeads.cfg:656 ./For_Power/scenarios4/05_Back_in_the_city.cfg:185 ./For_Power/scenarios4/11_Treasure_hunters.cfg:225 ./For_Power/scenarios5/03_Besieged.cfg:276
+#: ./For_Power/multiplayer/Seeking_evil.cfg:585 ./For_Power/scenarios/05_A_Mage.cfg:116 ./For_Power/scenarios/14b_More_Power.cfg:64 ./For_Power/scenarios/17a_Conversation_with_the_earl.cfg:123 ./For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:191 ./For_Power/scenarios2/01_Return_of_troubles.cfg:295 ./For_Power/scenarios2/13b_The_Underground.cfg:328 ./For_Power/scenarios3/02_More_undeads.cfg:656 ./For_Power/scenarios4/05_Back_in_the_city.cfg:185 ./For_Power/scenarios4/11_Treasure_hunters.cfg:224 ./For_Power/scenarios5/03_Besieged.cfg:276
 msgid "Thank you."
 msgstr ""
 
@@ -904,7 +904,7 @@ msgstr ""
 
 #. [message]: speaker=bandit
 #. [message]: speaker=unit
-#: ./For_Power/multiplayer/Seeking_evil.cfg:1014 ./For_Power/scenarios4/11_Treasure_hunters.cfg:157
+#: ./For_Power/multiplayer/Seeking_evil.cfg:1014 ./For_Power/scenarios4/11_Treasure_hunters.cfg:156
 msgid "I will say you nothing!"
 msgstr ""
 
@@ -1246,7 +1246,7 @@ msgstr ""
 
 #. [message]: speaker=Glacyn
 #. [message]: speaker=Lemyr
-#: ./For_Power/scenarios/01_Defend_the_village.cfg:221 ./For_Power/scenarios/04_Return.cfg:398 ./For_Power/scenarios/16a_Another_Orcish_Assault.cfg:300 ./For_Power/scenarios/18b_The_Truth.cfg:344
+#: ./For_Power/scenarios/01_Defend_the_village.cfg:221 ./For_Power/scenarios/16a_Another_Orcish_Assault.cfg:300 ./For_Power/scenarios/18b_The_Truth.cfg:344
 msgid "More orcs are comming. We are doomed."
 msgstr ""
 
@@ -1478,27 +1478,37 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios/04_Return.cfg:360
-msgid "Yes we did it. They will never think about attacking our village."
+msgid "We did it! After this day, I doubt they will ever dare to attack again."
 msgstr ""
 
 #. [message]: speaker=Glacyn
 #: ./For_Power/scenarios/04_Return.cfg:364
-msgid "Lot of thanks to our earl."
+msgid "Give my thanks to the Earl."
 msgstr ""
 
 #. [message]: speaker=Rheran
 #: ./For_Power/scenarios/04_Return.cfg:368
-msgid "I will tell him it, sergeant. Good bye."
+msgid "That I shall do, Sergeant. Farewell."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios/04_Return.cfg:377
-msgid "I am glad you returned Lemyr."
+msgid "I am glad that you have returned, Lemyr."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: ./For_Power/scenarios/04_Return.cfg:381
+msgid "And I am glad to be back."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios/04_Return.cfg:385
-msgid "Let us celebrate."
+msgid "We must give our dead a hero’s funeral. Then, we can celebrate our victory."
+msgstr ""
+
+#. [message]: speaker=Glacyn
+#: ./For_Power/scenarios/04_Return.cfg:398
+msgid "Look! Hundreds of Orcs are upon the horizon! Doom is upon us!"
 msgstr ""
 
 #. [scenario]: id=05_A_Mage
@@ -1513,7 +1523,7 @@ msgstr ""
 
 #. [side]
 #: ./For_Power/scenarios/05_A_Mage.cfg:66
-msgid "Assasin"
+msgid "Assassin"
 msgstr ""
 
 #. [side]: type=Arch Mage, id=Haldar
@@ -2546,7 +2556,7 @@ msgstr ""
 
 #. [message]: speaker=orc
 #: ./For_Power/scenarios/12_An_Orchish_Town.cfg:78
-msgid "Undeads? Destroy them, grunts!"
+msgid "Undead? Destroy them, grunts!"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2606,7 +2616,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios/12_An_Orchish_Town.cfg:184
-msgid "You may try it, foul orcs."
+msgid "You may try it, fool orcs."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -3230,8 +3240,8 @@ msgstr ""
 
 #. [message]: id=Clare
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios/16a_Another_Orcish_Assault.cfg:194 ./For_Power/scenarios2/04_Visiting_The_Earl.cfg:134
-msgid "But..."
+#: ./For_Power/scenarios/16a_Another_Orcish_Assault.cfg:194 ./For_Power/scenarios2/04_Visiting_The_Earl.cfg:134 ./For_Power/scenarios2/11_Back_in_Dwarven_Doors.cfg:161
+msgid "But ..."
 msgstr ""
 
 #. [message]: id=Merissa
@@ -3301,12 +3311,12 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: ./For_Power/scenarios/16b_Preserving.cfg:61
-msgid "You must die..."
+msgid "You must die ..."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios/16b_Preserving.cfg:65
-msgid "Yes, but..."
+msgid "Yes, but ..."
 msgstr ""
 
 #. [message]: speaker=Haldar
@@ -4172,7 +4182,7 @@ msgstr ""
 
 #. [part]
 #: ./For_Power/scenarios/Epilogue_a.cfg:49
-msgid "Clare and Lemyr lived peacefuly in their village and were happy. And nothing could break it."
+msgid "Clare and Lemyr lived peacefully in their village and were happy. And nothing could break it."
 msgstr ""
 
 #. [part]
@@ -4202,6 +4212,7 @@ msgid "Gaeril"
 msgstr ""
 
 #. [side]
+#. [side]: type=Dark Adept, id=adept
 #. [side]: type=Dark Sorcerer, id=Mal-Anil
 #. [side]: type=Dark Sorcerer, id=apprentice
 #. [side]: type=Dark Sorcerer, id=necro
@@ -4211,8 +4222,8 @@ msgstr ""
 #. [side]: type=Necromancer, id=necro1
 #. [side]: type=Necromancer, id=necro2
 #. [side]: type=Necromancer, id=necro3
-#: ./For_Power/scenarios2/01_Return_of_troubles.cfg:65 ./For_Power/scenarios2/03_More_Orcs.cfg:129 ./For_Power/scenarios2/07_West_Front.cfg:65 ./For_Power/scenarios2/07_West_Front.cfg:86 ./For_Power/scenarios2/07_West_Front.cfg:104 ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:70 ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:96 ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:115 ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:134 ./For_Power/scenarios3/01_End_of_peace.cfg:42 ./For_Power/scenarios3/02_More_undeads.cfg:59 ./For_Power/scenarios3/02_More_undeads.cfg:78 ./For_Power/scenarios3/12_At_home.cfg:34 ./For_Power/scenarios4/03_The_Swamp.cfg:41
-msgid "Undeads"
+#: ./For_Power/scenarios2/01_Return_of_troubles.cfg:65 ./For_Power/scenarios2/03_More_Orcs.cfg:129 ./For_Power/scenarios2/07_West_Front.cfg:65 ./For_Power/scenarios2/07_West_Front.cfg:86 ./For_Power/scenarios2/07_West_Front.cfg:104 ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:70 ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:96 ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:115 ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:134 ./For_Power/scenarios3/01_End_of_peace.cfg:42 ./For_Power/scenarios3/02_More_undeads.cfg:59 ./For_Power/scenarios3/02_More_undeads.cfg:78 ./For_Power/scenarios3/12_At_home.cfg:34 ./For_Power/scenarios4/03_The_Swamp.cfg:41 ./For_Power/scenarios4/08_Eastern_lands2.cfg:38 ./For_Power/scenarios4/08_Eastern_lands2.cfg:63 ./For_Power/scenarios4/08_Eastern_lands2.cfg:90 ./For_Power/scenarios4/08_Eastern_lands2.cfg:117 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:73 ./For_Power/scenarios5/02_Flight.cfg:42 ./For_Power/scenarios5/03_Besieged.cfg:43
+msgid "Undead"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Mal-Anil
@@ -4675,7 +4686,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios2/04_Visiting_The_Earl.cfg:126
-msgid "But sir..."
+msgid "But sir ..."
 msgstr ""
 
 #. [message]: speaker=earl
@@ -5507,7 +5518,7 @@ msgstr ""
 
 #. [message]: speaker=Ralenyth
 #: ./For_Power/scenarios2/07_West_Front.cfg:166
-msgid "What are you doing here? It isn't a good place for a maiden. We have to face undeads here!"
+msgid "What are you doing here? It isn't a good place for a maiden. We have to face undead here!"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -5528,7 +5539,7 @@ msgstr ""
 
 #. [message]: speaker=Ralenyth
 #: ./For_Power/scenarios2/07_West_Front.cfg:182
-msgid "Anyhow, thank you for arriving. With you our chances to defeat these undeads are much better."
+msgid "Anyhow, thank you for arriving. With you our chances to defeat these undead are much better."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -5547,9 +5558,10 @@ msgid "Without him we cannot hope to win this battle. All is lost."
 msgstr ""
 
 #. [message]: speaker=Clare
+#. [message]: speaker=Lemyr
 #. [message]: speaker=Ralenyth
-#: ./For_Power/scenarios2/07_West_Front.cfg:317 ./For_Power/scenarios3/12_At_home.cfg:200
-msgid "More undeads are coming. We are doomed."
+#: ./For_Power/scenarios2/07_West_Front.cfg:317 ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:455 ./For_Power/scenarios3/12_At_home.cfg:200 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:866 ./For_Power/scenarios5/02_Flight.cfg:242
+msgid "More undead are coming. We are doomed."
 msgstr ""
 
 #. [message]: speaker=lich
@@ -5649,7 +5661,7 @@ msgstr ""
 
 #. [message]: speaker=Ralenyth
 #: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:208
-msgid "You may be a powerful mage but can't understand military issues. Return to your camp and prepare your soldiers for next undeads's attack."
+msgid "You may be a powerful mage but can't understand military issues. Return to your camp and prepare your soldiers for next attack of the undead."
 msgstr ""
 
 #. [message]: type=Swordsman
@@ -5683,7 +5695,7 @@ msgid "Silence! Guards, arrest her!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:242 ./For_Power/scenarios3/02_More_undeads.cfg:485 ./For_Power/scenarios4/11_Treasure_hunters.cfg:479 ./For_Power/utils/chapter2.cfg:111 ./For_Power/utils2/deaths.cfg:95 ./For_Power/utils2/deaths.cfg:113 ./For_Power/utils2/deaths.cfg:131 ./For_Power/utils3/deaths.cfg:29 ./For_Power/utils3/deaths.cfg:47 ./For_Power/utils3/deaths.cfg:65 ./For_Power/utils4/deaths.cfg:47 ./For_Power/utils4/deaths.cfg:63 ./For_Power/utils5/deaths.cfg:43 ./For_Power/utils5/deaths.cfg:59
+#: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:242 ./For_Power/scenarios3/02_More_undeads.cfg:485 ./For_Power/scenarios4/11_Treasure_hunters.cfg:478 ./For_Power/utils/chapter2.cfg:111 ./For_Power/utils2/deaths.cfg:95 ./For_Power/utils2/deaths.cfg:113 ./For_Power/utils2/deaths.cfg:131 ./For_Power/utils3/deaths.cfg:29 ./For_Power/utils3/deaths.cfg:47 ./For_Power/utils3/deaths.cfg:65 ./For_Power/utils4/deaths.cfg:47 ./For_Power/utils4/deaths.cfg:63 ./For_Power/utils5/deaths.cfg:43 ./For_Power/utils5/deaths.cfg:59
 msgid "Noo!"
 msgstr ""
 
@@ -5714,7 +5726,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:332
-msgid "Next undeads? Fight them."
+msgid "Next undead? Fight them."
 msgstr ""
 
 #. [objective]: condition=win
@@ -5725,7 +5737,7 @@ msgstr ""
 
 #. [note]
 #: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:357
-msgid "You have gained 2 additional turns so you have to defeat undeads before the dawn."
+msgid "You have gained 2 additional turns so you have to defeat undead before the dawn."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -5751,12 +5763,6 @@ msgstr ""
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:442
 msgid "No. All is lost now."
-msgstr ""
-
-#. [message]: speaker=Clare
-#. [message]: speaker=Lemyr
-#: ./For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:455 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:866 ./For_Power/scenarios5/02_Flight.cfg:242
-msgid "More undead are coming. We are doomed."
 msgstr ""
 
 #. [scenario]: id=09_Return_to_Dwarven_Doors
@@ -5849,7 +5855,7 @@ msgstr ""
 
 #. [scenario]: id=10_Undeads_in_front_of_Dwarven_Doors, type=Dream_Walking_Corpse (side=2,3,4 canrecruit=no) 100 ()}, type=Dream_Soulless (side=2,3,4 canrecruit=no) 100 ()}, id=Clare (side=2,3,4 canrecruit=yes) 90 ()}
 #: ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:51
-msgid "Undeads in front of Dwarven Doors"
+msgid "Undead in front of Dwarven Doors"
 msgstr ""
 
 #. [objective]: condition=win
@@ -5864,7 +5870,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:211
-msgid "Undeads in front of Dwarven Doors? This is not good at all. What do you want here, necromancers?"
+msgid "Undead in front of Dwarven Doors? This is not good at all. What do you want here, necromancers?"
 msgstr ""
 
 #. [message]: speaker=necro1
@@ -5969,7 +5975,7 @@ msgstr ""
 
 #. [message]: speaker=Lemyr
 #: ./For_Power/scenarios2/11_Back_in_Dwarven_Doors.cfg:96
-msgid "It was only a nightmare. There were no undeads here at the night."
+msgid "It was only a nightmare. There were no undead here at the night."
 msgstr ""
 
 #. [message]: speaker=Merissa
@@ -6015,11 +6021,6 @@ msgstr ""
 #. [message]: speaker=protector
 #: ./For_Power/scenarios2/11_Back_in_Dwarven_Doors.cfg:157
 msgid "Save your words, witch. Guards, escort her to the prison with her friends. She will be executed in a month."
-msgstr ""
-
-#. [message]: speaker=Clare
-#: ./For_Power/scenarios2/11_Back_in_Dwarven_Doors.cfg:161
-msgid "But ..."
 msgstr ""
 
 #. [message]
@@ -6319,7 +6320,7 @@ msgstr ""
 
 #. [message]: speaker=Merissa
 #: ./For_Power/scenarios2/12_Escape_from_prison.cfg:429
-msgid "There are too many guards here. We need more undeads, Clare."
+msgid "There are too many guards here. We need more undead, Clare."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -6455,27 +6456,27 @@ msgid "I've been discovered!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:251
+#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:255
 msgid "Oh no, I have blown my cover!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:267
+#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:271
 msgid "I have escaped."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:281
+#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:285
 msgid "Ok we all have escaped."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:292
+#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:296
 msgid "Hurry up, friends."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:369
+#: ./For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:373
 msgid "The sun is rising and my spell is ceasing to work. We are revealed!"
 msgstr ""
 
@@ -6495,7 +6496,7 @@ msgid "Animals"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios2/13b_The_Underground.cfg:171 ./For_Power/scenarios3/07_Back_in_underground.cfg:378 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:366
+#: ./For_Power/scenarios2/13b_The_Underground.cfg:171 ./For_Power/scenarios3/07_Back_in_underground.cfg:378 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:367
 msgid "Escape"
 msgstr ""
 
@@ -6624,7 +6625,7 @@ msgstr ""
 #. [side]: type=Lich, id=Ravanal
 #. [side]: type=Necromancer, id=Mal-Ravanal
 #. [side]: type=Necromancer, id=necro
-#: ./For_Power/scenarios2/Epilogue.cfg:30 ./For_Power/scenarios2/Epilogue.cfg:34 ./For_Power/scenarios3/Epilogue.cfg:30 ./For_Power/scenarios3/Epilogue.cfg:34 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:5 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:39 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:43 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:59 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:90 ./For_Power/scenarios4/Epilogue.cfg:30 ./For_Power/scenarios4/Epilogue.cfg:34
+#: ./For_Power/scenarios2/Epilogue.cfg:30 ./For_Power/scenarios2/Epilogue.cfg:34 ./For_Power/scenarios3/Epilogue.cfg:30 ./For_Power/scenarios3/Epilogue.cfg:34 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:5 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:39 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:43 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:60 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:91 ./For_Power/scenarios4/Epilogue.cfg:30 ./For_Power/scenarios4/Epilogue.cfg:34
 msgid "Mal-Ravanal"
 msgstr ""
 
@@ -6750,7 +6751,7 @@ msgstr ""
 
 #. [scenario]: id=02_More_undeads
 #: ./For_Power/scenarios3/02_More_undeads.cfg:26
-msgid "More undeads"
+msgid "More undead"
 msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=apprentice
@@ -6854,7 +6855,7 @@ msgid "Death of Amiwen, Merrisa or Tinry"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios3/02_More_undeads.cfg:481 ./For_Power/scenarios4/11_Treasure_hunters.cfg:447 ./For_Power/utils2/deaths.cfg:91 ./For_Power/utils2/deaths.cfg:109 ./For_Power/utils3/deaths.cfg:25 ./For_Power/utils3/deaths.cfg:43 ./For_Power/utils4/deaths.cfg:27 ./For_Power/utils4/deaths.cfg:43 ./For_Power/utils5/deaths.cfg:23 ./For_Power/utils5/deaths.cfg:39
+#: ./For_Power/scenarios3/02_More_undeads.cfg:481 ./For_Power/scenarios4/11_Treasure_hunters.cfg:446 ./For_Power/utils2/deaths.cfg:91 ./For_Power/utils2/deaths.cfg:109 ./For_Power/utils3/deaths.cfg:25 ./For_Power/utils3/deaths.cfg:43 ./For_Power/utils4/deaths.cfg:27 ./For_Power/utils4/deaths.cfg:43 ./For_Power/utils5/deaths.cfg:23 ./For_Power/utils5/deaths.cfg:39
 msgid "Farewell, Clare."
 msgstr ""
 
@@ -6977,12 +6978,12 @@ msgstr ""
 
 #. [message]: speaker=Ravanal
 #: ./For_Power/scenarios3/03_Meeting_with_Ravanal.cfg:120
-msgid "He is not very known but do not interupt me. So a few weeks ago undeads started to appear there. Only in small numbers but later they attacked near earldoms. I think that they attacked you as well."
+msgid "He is not very known but do not interupt me. So a few weeks ago undead started to appear there. Only in small numbers but later they attacked near earldoms. I think that they attacked you as well."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios3/03_Meeting_with_Ravanal.cfg:124
-msgid "Yes I encountered some undeads but a woman led them. But later they got reinforcements. They outnumbered us, but later, they left."
+msgid "Yes I encountered some undead but a woman led them. But later they got reinforcements. They outnumbered us, but later, they left."
 msgstr ""
 
 #. [message]: speaker=Ravanal
@@ -7006,7 +7007,7 @@ msgid "Reach the signpost with Clare or Ravanal "
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./For_Power/scenarios3/04_Orcs_region.cfg:96 ./For_Power/scenarios3/05_Dealing_with_trolls.cfg:93 ./For_Power/scenarios3/09_To_Morbivords_Castle.cfg:61 ./For_Power/scenarios3/10_Final_Confrontation.cfg:331 ./For_Power/scenarios3/10_Final_Confrontation.cfg:508 ./For_Power/scenarios3/10_Final_Confrontation.cfg:614 ./For_Power/scenarios3/11_On_the_way_back.cfg:124 ./For_Power/scenarios3/12_At_home.cfg:61 ./For_Power/scenarios4/01_Searching_adventures.cfg:148 ./For_Power/scenarios4/02_Bandits.cfg:94 ./For_Power/scenarios4/03_The_Swamp.cfg:68 ./For_Power/scenarios4/04_Possessed_people.cfg:64 ./For_Power/scenarios4/06_The_Saurians.cfg:90 ./For_Power/scenarios4/06_The_Saurians.cfg:239 ./For_Power/scenarios4/06_The_Saurians.cfg:295 ./For_Power/scenarios4/07_Eastern_lands.cfg:91 ./For_Power/scenarios4/08_Eastern_lands2.cfg:239 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:116 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:370 ./For_Power/scenarios4/10_Escape_from_eastern_lands.cfg:121 ./For_Power/scenarios4/11_Treasure_hunters.cfg:98 ./For_Power/scenarios4/11_Treasure_hunters.cfg:238 ./For_Power/scenarios4/11_Treasure_hunters.cfg:362 ./For_Power/scenarios4/13_New_home.cfg:150 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:101 ./For_Power/scenarios5/02_Flight.cfg:98 ./For_Power/scenarios5/03_Besieged.cfg:144 ./For_Power/scenarios5/04_March_to_the_East.cfg:116
+#: ./For_Power/scenarios3/04_Orcs_region.cfg:96 ./For_Power/scenarios3/05_Dealing_with_trolls.cfg:93 ./For_Power/scenarios3/09_To_Morbivords_Castle.cfg:61 ./For_Power/scenarios3/10_Final_Confrontation.cfg:331 ./For_Power/scenarios3/10_Final_Confrontation.cfg:516 ./For_Power/scenarios3/10_Final_Confrontation.cfg:622 ./For_Power/scenarios3/11_On_the_way_back.cfg:124 ./For_Power/scenarios3/12_At_home.cfg:61 ./For_Power/scenarios4/01_Searching_adventures.cfg:148 ./For_Power/scenarios4/02_Bandits.cfg:94 ./For_Power/scenarios4/03_The_Swamp.cfg:68 ./For_Power/scenarios4/04_Possessed_people.cfg:64 ./For_Power/scenarios4/06_The_Saurians.cfg:90 ./For_Power/scenarios4/06_The_Saurians.cfg:239 ./For_Power/scenarios4/06_The_Saurians.cfg:295 ./For_Power/scenarios4/07_Eastern_lands.cfg:91 ./For_Power/scenarios4/08_Eastern_lands2.cfg:239 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:117 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:371 ./For_Power/scenarios4/10_Escape_from_eastern_lands.cfg:121 ./For_Power/scenarios4/11_Treasure_hunters.cfg:98 ./For_Power/scenarios4/11_Treasure_hunters.cfg:237 ./For_Power/scenarios4/11_Treasure_hunters.cfg:361 ./For_Power/scenarios4/13_New_home.cfg:150 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:101 ./For_Power/scenarios5/02_Flight.cfg:98 ./For_Power/scenarios5/03_Besieged.cfg:144 ./For_Power/scenarios5/04_March_to_the_East.cfg:116
 msgid "Destruction of Clare, Merrisa or Lemyr"
 msgstr ""
 
@@ -7067,7 +7068,7 @@ msgid "Well we made it. Let us continue our march."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios3/04_Orcs_region.cfg:218 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:401
+#: ./For_Power/scenarios3/04_Orcs_region.cfg:218 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:402
 msgid "Follow me, everyone."
 msgstr ""
 
@@ -7431,7 +7432,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios3/07_Back_in_underground.cfg:503
-msgid "I can see more undeads coming from the surface. I am doomed."
+msgid "I can see more undead coming from the surface. I am doomed."
 msgstr ""
 
 #. [scenario]: id=08_The_Elves
@@ -7796,7 +7797,7 @@ msgid "I can hear more humans coming. The ground is shaking under weight of thei
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios3/09_To_Morbivords_Castle.cfg:203 ./For_Power/scenarios3/10_Final_Confrontation.cfg:531 ./For_Power/utils3/deaths.cfg:93
+#: ./For_Power/scenarios3/09_To_Morbivords_Castle.cfg:203 ./For_Power/scenarios3/10_Final_Confrontation.cfg:539 ./For_Power/utils3/deaths.cfg:93
 msgid "No. This is impossible!"
 msgstr ""
 
@@ -7851,13 +7852,18 @@ msgid "Why do you want Wesnothian kingdom to fell? In the chaos that would have 
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:413 ./For_Power/scenarios3/10_Final_Confrontation.cfg:421
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:413
 msgid "Millions of lives, yes. But there are worse possibilities. Its prolonged glory is causing their mages to become overly wise, learning things nobody should learn. Magical academies must be interrupted in their studies from time to time, or they will unintentionally cause more evil than a global war."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:417
 msgid "So you think that what you know is not anyone else allowed to learn? Do you want keep you in the position of the most powerful this way?"
+msgstr ""
+
+#. [message]: speaker=Lethalia
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:421
+msgid "No. I love the power I have, but it also brings responsibility. I have already done great failures, failures whose scale you cannot even comprehend. And one of its results is a doomsday prophecy. The Empire will cherish, growing into unimaginable heights, but at one point, they will learn how to change the world forever. Imagine what will be the first thing they will choose to do."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -7867,146 +7873,156 @@ msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:429
-msgid "Yes. It has its odd sites. The world will become too hot to live in. Rivers will dry out and the whole land will turn into a desert. The evil will have a hard time, but also the good will have problems. There are animals to hunt in deserts, but crops will not grow there. An advantage to orcs. Countless men will die, and that will be an advantage for undead. Magic colleges will disintegrate, and random people will learn their secrets, accidentally summoning demons."
+msgid "Immortality without using necromancy can be obtained only by demonology, that is an evil of a whole new level. But these mages are experimenting with it already. But they are aware of its dangers, so we can hope that they will be as cautious as they want to be. But they will attempt to destroy all evil. By making this world unsuitable for evil creatures, who are, almost globally, nocturnal. They will try to banish the night. By creating a new sun, or even more of them."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:433
-msgid "They would not do such a fooling thing."
+msgid "And this is bad?"
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:437
-msgid "Wizards understand the ways of magic, but not the ways of nature. Intense heat will wither the land, but they think it would make it possible to harvest twice per year. Sunlight makes you feel warm and good, but it can burn your skin."
+msgid "Yes. It has its odd sites. The world will become too hot to live in. Rivers will dry out and the whole land will turn into a desert. The evil will have a hard time, but also the good will have problems. There are animals to hunt in deserts, but crops will not grow there. An advantage to orcs. Countless men will die, and that will be an advantage for undead. Magic colleges will disintegrate, and random people will learn their secrets, accidentally summoning demons."
 msgstr ""
 
-#. [message]: speaker=Lemyr
+#. [message]: speaker=Clare
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:441
-msgid "Nice story, master bard. But it is too incredible."
+msgid "They would not do such a fooling thing."
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:445
-msgid "Wizards would also fail to believe the full consequence of the creation of another sun. The creation of the second sun is foretold by a prophecy, it will happen, sooner or later. And I want it to become as late as possible. Because there are worse prophecies about things to come after that. Propagation of demonology. Worshipping demons. And then there is Götterdämmerung, the final event, when the demons will roam the land freely, flames and smoke will block the sun, bringing an endless winter, interrupted only by frequent volcanic activity."
+msgid "Wizards understand the ways of magic, but not the ways of nature. Intense heat will wither the land, but they think it would make it possible to harvest twice per year. Sunlight makes you feel warm and good, but it can burn your skin."
 msgstr ""
 
-#. [message]: speaker=Clare
+#. [message]: speaker=Lemyr
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:449
-msgid "You are trying to intimidate us. It is quite clear to me that either cooperate with Ravanal, or he is just a pawn in your plan to destroy all civilization."
+msgid "Nice story, master bard. But it is too incredible."
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:453
-msgid "It has to be destroyed! It is growing way too strong!"
+msgid "Wizards would also fail to believe the full consequence of the creation of another sun. The creation of the second sun is foretold by a prophecy, it will happen, sooner or later. And I want it to become as late as possible. Because there are worse prophecies about things to come after that. Propagation of demonology. Worshipping demons. And then there is Götterdämmerung, the final event, when the demons will roam the land freely, flames and smoke will block the sun, bringing an endless winter, interrupted only by frequent volcanic activity."
 msgstr ""
 
 #. [message]: speaker=Clare
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:457
-msgid "It is only based on lies, which you told previously."
+msgid "You are trying to intimidate us. It is quite clear to me that either cooperate with Ravanal, or he is just a pawn in your plan to destroy all civilization."
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:461
-msgid "Listen. I know that you are preserved liches. I am one of the two original ones. I have not taught it to anybody, but some of our soldiers must have learned from us too much. And passed the knowledge to you. But still, there is only a few beings of our kin. We must stick together. I was similar to you, Clare, and I was forced into lichdom by bad conditions of the world as well. I had no choice. I figured out a way to become a preserved lich with my friend, when we were trying to avoid the negative sides of being a lich. As the centuries passed, I have grown very wise, and aware of the dangers that lie ahead."
+msgid "It has to be destroyed! It is growing way too strong!"
 msgstr ""
 
-#. [message]: speaker=Lemyr
+#. [message]: speaker=Clare
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:465
-msgid "Over the centuries your power have just corrupted you. You have prepared treats that compel people to follow you. But we will not be tricked. We know how crowd manipulation works."
+msgid "It is only based on lies, which you told previously."
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:469
-msgid "If you choose to fight me, you will not leave me a choice. I do not want to kill you because you are like me, but you might force me to do it. And, by the way, I was aware of the possibility that you would not believe the person who saved you from a load of superstitious elves, so I chose this place to start talking about it. Excellent place to fight a strong adversary, right?"
+msgid "Listen. I know that you are preserved liches. I am one of the two original ones. I have not taught it to anybody, but some of our soldiers must have learned from us too much. And passed the knowledge to you. But still, there is only a few beings of our kin. We must stick together. I was similar to you, Clare, and I was forced into lichdom by bad conditions of the world as well. I had no choice. I figured out a way to become a preserved lich with my friend, when we were trying to avoid the negative sides of being a lich. As the centuries passed, I have grown very wise, and aware of the dangers that lie ahead."
 msgstr ""
 
-#. [message]: speaker=Clare
+#. [message]: speaker=Lemyr
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:473
-msgid "You will not intimidate us. We have superiority in numbers, for example. Two of us are able to cope with you."
+msgid "Over the centuries your power have just corrupted you. You have prepared treats that compel people to follow you. But we will not be tricked. We know how crowd manipulation works."
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:477
-msgid "I am offering you a truce. I will stop this undead threat by diplomacy and intimidation, and walk my own way, and you would leave. I do not want to fight you."
+msgid "If you choose to fight me, you will not leave me a choice. I do not want to kill you because you are like me, but you might force me to do it. And, by the way, I was aware of the possibility that you would not believe the person who saved you from a load of superstitious elves, so I chose this place to start talking about it. Excellent place to fight a strong adversary, right?"
 msgstr ""
 
-#. [message]: speaker=Lemyr
+#. [message]: speaker=Clare
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:481
-msgid "I can not imagine that such evil walks this world for centuries, and no one stopped her yet. We will make legendary acts ... Prepare for death monster."
+msgid "You will not intimidate us. We have superiority in numbers, for example. Two of us are able to cope with you."
 msgstr ""
 
 #. [message]: speaker=Lethalia
 #: ./For_Power/scenarios3/10_Final_Confrontation.cfg:485
+msgid "I am offering you a truce. I will stop this undead threat by diplomacy and intimidation, and walk my own way, and you would leave. I do not want to fight you."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:489
+msgid "I can not imagine that such evil walks this world for centuries, and no one stopped her yet. We will make legendary acts ... Prepare for death monster."
+msgstr ""
+
+#. [message]: speaker=Lethalia
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:493
 msgid "You are not giving me a choice. I am serious now. Go away, or you will suffer the consequences."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:489
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:497
 msgid "This can scare small children, but not us. On her!"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:504
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:512
 msgid "Destroy Lethalia"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:512 ./For_Power/scenarios3/10_Final_Confrontation.cfg:618 ./For_Power/scenarios3/11_On_the_way_back.cfg:128 ./For_Power/scenarios3/12_At_home.cfg:65
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:520 ./For_Power/scenarios3/10_Final_Confrontation.cfg:626 ./For_Power/scenarios3/11_On_the_way_back.cfg:128 ./For_Power/scenarios3/12_At_home.cfg:65
 msgid "Death of Amiwen or Tinry"
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:586
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:594
 msgid "I am surprised... You are stronger than I thought. But I was prepared for this possibility as well. Goodbye. (teleporting away)"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:598
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:606
 msgid "I can feel that Morbivord and his wife are very close. On them."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:610
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:618
 msgid "Find and kill Morbivord and his wife"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:696
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:704
 msgid "You are the next, witch."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:721
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:729
 msgid "You are the next, earl."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:738
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:746
 msgid "It is done. But where is Ravanal?"
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:742
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:750
 msgid "I saw that Lethalia took him away with her."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:746
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:754
 msgid "I worry that he will cause troubles again but we can do nothing with it at this moment. Let us go back home."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:760
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:768
 msgid "Their spell works perfectly. We will never find them."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:774
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:782
 msgid "She is too strong. We will never kill her."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:788
+#: ./For_Power/scenarios3/10_Final_Confrontation.cfg:796
 msgid "They are too strong. We will never defeat them."
 msgstr ""
 
@@ -8887,7 +8903,7 @@ msgid "Cross over the swamp"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./For_Power/scenarios4/06_The_Saurians.cfg:94 ./For_Power/scenarios4/06_The_Saurians.cfg:243 ./For_Power/scenarios4/06_The_Saurians.cfg:299 ./For_Power/scenarios4/07_Eastern_lands.cfg:95 ./For_Power/scenarios4/08_Eastern_lands2.cfg:243 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:120 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:374 ./For_Power/scenarios4/10_Escape_from_eastern_lands.cfg:125 ./For_Power/scenarios4/11_Treasure_hunters.cfg:102 ./For_Power/scenarios4/11_Treasure_hunters.cfg:242 ./For_Power/scenarios5/02_Flight.cfg:102 ./For_Power/scenarios5/04_March_to_the_East.cfg:120
+#: ./For_Power/scenarios4/06_The_Saurians.cfg:94 ./For_Power/scenarios4/06_The_Saurians.cfg:243 ./For_Power/scenarios4/06_The_Saurians.cfg:299 ./For_Power/scenarios4/07_Eastern_lands.cfg:95 ./For_Power/scenarios4/08_Eastern_lands2.cfg:243 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:121 ./For_Power/scenarios4/09_Mal_Ravanal.cfg:375 ./For_Power/scenarios4/10_Escape_from_eastern_lands.cfg:125 ./For_Power/scenarios4/11_Treasure_hunters.cfg:102 ./For_Power/scenarios4/11_Treasure_hunters.cfg:241 ./For_Power/scenarios5/02_Flight.cfg:102 ./For_Power/scenarios5/04_March_to_the_East.cfg:120
 msgid "Death of Jolla or Amiwen"
 msgstr ""
 
@@ -9115,15 +9131,6 @@ msgstr ""
 msgid "Eastern lands 2"
 msgstr ""
 
-#. [side]
-#. [side]: type=Dark Adept, id=adept
-#. [side]: type=Necromancer, id=necro1
-#. [side]: type=Necromancer, id=necro2
-#. [side]: type=Necromancer, id=necro3
-#: ./For_Power/scenarios4/08_Eastern_lands2.cfg:38 ./For_Power/scenarios4/08_Eastern_lands2.cfg:63 ./For_Power/scenarios4/08_Eastern_lands2.cfg:90 ./For_Power/scenarios4/08_Eastern_lands2.cfg:117 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:73 ./For_Power/scenarios5/02_Flight.cfg:42 ./For_Power/scenarios5/03_Besieged.cfg:43
-msgid "Undead"
-msgstr ""
-
 #. [message]: speaker=narrator
 #: ./For_Power/scenarios4/08_Eastern_lands2.cfg:167
 msgid "$unit.name finds a pretty sword. Should he pick it up?"
@@ -9205,62 +9212,62 @@ msgid "I can sense that he is very close. To the north there is a cave and here 
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:112
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:113
 msgid "Destroy Mal-Ravanal"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:166
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:167
 msgid "Here is he!"
 msgstr ""
 
 #. [message]: speaker=Ravanal
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:170
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:171
 msgid "So you managed to kill my servants? Incredible. But whatever you want to achieve your path is ending here and now."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:174
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:175
 msgid "We came to destroy you once and for all, Ravanal. You will not cause problems anymore."
 msgstr ""
 
 #. [message]: speaker=Ravanal
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:178
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:179
 msgid "My name is Mal-Ravanal now but never mind. You can never defeat me so leave."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:182
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:183
 msgid "Never! On him!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:193
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:194
 msgid "I apologize, master. They are too powerful."
 msgstr ""
 
 #. [message]: speaker=death_knight
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:320
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:321
 msgid "I arrived as you ordered, master."
 msgstr ""
 
 #. [message]: speaker=Ravanal
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:324
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:325
 msgid "Excellent! Now I can send these intruders where they belong. Smash them all!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:361
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:362
 msgid "Oh no! We have no hope to defeat him now. We have to run for our lives."
 msgstr ""
 
 #. [message]: speaker=Ravanal
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:417
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:418
 msgid "It is impossible! My best servant ..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:421
+#: ./For_Power/scenarios4/09_Mal_Ravanal.cfg:422
 msgid "Calm down, master. I will take them with me."
 msgstr ""
 
@@ -9390,243 +9397,243 @@ msgid "Find Tinry"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:125
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:124
 msgid "So where is Tinry?"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:129
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:128
 msgid "A few moments ago I should swear he is close but now ... I can't feel him, like he's already ..."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:133
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:132
 msgid "Do not even think about it! I am pretty sure that he is still alive. The hope is dying as the last, you know. Until we find his dead body there is still a chance here that he is alive."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:137
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:136
 msgid "Thanks. You are probably right. Ok, let's search for him."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:144
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:143
 msgid "I can see some bandits!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:153
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:152
 msgid "Maybe they know where Tinry could be."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:166
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:165
 msgid "Ha, I recognize you, Mugwyn! You had some conflicts with Tinry. Tell me where he is. I learned to use magic so I can cause you a lot of pain and heal you at the same time until you tell me what I want to know!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:170
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:169
 msgid "(whispers) Calm down, Merissa. What is wrong with you?"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:174
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:173
 msgid "(whispers) He was always as my younger brother. Well maybe I wasn't so nice to him but in fact I liked him very much and I can't let anyone to harm him."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:178
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:177
 msgid "(whispers) I had no idea ..."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:182
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:181
 msgid "So do you like pain, Mugwyn? Or will you speak?"
 msgstr ""
 
 #. [message]: speaker=bandit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:186
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:185
 msgid "Well, I like pain but only if I can cause it. So I will speak. Well, I knew he wanted to make a treasure hunt so I got a false map to him. When he came here, my boys were already awaiting him."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:190
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:189
 msgid "You, scum! You, garbage! You killed him! I swear I will send you to the hell!"
 msgstr ""
 
 #. [message]: speaker=bandit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:194
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:193
 msgid "Why should I kill him? I enjoy watching him suffering."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:198
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:197
 msgid "So where is he? Tell me!"
 msgstr ""
 
 #. [message]: speaker=bandit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:202
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:201
 msgid "To the west from here, in mountains. But you won't save him. Kill them all, boys!"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:217
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:216
 msgid "What a trap. And even I can't escape."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:221
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:220
 msgid "Go to look for him. We will stop them."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:230 ./For_Power/scenarios4/11_Treasure_hunters.cfg:358
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:229 ./For_Power/scenarios4/11_Treasure_hunters.cfg:357
 msgid "Kill Mugwyn"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:234
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:233
 msgid "and find Tinry with Merissa"
 msgstr ""
 
 #. [message]
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:259
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:258
 msgid "No! It can't end this way!"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:263
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:262
 msgid "And how else would it end, huh?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:292
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:291
 msgid "It was a hard battle but we won. Anyhow we still have to find Tinry."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:297
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:296
 msgid "Find Tinry with Merissa"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:324
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:323
 msgid "Here you are, brother. Do you have an idea how much worried was I?! I swear ..."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:328
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:327
 msgid "Still the same you are, sister. Nice to know some things won't change, ha ha."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:332
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:331
 msgid "I am just kidding you. I am happy to see you are ... all right. Come to me. I want to huge you."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:336
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:335
 msgid "Are you sure? You never did it."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:340
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:339
 msgid "As I never was."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:349
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:348
 msgid "I am sorry for ruining your happy moment but we still have some fighting here. Do you mind helping us?"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:353
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:352
 msgid "I am coming to you, Mugwyn. You will pay!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:366 ./For_Power/scenarios4/13_New_home.cfg:154 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:105
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:365 ./For_Power/scenarios4/13_New_home.cfg:154 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:105
 msgid "Death of Jolla, Amiwen or Tinry"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:379
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:378
 msgid "What a nice moment. But will you mind returning to home?"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:383
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:382
 msgid "Of course no."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:399
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:398
 msgid "And you know what? I wanted to make a treasure hunt but forgot I already had the greatest treasure, you guys. You are the best friends I ever hope to have. What a fool I was."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:403
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:402
 msgid "(smiling) you are absolutely right."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:407
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:406
 msgid "(giggling) yes, yes."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:415
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:414
 msgid "It's hopeless. He's lying on some horrible place dead. I am pretty sure about it."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:431 ./For_Power/utils4/deaths.cfg:11
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:430 ./For_Power/utils4/deaths.cfg:11
 msgid "So it was my last adventure."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:435 ./For_Power/utils4/deaths.cfg:15
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:434 ./For_Power/utils4/deaths.cfg:15
 msgid "Mom! No!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:451 ./For_Power/utils4/deaths.cfg:31 ./For_Power/utils5/deaths.cfg:27
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:450 ./For_Power/utils4/deaths.cfg:31 ./For_Power/utils5/deaths.cfg:27
 msgid "No! It was hard to lose you for first time but now it is permanent. I cannot exist without you!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:463
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:462
 msgid "I don't have time for this!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:475 ./For_Power/utils2/deaths.cfg:127 ./For_Power/utils3/deaths.cfg:61 ./For_Power/utils4/deaths.cfg:59 ./For_Power/utils5/deaths.cfg:55
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:474 ./For_Power/utils2/deaths.cfg:127 ./For_Power/utils3/deaths.cfg:61 ./For_Power/utils4/deaths.cfg:59 ./For_Power/utils5/deaths.cfg:55
 msgid "I return to the Earth. Farewell, Clare."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:491 ./For_Power/utils4/deaths.cfg:75 ./For_Power/utils5/deaths.cfg:71
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:490 ./For_Power/utils4/deaths.cfg:75 ./For_Power/utils5/deaths.cfg:71
 msgid "I am not feeling very well. What is wrong with me, mom?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:495 ./For_Power/utils4/deaths.cfg:79 ./For_Power/utils5/deaths.cfg:75
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:494 ./For_Power/utils4/deaths.cfg:79 ./For_Power/utils5/deaths.cfg:75
 msgid "Nothing. You are just tired. Close your eyes and rest for a while."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:499 ./For_Power/utils4/deaths.cfg:83 ./For_Power/utils5/deaths.cfg:79
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:498 ./For_Power/utils4/deaths.cfg:83 ./For_Power/utils5/deaths.cfg:79
 msgid "As you say, mom."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:510 ./For_Power/utils4/deaths.cfg:94 ./For_Power/utils5/deaths.cfg:90
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:509 ./For_Power/utils4/deaths.cfg:94 ./For_Power/utils5/deaths.cfg:90
 msgid "No! I cannot continue without her!"
 msgstr ""
 
 #. [message]
 #. [message]: speaker=Merissa
-#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:522 ./For_Power/scenarios4/13_New_home.cfg:317 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:857
+#: ./For_Power/scenarios4/11_Treasure_hunters.cfg:521 ./For_Power/scenarios4/13_New_home.cfg:317 ./For_Power/scenarios5/01_Banished_from_paradise.cfg:857
 msgid "Brother! No!"
 msgstr ""
 
@@ -10338,7 +10345,7 @@ msgstr ""
 
 #. [message]: speaker=cleric
 #: ./For_Power/scenarios5/03_Besieged.cfg:423
-msgid "You will help you with your noble quest."
+msgid "I will help you with your noble quest."
 msgstr ""
 
 #. [message]: speaker=mayor
@@ -10530,12 +10537,12 @@ msgstr ""
 
 #. [advancement]: id=woods
 #: ./For_Power/units/Amiwen_Elvish_Seer.cfg:632
-msgid "more attuned to the woods"
+msgid "female^more attuned to the woods"
 msgstr ""
 
 #. [advancement]: id=armour
 #: ./For_Power/units/Amiwen_Elvish_Seer.cfg:655
-msgid "better protected from magical attacks (2% better resistances)"
+msgid "female^better protected from magical attacks (2% better resistances)"
 msgstr ""
 
 #. [advancement]: id=health
@@ -10547,7 +10554,7 @@ msgstr ""
 
 #. [advancement]: id=heal2
 #: ./For_Power/units/Amiwen_Elvish_Seer.cfg:689
-msgid "able to heal allies better"
+msgid "female^able to heal allies better"
 msgstr ""
 
 #. [regenerate]: id=slowing_poison
@@ -10618,7 +10625,7 @@ msgstr ""
 
 #. [advancement]: id=heal
 #: ./For_Power/units/Blessed_Mage.cfg:832
-msgid "able to heal allies"
+msgid "female^able to heal allies"
 msgstr ""
 
 #. [advancement]: id=path_of_light
@@ -10628,13 +10635,12 @@ msgstr ""
 
 #. [advancement]: id=holy_magic
 #: ./For_Power/units/Blessed_Mage.cfg:902
-msgid "user of holy magic (sets alignment to lawful)"
+msgid "female^user of holy magic (sets alignment to lawful)"
 msgstr ""
 
 #. [advancement]: id=shield
-#. [advancement]: id=shield2
-#: ./For_Power/units/Blessed_Mage.cfg:930 ./For_Power/units/Lemyr_Lich.cfg:1050
-msgid "able to make allies resist damage better (20% to resistances)"
+#: ./For_Power/units/Blessed_Mage.cfg:930
+msgid "female^able to make allies resist damage better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=leadership
@@ -10701,7 +10707,7 @@ msgstr ""
 
 #. [advancement]: id=entangle1
 #: ./For_Power/units/Clare_Lich.cfg:637
-msgid "able to entangle enemies"
+msgid "female^able to entangle enemies"
 msgstr ""
 
 #. [advancement]: id=entangle2
@@ -10723,32 +10729,32 @@ msgstr ""
 
 #. [advancement]: id=armour
 #: ./For_Power/units/Clare_Lich.cfg:781
-msgid "better protected from magical attacks (2 or 3% better resistances)"
+msgid "female^better protected from magical attacks (2 or 3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=possessed
 #: ./For_Power/units/Clare_Lich.cfg:800
-msgid "possessed by death (more hitpoints but worse arcane resistance)"
+msgid "female^possessed by death (more hitpoints but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=drain
 #: ./For_Power/units/Clare_Lich.cfg:821
-msgid "able to drain life force from living enemies (but worse arcane resistance)"
+msgid "female^able to drain life force from living enemies (but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=cold
 #: ./For_Power/units/Clare_Lich.cfg:847
-msgid "cold-hearted (better cold resistance)"
+msgid "female^cold-hearted (better cold resistance)"
 msgstr ""
 
 #. [advancement]: id=cold1
 #: ./For_Power/units/Clare_Lich.cfg:864
-msgid "more cold-hearted (better cold resistance)"
+msgid "female^more cold-hearted (better cold resistance)"
 msgstr ""
 
 #. [advancement]: id=fire
 #: ./For_Power/units/Clare_Lich.cfg:881
-msgid "better protected from fire"
+msgid "female^better protected from fire"
 msgstr ""
 
 #. [advancement]: id=regeneration1
@@ -10759,27 +10765,27 @@ msgstr ""
 
 #. [advancement]: id=darkness
 #: ./For_Power/units/Clare_Lich.cfg:942
-msgid "connected with darkness (spread despair but worse arcane resistance)"
+msgid "female^connected with darkness (spread despair but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=darkness1
 #: ./For_Power/units/Clare_Lich.cfg:965
-msgid "more connected with darkness (spread even greater despair and invisible during the night but worse arcane resistance)"
+msgid "female^more connected with darkness (spread even greater despair and invisible during the night but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=shadowwave1
 #: ./For_Power/units/Clare_Lich.cfg:1000
-msgid "able to cast shadow wave"
+msgid "female^able to cast shadow wave"
 msgstr ""
 
 #. [advancement]: id=shadowwave2
 #: ./For_Power/units/Clare_Lich.cfg:1023
-msgid "casting shadow wave faster"
+msgid "female^casting shadow wave faster"
 msgstr ""
 
 #. [advancement]: id=shadowwave3
 #: ./For_Power/units/Clare_Lich.cfg:1038
-msgid "casting shadow wave better"
+msgid "female^casting shadow wave better"
 msgstr ""
 
 #. [advancement]: id=regeneration2
@@ -10790,7 +10796,7 @@ msgstr ""
 
 #. [advancement]: id=movement3
 #: ./For_Power/units/Clare_Lich.cfg:1097
-msgid "able to muster enough mental powers to levitate through hard terrains"
+msgid "female^able to muster enough mental powers to levitate through hard terrains"
 msgstr ""
 
 #. [advancement]: id=conviction
@@ -10911,6 +10917,11 @@ msgstr ""
 msgid "able to make allies resist damage better (15% to resistances)"
 msgstr ""
 
+#. [advancement]: id=shield2
+#: ./For_Power/units/Lemyr_Lich.cfg:1050
+msgid "able to make allies resist damage better (20% to resistances)"
+msgstr ""
+
 #. [advancement]: id=shield3
 #: ./For_Power/units/Lemyr_Lich.cfg:1072
 msgid "able to make allies resist damage better (25% to resistances)"
@@ -10937,33 +10948,33 @@ msgid "better with quarterstaff"
 msgstr ""
 
 #. [advancement]: id=nightstalk
-#: ./For_Power/units/Merissa_Lich.cfg:273 ./For_Power/units/Tinry_Shadow_Prince.cfg:286
-msgid "invisible during night"
+#: ./For_Power/units/Merissa_Lich.cfg:273
+msgid "female^invisible during night"
 msgstr ""
 
 #. [advancement]: id=armour_physical1
 #: ./For_Power/units/Merissa_Lich.cfg:347
-msgid "better protected from physical blows (3% better resistances)"
+msgid "female^better protected from physical blows (3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=armour_magical1
 #: ./For_Power/units/Merissa_Lich.cfg:366
-msgid "better protected from magical attacks (3% better resistances)"
+msgid "female^better protected from magical attacks (3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=skirmisher
 #: ./For_Power/units/Merissa_Lich.cfg:385
-msgid "able to sneak through hordes of enemies"
+msgid "female^able to sneak through hordes of enemies"
 msgstr ""
 
 #. [advancement]: id=drain1
 #: ./For_Power/units/Merissa_Lich.cfg:401
-msgid "able to drain life force from living enemies"
+msgid "female^able to drain life force from living enemies"
 msgstr ""
 
 #. [advancement]: id=chill1
 #: ./For_Power/units/Merissa_Lich.cfg:420
-msgid "able to cast chill tempest"
+msgid "female^able to cast chill tempest"
 msgstr ""
 
 #. [advancement]: id=chill2
@@ -10988,7 +10999,7 @@ msgstr ""
 
 #. [advancement]: id=shield
 #: ./For_Power/units/Merissa_Lich.cfg:511
-msgid "able to make fellow bandits resist pain better (20% to resistances)"
+msgid "female^able to make fellow bandits resist pain better (20% to resistances)"
 msgstr ""
 
 #. [unit_type]: id=Tinry_Shadow Prince, race=human
@@ -10999,6 +11010,11 @@ msgstr ""
 #. [unit_type]: id=Tinry_Shadow Prince, race=human
 #: ./For_Power/units/Tinry_Shadow_Prince.cfg:26
 msgid "After years of life as a criminal, the outlaw gains pride and no longer feels the need to behave like a brute. To teach the others that they are superior too, they learn some magic, and practice fighting with a staff that they used when learning magic. Their authority above other criminals is so great, that they can hide in any settlement."
+msgstr ""
+
+#. [advancement]: id=nightstalk
+#: ./For_Power/units/Tinry_Shadow_Prince.cfg:286
+msgid "invisible during night"
 msgstr ""
 
 #. [objective]: condition=lose
