@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-25 19:02-0400\n"
+"POT-Creation-Date: 2013-09-27 17:58-0400\n"
 "PO-Revision-Date: 2013-08-02 23:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -23,36 +23,31 @@ msgstr ""
 
 #. [about]
 #: For_Power/_main.cfg:16
-msgid "Help with coding, design of a part of storyline:"
+msgid "Code, storyline & art advice:"
 msgstr ""
 
 #. [about]
 #: For_Power/_main.cfg:22
-msgid "Portrait and sprite for Clare:"
-msgstr ""
-
-#. [about]
-#: For_Power/_main.cfg:28
 msgid "Text revision:"
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:40
+#: For_Power/_main.cfg:34
 msgid "Improving maps in first chapter:"
 msgstr ""
 
 #. [campaign]: id=For_Power_I
-#: For_Power/_main.cfg:52
+#: For_Power/_main.cfg:46
 msgid "For Power Chapter I"
 msgstr ""
 
 #. [campaign]: id=For_Power_I
-#: For_Power/_main.cfg:53
+#: For_Power/_main.cfg:47
 msgid "FP1"
 msgstr ""
 
 #. [campaign]: id=For_Power_I
-#: For_Power/_main.cfg:57
+#: For_Power/_main.cfg:51
 msgid "Wizard's apprentice"
 msgstr ""
 
@@ -61,13 +56,13 @@ msgstr ""
 #. [campaign]: id=For_Power_III
 #. [campaign]: id=For_Power_IV
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:57 For_Power/_main.cfg:74 For_Power/_main.cfg:91
-#: For_Power/_main.cfg:108 For_Power/_main.cfg:125
+#: For_Power/_main.cfg:51 For_Power/_main.cfg:68 For_Power/_main.cfg:85
+#: For_Power/_main.cfg:102 For_Power/_main.cfg:119
 msgid "(Easy)"
 msgstr ""
 
 #. [campaign]: id=For_Power_I
-#: For_Power/_main.cfg:57
+#: For_Power/_main.cfg:51
 msgid "Wizard"
 msgstr ""
 
@@ -76,13 +71,13 @@ msgstr ""
 #. [campaign]: id=For_Power_III
 #. [campaign]: id=For_Power_IV
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:57 For_Power/_main.cfg:74 For_Power/_main.cfg:91
-#: For_Power/_main.cfg:108 For_Power/_main.cfg:125
+#: For_Power/_main.cfg:51 For_Power/_main.cfg:68 For_Power/_main.cfg:85
+#: For_Power/_main.cfg:102 For_Power/_main.cfg:119
 msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=For_Power_I
-#: For_Power/_main.cfg:57
+#: For_Power/_main.cfg:51
 msgid "Battle wizard"
 msgstr ""
 
@@ -91,13 +86,13 @@ msgstr ""
 #. [campaign]: id=For_Power_III
 #. [campaign]: id=For_Power_IV
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:57 For_Power/_main.cfg:74 For_Power/_main.cfg:91
-#: For_Power/_main.cfg:108 For_Power/_main.cfg:125
+#: For_Power/_main.cfg:51 For_Power/_main.cfg:68 For_Power/_main.cfg:85
+#: For_Power/_main.cfg:102 For_Power/_main.cfg:119
 msgid "(Hard)"
 msgstr ""
 
 #. [campaign]: id=For_Power_I
-#: For_Power/_main.cfg:61
+#: For_Power/_main.cfg:55
 msgid ""
 "Follow the tale of the young mage Clare, through an orcish assault on her "
 "village, to the assassination someone she liked, and beyond.. Lead her "
@@ -105,55 +100,55 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=For_Power_II
-#: For_Power/_main.cfg:69
+#: For_Power/_main.cfg:63
 msgid "For Power Chapter II"
 msgstr ""
 
 #. [campaign]: id=For_Power_II
-#: For_Power/_main.cfg:70
+#: For_Power/_main.cfg:64
 msgid "FP2"
 msgstr ""
 
 #. [campaign]: id=For_Power_II
 #. [campaign]: id=For_Power_III
 #. [campaign]: id=For_Power_IV
-#: For_Power/_main.cfg:74 For_Power/_main.cfg:91 For_Power/_main.cfg:108
+#: For_Power/_main.cfg:68 For_Power/_main.cfg:85 For_Power/_main.cfg:102
 msgid "Adventurer"
 msgstr ""
 
 #. [campaign]: id=For_Power_II
 #. [campaign]: id=For_Power_III
 #. [campaign]: id=For_Power_IV
-#: For_Power/_main.cfg:74 For_Power/_main.cfg:91 For_Power/_main.cfg:108
+#: For_Power/_main.cfg:68 For_Power/_main.cfg:85 For_Power/_main.cfg:102
 msgid "Traveller"
 msgstr ""
 
 #. [campaign]: id=For_Power_II
 #. [campaign]: id=For_Power_III
 #. [campaign]: id=For_Power_IV
-#: For_Power/_main.cfg:74 For_Power/_main.cfg:91 For_Power/_main.cfg:108
+#: For_Power/_main.cfg:68 For_Power/_main.cfg:85 For_Power/_main.cfg:102
 msgid "Tourist"
 msgstr ""
 
 #. [campaign]: id=For_Power_II
-#: For_Power/_main.cfg:78
+#: For_Power/_main.cfg:72
 msgid ""
 "A few years after defeating the orcish sovereign Clare wanted to go through "
 "some adventures. Accompany her and find out what she saw."
 msgstr ""
 
 #. [campaign]: id=For_Power_III
-#: For_Power/_main.cfg:86
+#: For_Power/_main.cfg:80
 msgid "For Power Chapter III"
 msgstr ""
 
 #. [campaign]: id=For_Power_III
-#: For_Power/_main.cfg:87
+#: For_Power/_main.cfg:81
 msgid "FP3"
 msgstr ""
 
 #. [campaign]: id=For_Power_III
-#: For_Power/_main.cfg:95
+#: For_Power/_main.cfg:89
 msgid ""
 "After a few years of peace the troubles returned to the Northlands. But it "
 "only started a chain of events what affected all known parts of the Great "
@@ -161,49 +156,49 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=For_Power_IV
-#: For_Power/_main.cfg:103
+#: For_Power/_main.cfg:97
 msgid "For Power Chapter IV"
 msgstr ""
 
 #. [campaign]: id=For_Power_IV
-#: For_Power/_main.cfg:104
+#: For_Power/_main.cfg:98
 msgid "FP4"
 msgstr ""
 
 #. [campaign]: id=For_Power_IV
-#: For_Power/_main.cfg:112
+#: For_Power/_main.cfg:106
 msgid ""
 "Peace cannot rule the Northlands forever. After about two decades of peace "
 "strange things began to happend there. Discover what (and who) is behind it."
 msgstr ""
 
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:120
+#: For_Power/_main.cfg:114
 msgid "For Power Chapter V"
 msgstr ""
 
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:121
+#: For_Power/_main.cfg:115
 msgid "FP5"
 msgstr ""
 
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:125
+#: For_Power/_main.cfg:119
 msgid "Battler"
 msgstr ""
 
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:125
+#: For_Power/_main.cfg:119
 msgid "Campaigner"
 msgstr ""
 
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:125
+#: For_Power/_main.cfg:119
 msgid "Crusader"
 msgstr ""
 
 #. [campaign]: id=For_Power_V
-#: For_Power/_main.cfg:129
+#: For_Power/_main.cfg:123
 msgid ""
 "Undead are attacking everywhere. They come from nowhere, cause a lot of "
 "havoc and then ... disappear. Nobody is able to defeat them. But a group of "
@@ -215,12 +210,12 @@ msgstr ""
 
 #. [heals]: id=healing {VALUE}
 #: For_Power/macros/abilities.cfg:8
-msgid "heals +{VALUE}"
+msgid "heals +"
 msgstr ""
 
 #. [heals]: id=healing {VALUE}
 #: For_Power/macros/abilities.cfg:9
-msgid "female^heals {VALUE}"
+msgid "female^heals +"
 msgstr ""
 
 #. [heals]: id=healing {VALUE}
@@ -237,12 +232,12 @@ msgstr ""
 
 #. [regenerate]: id=regenerates {VALUE}
 #: For_Power/macros/abilities.cfg:26
-msgid "regenerates ({VALUE})"
+msgid "regenerates "
 msgstr ""
 
 #. [regenerate]: id=regenerates {VALUE}
 #: For_Power/macros/abilities.cfg:27
-msgid "female^regenerates ({VALUE})"
+msgid "female^regenerates "
 msgstr ""
 
 #. [regenerate]: id=regenerates {VALUE}
@@ -254,12 +249,12 @@ msgstr ""
 
 #. [leadership]: id=despair
 #: For_Power/macros/abilities.cfg:39
-msgid "despair ({INTENSITY})"
+msgid "despair "
 msgstr ""
 
 #. [leadership]: id=despair
 #: For_Power/macros/abilities.cfg:40
-msgid "female^despair ({INTENSITY})"
+msgid "female^despair "
 msgstr ""
 
 #. [leadership]: id=despair
@@ -288,12 +283,12 @@ msgstr ""
 
 #. [resistance]: id=conviction
 #: For_Power/macros/abilities.cfg:66
-msgid "conviction ({INTENSITY})"
+msgid "conviction "
 msgstr ""
 
 #. [resistance]: id=conviction
 #: For_Power/macros/abilities.cfg:67
-msgid "female^conviction ({INTENSITY})"
+msgid "female^conviction "
 msgstr ""
 
 #. [resistance]: id=conviction
@@ -306,12 +301,12 @@ msgstr ""
 
 #. [resistance]: id=shield
 #: For_Power/macros/abilities.cfg:84
-msgid "shield ({INTENSITY})"
+msgid "shield "
 msgstr ""
 
 #. [resistance]: id=shield
 #: For_Power/macros/abilities.cfg:85
-msgid "female^shield ({INTENSITY})"
+msgid "female^shield "
 msgstr ""
 
 #. [resistance]: id=shield
@@ -346,12 +341,12 @@ msgstr ""
 
 #. [resistance]: id=bandit_shield
 #: For_Power/macros/abilities.cfg:302
-msgid "scare ({INTENSITY})"
+msgid "scare "
 msgstr ""
 
 #. [resistance]: id=bandit_shield
 #: For_Power/macros/abilities.cfg:303
-msgid "female^scare ({INTENSITY})"
+msgid "female^scare "
 msgstr ""
 
 #. [resistance]: id=bandit_shield
@@ -403,8 +398,8 @@ msgstr ""
 #: For_Power/macros/redeem.cfg:15 For_Power/macros/redeem.cfg:23
 #: For_Power/macros/redeem.cfg:31 For_Power/macros/redeem.cfg:39
 #: For_Power/macros/redeem.cfg:47 For_Power/macros/redeem.cfg:55
-#: For_Power/macros/redeem.cfg:63 For_Power/units/Clare_Lich.cfg:1213
-#: For_Power/units/Lemyr_Lich.cfg:97
+#: For_Power/macros/redeem.cfg:63 For_Power/units/Clare_Lich.cfg:1225
+#: For_Power/units/Lemyr_Lich.cfg:109
 msgid "redeem"
 msgstr ""
 
@@ -482,9 +477,7 @@ msgstr ""
 
 #. [chance_to_hit]: id=focused
 #: For_Power/macros/redeem.cfg:390
-msgid ""
-"Focused:\n"
-"    This attack always has at least a 80% chance to hit."
+msgid "This attack always has at least a 80% chance to hit."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -704,6 +697,8 @@ msgstr ""
 #: For_Power/scenarios5/02_Flight.cfg:21 For_Power/scenarios5/02_Flight.cfg:25
 #: For_Power/scenarios5/03_Besieged.cfg:26
 #: For_Power/scenarios5/04_March_to_the_East.cfg:26
+#: For_Power/scenarios5/05_An_old_friend.cfg:25
+#: For_Power/scenarios5/06_Entrance.cfg:25 For_Power/scenarios5/07_Cave.cfg:29
 msgid "Clare"
 msgstr ""
 
@@ -735,12 +730,16 @@ msgstr ""
 #. [side]: type=Dwarvish Lord, id=dwarf
 #. [side]: type=Elvish Hero, id=elf
 #. [side]: type=Fire Dragon, id=dragon
+#. [side]: type=Lich, id=Ganesha
 #. [side]: type=Necromancer, id=necro
 #: For_Power/multiplayer/Seeking_evil.cfg:134
 #: For_Power/multiplayer/Seeking_evil.cfg:165
 #: For_Power/multiplayer/Seeking_evil.cfg:207
 #: For_Power/multiplayer/Seeking_evil.cfg:242
 #: For_Power/scenarios5/04_March_to_the_East.cfg:45
+#: For_Power/scenarios5/05_An_old_friend.cfg:139
+#: For_Power/scenarios5/06_Entrance.cfg:43 For_Power/scenarios5/07_Cave.cfg:47
+#: For_Power/scenarios5/07_Cave.cfg:273 For_Power/utils5/cave.cfg:8
 msgid "Evil"
 msgstr ""
 
@@ -769,10 +768,14 @@ msgstr ""
 #. [side]
 #. [side]: type=Clare_Lich, id=Clare
 #. [side]: type=General, id=mayor
+#. [side]: type=Mage of Light, id=olderJolla
 #: For_Power/multiplayer/Seeking_evil.cfg:276
 #: For_Power/scenarios5/03_Besieged.cfg:22
 #: For_Power/scenarios5/03_Besieged.cfg:84
 #: For_Power/scenarios5/04_March_to_the_East.cfg:22
+#: For_Power/scenarios5/05_An_old_friend.cfg:21
+#: For_Power/scenarios5/05_An_old_friend.cfg:43
+#: For_Power/scenarios5/06_Entrance.cfg:21 For_Power/scenarios5/07_Cave.cfg:24
 msgid "Good"
 msgstr ""
 
@@ -784,7 +787,27 @@ msgstr ""
 #. [objective]: condition=lose
 #: For_Power/multiplayer/Seeking_evil.cfg:299
 #: For_Power/multiplayer/Source_of_evil.cfg:139
-msgid "Descruction of Clare"
+#: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:109
+#: For_Power/scenarios/18a_The_Last_battle.cfg:185
+#: For_Power/scenarios/18a_The_Last_battle.cfg:532
+#: For_Power/scenarios/18b_The_Truth.cfg:95
+#: For_Power/scenarios2/03_More_Orcs.cfg:172
+#: For_Power/scenarios2/04_Visiting_The_Earl.cfg:186
+#: For_Power/scenarios2/07_West_Front.cfg:127
+#: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:108
+#: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:346
+#: For_Power/scenarios2/09_Return_to_Dwarven_Doors.cfg:98
+#: For_Power/scenarios2/09_Return_to_Dwarven_Doors.cfg:162
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:177
+#: For_Power/scenarios2/13b_The_Underground.cfg:175
+#: For_Power/scenarios3/01_End_of_peace.cfg:66
+#: For_Power/scenarios3/02_More_undeads.cfg:105
+#: For_Power/scenarios3/02_More_undeads.cfg:449
+#: For_Power/scenarios3/06_Morbivords_Castle.cfg:154
+#: For_Power/scenarios3/07_Back_in_underground.cfg:150
+#: For_Power/scenarios3/07_Back_in_underground.cfg:382
+#: For_Power/utils2/deaths.cfg:5
+msgid "Destruction of Clare"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -1616,7 +1639,7 @@ msgstr ""
 #. [message]: speaker=orc1
 #: For_Power/scenarios/01_Defend_the_village.cfg:187
 msgid ""
-"He thougth I was weak but he is the one who is dead. Orcs, under my banner!"
+"He thought I was weak but he is the one who is dead. Orcs, under my banner!"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -3774,30 +3797,6 @@ msgid "Another Orcish Assault"
 msgstr ""
 
 #. [objective]: condition=lose
-#: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:109
-#: For_Power/scenarios/18a_The_Last_battle.cfg:185
-#: For_Power/scenarios/18a_The_Last_battle.cfg:532
-#: For_Power/scenarios/18b_The_Truth.cfg:95
-#: For_Power/scenarios2/03_More_Orcs.cfg:172
-#: For_Power/scenarios2/04_Visiting_The_Earl.cfg:186
-#: For_Power/scenarios2/07_West_Front.cfg:127
-#: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:108
-#: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:346
-#: For_Power/scenarios2/09_Return_to_Dwarven_Doors.cfg:98
-#: For_Power/scenarios2/09_Return_to_Dwarven_Doors.cfg:162
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:177
-#: For_Power/scenarios2/13b_The_Underground.cfg:175
-#: For_Power/scenarios3/01_End_of_peace.cfg:66
-#: For_Power/scenarios3/02_More_undeads.cfg:105
-#: For_Power/scenarios3/02_More_undeads.cfg:449
-#: For_Power/scenarios3/06_Morbivords_Castle.cfg:154
-#: For_Power/scenarios3/07_Back_in_underground.cfg:150
-#: For_Power/scenarios3/07_Back_in_underground.cfg:382
-#: For_Power/utils2/deaths.cfg:5
-msgid "Destruction of Clare"
-msgstr ""
-
-#. [objective]: condition=lose
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:117
 #: For_Power/scenarios/18b_The_Truth.cfg:103 For_Power/utils/chapter2.cfg:19
 #: For_Power/utils2/deaths.cfg:37
@@ -4003,7 +4002,7 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/16b_Preserving.cfg:108
-msgid "I will check it... Yes they are right."
+msgid "I will check it ... Yes, they are right."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -5027,10 +5026,12 @@ msgid "Thank you, maiden."
 msgstr ""
 
 #. [message]: speaker=Clare
+#. [message]: speaker=olderJolla
 #. [message]: speaker=outlaw
 #: For_Power/scenarios2/01_Return_of_troubles.cfg:225
 #: For_Power/scenarios2/01_Return_of_troubles.cfg:319
 #: For_Power/scenarios2/13b_The_Underground.cfg:332
+#: For_Power/scenarios5/07_Cave.cfg:546
 msgid "You are welcome."
 msgstr ""
 
@@ -5638,7 +5639,7 @@ msgid "Ring of HP"
 msgstr ""
 
 #. [object]
-#: For_Power/scenarios2/05_The_Countess.cfg:153
+#: For_Power/scenarios2/05_The_Countess.cfg:153 For_Power/utils5/cave.cfg:401
 msgid "This ring grants the wearer +10 max hp!"
 msgstr ""
 
@@ -8156,6 +8157,8 @@ msgstr ""
 #: For_Power/scenarios5/02_Flight.cfg:98
 #: For_Power/scenarios5/03_Besieged.cfg:144
 #: For_Power/scenarios5/04_March_to_the_East.cfg:116
+#: For_Power/scenarios5/05_An_old_friend.cfg:174
+#: For_Power/scenarios5/06_Entrance.cfg:103
 msgid "Destruction of Clare, Merrisa or Lemyr"
 msgstr ""
 
@@ -8527,6 +8530,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/scenarios3/07_Back_in_underground.cfg:169
+#: For_Power/scenarios5/07_Cave.cfg:1146
 msgid "(deafening silence)"
 msgstr ""
 
@@ -9631,10 +9635,12 @@ msgstr ""
 msgid "Death of Jolla"
 msgstr ""
 
+#. [side]: type=Mage of Light, id=olderJolla
 #. [unit]: type=Blessed Mage, id=Jolla
 #. [unit]: type=Blessed Silver Mage, id=Jolla
 #: For_Power/scenarios4/01_Searching_adventures.cfg:307
 #: For_Power/scenarios5/01_Banished_from_paradise.cfg:380
+#: For_Power/scenarios5/05_An_old_friend.cfg:48
 msgid "Jolla"
 msgstr ""
 
@@ -10406,6 +10412,8 @@ msgstr ""
 #: For_Power/scenarios4/11_Treasure_hunters.cfg:241
 #: For_Power/scenarios5/02_Flight.cfg:102
 #: For_Power/scenarios5/04_March_to_the_East.cfg:120
+#: For_Power/scenarios5/05_An_old_friend.cfg:178
+#: For_Power/scenarios5/06_Entrance.cfg:107
 msgid "Death of Jolla or Amiwen"
 msgstr ""
 
@@ -11537,7 +11545,7 @@ msgstr ""
 #. [advance]: id=magic1
 #. [advancement]: id=magic1
 #: For_Power/scenarios5/01_Banished_from_paradise.cfg:194
-#: For_Power/units/Lemyr_Lich.cfg:833 For_Power/units/Lemyr_Paladin.cfg:656
+#: For_Power/units/Lemyr_Lich.cfg:845 For_Power/units/Lemyr_Paladin.cfg:656
 msgid "able to use lightbeam"
 msgstr ""
 
@@ -11578,9 +11586,9 @@ msgstr ""
 #: For_Power/scenarios5/01_Banished_from_paradise.cfg:390
 #: For_Power/units/Blessed_Mage.cfg:131 For_Power/units/Blessed_Mage.cfg:312
 #: For_Power/units/Blessed_Mage.cfg:633 For_Power/units/Blessed_Mage.cfg:648
-#: For_Power/units/Blessed_Mage.cfg:696 For_Power/units/Clare_Lich.cfg:400
-#: For_Power/units/Clare_Lich.cfg:433 For_Power/units/Clare_Lich.cfg:466
-#: For_Power/units/Clare_Lich.cfg:496
+#: For_Power/units/Blessed_Mage.cfg:696 For_Power/units/Clare_Lich.cfg:412
+#: For_Power/units/Clare_Lich.cfg:445 For_Power/units/Clare_Lich.cfg:478
+#: For_Power/units/Clare_Lich.cfg:508
 msgid "better with staff"
 msgstr ""
 
@@ -12257,6 +12265,772 @@ msgstr ""
 msgid "No, it can't happen to me ..."
 msgstr ""
 
+#. [scenario]: id=05_An_old_friend
+#: For_Power/scenarios5/05_An_old_friend.cfg:5
+msgid "An old friend"
+msgstr ""
+
+#. [objective]: condition=win
+#: For_Power/scenarios5/05_An_old_friend.cfg:170
+#: For_Power/scenarios5/06_Entrance.cfg:99
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/05_An_old_friend.cfg:193
+msgid ""
+"Surrender. You can't defeat me, neither my master. There are only a few of "
+"you here but we, we have legions."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:197
+msgid ""
+"I will never surrender to the powers of darkness! I and my friends will "
+"fight to the very end! We do not worry the death."
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/05_An_old_friend.cfg:201
+msgid "As you wish but tell me why you do something such pointless."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:205
+msgid ""
+"Because it is good! Lords of light, support your humble servant against "
+"these fiends!"
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/05_An_old_friend.cfg:209
+msgid "Look there. Someone is coming here."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:213
+msgid "Yes, you are right."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/05_An_old_friend.cfg:228
+msgid ""
+"Necromancer! Yes, we are very close to his cave but wait. I can see someone "
+"else. ... Jolla? Is it you? It is a long time since we met last time."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:232
+msgid ""
+"Who are you? ... Wait, you remind me of one my friend from Alduin Academy, "
+"Clare. But it cannot be you because she is as old as me and I am nearly at "
+"the end of my way."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:236
+msgid ""
+"Is she right, mom? It would be weird but I do not think that she could tell "
+"a lie."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/05_An_old_friend.cfg:240
+msgid "Yes, she never told a lie. She is a very right person."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:244
+msgid ""
+"Right but she is not your mother, darling, she cannot be. She is a very "
+"powerful undead, a lich and for a long time. Two of her friends as well."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:248
+msgid "Mom! No, it cannot be true!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:252
+msgid ""
+"It is true. I can sense it even if they somehow manage to preserve their "
+"human appearance. So you came to help your friends to kill me, Clare? Well, "
+"it is not really necessary as we are already badly outnumbered."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/05_An_old_friend.cfg:256
+msgid ""
+"No! They are our enemies as well, they attack us at our place. We want to "
+"see the sun again just like you."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:260
+msgid ""
+"Undead fighting undead? Weird. And they want the day to return? Very very "
+"weird."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/05_An_old_friend.cfg:264
+msgid ""
+"Jolla, look to my heart. I am a paladin, a humble servant of the lords of "
+"light just like you. Someone seeks to destroy Irdya, you know it too, right? "
+"We have to unite in order to save our world. You are very powerful, I can "
+"feel it but you cannot stop him at your own. We have an army and I believe "
+"that with you we can manage it."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:268
+msgid "Tell me what is your glorious name?"
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/05_An_old_friend.cfg:272
+msgid "It is Lemyr."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:276
+msgid ""
+"So, Lemyr ... yes, I can see that your heart is pure. You are right in "
+"everything. I trust you. I and my friends will join you."
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/05_An_old_friend.cfg:280
+msgid ""
+"Fools! You can't stand a chance even with their help. But enough talking, "
+"prepare to die!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:284
+msgid "The good will prevail. Fight my friends for the light future of Irdya!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:295
+msgid "May the lords of light help you find peace, my friend."
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/05_An_old_friend.cfg:299
+msgid "See? You have no chance against us at all."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:303
+msgid "We will prevail in the end. The good always win at last."
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/05_An_old_friend.cfg:311
+msgid "Rise and serve me!"
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:327
+msgid "Again these creatures. Can anyone tell me what they are?"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:331
+msgid "Trust me, darling, you do not want to know it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/05_An_old_friend.cfg:342
+msgid "It can't be ... they advanced further. I am sorry, master."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/05_An_old_friend.cfg:346
+#: For_Power/scenarios5/06_Entrance.cfg:153
+#: For_Power/scenarios5/06_Entrance.cfg:162
+#: For_Power/scenarios5/06_Entrance.cfg:176
+#: For_Power/scenarios5/06_Entrance.cfg:185
+#: For_Power/scenarios5/06_Entrance.cfg:194
+msgid "A dreadful voice in distance"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/05_An_old_friend.cfg:347
+msgid "You are nothing but incompetent! I'm sick of you! Die!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:360
+msgid ""
+"Thank you very much. I am pretty sure that without your help we all would be "
+"as good as dead."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/05_An_old_friend.cfg:364
+msgid "You are welcome, an old friend of mine."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:368
+msgid "Can you tell me more about this child? I like her."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/05_An_old_friend.cfg:372
+msgid ""
+"I named her Jolla in your honour. We found her in an orcish realm after we "
+"killed them all. We all raised her to be a good person. And she is somehow "
+"connected to the lords of light like you."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:376
+msgid ""
+"I see and I am honored. So, an young one, would you like to know more about "
+"light magic? I can teach you this and even more if you wish so."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:380
+msgid ""
+"It would be nice but I cannot just leave my mo... well, I know now that she "
+"cannot my mother because of what she is. I do not like it but she cared "
+"about me the whole time and did a lot of good deeds. I am not able to hate "
+"her."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:384
+msgid ""
+"Nobody wants you to hate or leave her, darling. I can spend some of the time "
+"what remains for me to live with you all. But now we should advance further. "
+"We spent too much time with talking and they could use it to rise more "
+"undead."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/05_An_old_friend.cfg:388
+msgid "You are right. Let us continue our march."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/05_An_old_friend.cfg:397
+#: For_Power/scenarios5/06_Entrance.cfg:203
+msgid ""
+"More undead are coming from their cave. We have no hope to defeat them now. "
+"Our world is doomed."
+msgstr ""
+
+#. [scenario]: id=06_Entrance
+#: For_Power/scenarios5/06_Entrance.cfg:5
+msgid "Entrance"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/06_Entrance.cfg:122
+msgid ""
+"Yes. We are nearly there. We just need to kill this little servant of him."
+msgstr ""
+
+#. [message]: speaker=necro
+#: For_Power/scenarios5/06_Entrance.cfg:126
+msgid "Hey! I am much more powerful than the one you just defeated!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/06_Entrance.cfg:130
+msgid ""
+"You are no challenge for the powers of light. Prepare to join your comrade "
+"in the land of dead, fiend."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/06_Entrance.cfg:154
+msgid ""
+"You weren't better than he was. You weren't able to stop them. You're "
+"useless! I should kill right when you came to me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/06_Entrance.cfg:158
+msgid "M-master ..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/06_Entrance.cfg:163
+msgid "Shut up and die!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/06_Entrance.cfg:177
+msgid ""
+"You are more powerful than I expected but you aren't a challenge for me. "
+"These two servants you killed were just pets. Come to my place and see the "
+"real power."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/06_Entrance.cfg:181
+msgid "Ha, you think that you can face the powers of light and surive?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/06_Entrance.cfg:186
+msgid ""
+"And you think you are perfect but you aren't. You may wield  greater powers "
+"than a mere mortal but you forgot you're before gate of the death. But not "
+"your age but your superciliousness will cause your fall. And for your "
+"information I am already dead."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/06_Entrance.cfg:190
+msgid ""
+"So you are a lich. Well, I already destroyed some liches. They could not "
+"stand a chance at all."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/06_Entrance.cfg:195
+msgid ""
+"Just like I said you're big-headed. Anyhow come to my cave and see the real "
+"power."
+msgstr ""
+
+#. [scenario]: id=07_Cave, (type=Necromancer, id=pet1, (type=Draug, id=pet2, (type=Ghast, id=pet3, (type=Spectre, id=pet4
+#: For_Power/scenarios5/07_Cave.cfg:5
+msgid "Cave"
+msgstr ""
+
+#. [side]: type=Lich, id=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:51
+msgid "Ganesha"
+msgstr ""
+
+#. [objective]: condition=win
+#: For_Power/scenarios5/07_Cave.cfg:399
+msgid "Find the mastermind and destroy him"
+msgstr ""
+
+#. [objective]: condition=lose
+#: For_Power/scenarios5/07_Cave.cfg:403 For_Power/scenarios5/07_Cave.cfg:1266
+msgid "End of a hero"
+msgstr ""
+
+#. [set_menu_item]: id=healing_option
+#: For_Power/scenarios5/07_Cave.cfg:521
+msgid "Heal this unit"
+msgstr ""
+
+#. [message]
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:542 For_Power/scenarios5/07_Cave.cfg:1308
+msgid "Thank you very much."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:556
+msgid "You are welcome. But it was my last healing spell."
+msgstr ""
+
+#. [set_menu_item]: id=clares_recruit_option
+#. [set_menu_item]: id=jollas_recruit_option
+#: For_Power/scenarios5/07_Cave.cfg:573 For_Power/scenarios5/07_Cave.cfg:638
+msgid "Recruit unit"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:599 For_Power/scenarios5/07_Cave.cfg:664
+msgid "What type of unit would you like to recruit?"
+msgstr ""
+
+#. [set_menu_item]: id=clares_recall_option
+#. [set_menu_item]: id=jollas_recall_option
+#: For_Power/scenarios5/07_Cave.cfg:608 For_Power/scenarios5/07_Cave.cfg:672
+msgid "Recall unit"
+msgstr ""
+
+#. [set_menu_item]: id=help_option
+#: For_Power/scenarios5/07_Cave.cfg:700
+msgid "Help"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:720
+msgid "We are finally in his cave."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/07_Cave.cfg:724
+msgid "Yes but it is so wide. It will not be easy to find him."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/07_Cave.cfg:728
+msgid ""
+"This place is very dark, much more than a regular cave. My eyes are not used "
+"to it."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:732
+msgid "Just like most of our soldiers'."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:736
+msgid ""
+"I can help with it. Just let them stay next to me and I will light the area."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:740
+msgid ""
+"Very well. And do you have an idea where he could be? I sense him but I am "
+"not sure about the direction."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:744
+msgid ""
+"He is in the north from here but I can sense a lot of his pets in this cave "
+"as well. We should destroy them too. They can cause a lot of havoc even "
+"without their master."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:748
+msgid "Oh, wait. Some of my friends arrived. They will help us."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:752
+msgid "Excellent, now let us look for him."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:756
+msgid ""
+"Some notes about special features in this scenario follow. They are long so "
+"you can review them by right-clicking on any your unit and selecting Help."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:760 For_Power/scenarios5/07_Cave.cfg:807
+msgid "Recruting/recalling"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:761
+msgid ""
+"As the world is in a great danger, you can recruit new soldiers for free and "
+"your veterans do not require a fee for being recalled. You have no castle in "
+"this scenario (unless you defeat an enemy leader and occupy his castle) but "
+"there are some keeps in this cave. When you move one of your leaders (Clare "
+"and older Jolla) there you can recruit/recall via right-click menu. Each "
+"leader has different recruit list. There are some restriction - you can "
+"recruit/recall only 5 units per turn and recruit only 15 units in the whole "
+"scenario."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:765 For_Power/scenarios5/07_Cave.cfg:819
+msgid "Items"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:766
+msgid ""
+"This cave is ancient and lot of beings dwelled here over time. They left "
+"here some artefacts what can improve their wearer's properties and/or learn "
+"him some new things. All your units but the heroes can use them."
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:770 For_Power/scenarios5/07_Cave.cfg:831
+msgid "Healing"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:771
+msgid ""
+"Being a great mage of light, older Jolla knows a powerful spell what can "
+"heal any your unit no matter how heavy wounds it has. Just right-click on "
+"the unit what is in need of healing and select Heal this unit. Unfortunately "
+"she cannot use this spell on herself or other heroes and she can do it only "
+"20 times."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:805
+msgid "What informations would you like to review?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:811
+msgid ""
+"Gold has no use in this scenario (for you). But you can still recall your "
+"veterans and recruit some new units. To do it move Clare or older Jolla to a "
+"keep and right-click her and choose Recruit unit or Recall unit. There are "
+"some restriction - you can recruit/recall only 5 units per turn and recruit "
+"only 15 units in the whole scenario. And keep in mind that each leader has "
+"different recruit list."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:823
+msgid ""
+"In this cave you can find a few useful items for your soldiers (not for "
+"heroes). They improve the wearer's properties and/or give him new abilities."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/07_Cave.cfg:835
+msgid ""
+"In this scenario older Jolla can heal your soldiers (but not herself and "
+"other heroes). Just right-click on the unit what needs healing and select "
+"Heal this unit. Alas you can use this option only 20 times."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1048
+msgid "Ha, here you are, fiend!"
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1052
+msgid ""
+"Yes, you found me but it makes no sense. You all will go to the land of dead "
+"soon."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1056
+msgid "You are wrong again. Only you will go there!"
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1060
+msgid ""
+"It seems somebody is very angry and big-headed. As I already said it'll "
+"cause your fall and I'll enjoy it so much."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1064
+msgid ""
+"You can defeat no one of us no matter how great powers you wield. The good "
+"always wins."
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1068
+msgid ""
+"Oh, I nearly forgot you. You have real power unlike her. I look forward to "
+"match our powers."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1072
+msgid "Really?"
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1076
+msgid ""
+"Yes, it would be really a pleasure but I can't let you ruin my plans so face "
+"my best minions!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1103
+msgid ""
+"This will not buy you so much time, coward! I will destroy them in no time "
+"and then you too!"
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1107
+msgid "Ha ha, try it, dreamer!"
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1130
+msgid ""
+"It's incredible - you're much more powerful than I expected. But it'll only "
+"make my final victory over you even more grandiose."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1134
+msgid "So you are going to fight us personally finally?"
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1138
+msgid "Of course, if you manage to find me."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1142
+msgid "Come to fight right here and now, coward!"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1150
+msgid ""
+"Well, I suppose that he is not going to make it easier for us. We will "
+"probably have to explore every one section of this cave before we can "
+"destroy him once and for all."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1154
+msgid "You are probably right. Damn him."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/07_Cave.cfg:1186
+msgid "No, it can't happen to me! You promised I'll be immortal, master!"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1190
+msgid "What? Do you only serve to anyone? It is surprising."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/07_Cave.cfg:1194
+msgid ""
+"Well, it was me who caused this chaos but only thanks to the power my master "
+"granted to me. He's much more powerful than you can imagine. You can't face "
+"him and survive."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1198
+msgid "You are wrong. No one can fight us and win."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/07_Cave.cfg:1202
+msgid "Anyhow tell me where your master dwells, fiend."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/07_Cave.cfg:1206
+msgid ""
+"You won't find him until he decides to end your existence. The pure darkness "
+"protects him."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1210
+msgid "Tell me when this coward is going to show his face!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/07_Cave.cfg:1214
+msgid ""
+"He'll come at the end to finish the job of your foolish and arrogant magi. "
+"When two suns will shine in the sky."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1218
+msgid ""
+"Hmm ... I remember another crazy lich speaking about two suns - Lethalia. "
+"Did she persuade you to believe her lies?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/07_Cave.cfg:1222
+msgid "I know nobody with such a name."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1226
+msgid ""
+"Enough talking. Prepare to go to the land of dead and this time for the rest "
+"of eternity, fiend!"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1243 For_Power/scenarios5/07_Cave.cfg:1300
+msgid "So it is over. We can return to our place and clear it."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1247
+msgid ""
+"Did you listen to me, Clare? He gave great powers to his pets and they will "
+"cause troubles again in the future. We should get rid of them as well."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1251
+msgid "Well, I think that"
+msgstr ""
+
+#. [option]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1253
+msgid "you are right. We will clear this place from them."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1257
+msgid "Thank you, it will be much easier with your help."
+msgstr ""
+
+#. [objective]: condition=win
+#: For_Power/scenarios5/07_Cave.cfg:1262
+msgid "Defeat all remaining enemy leaders"
+msgstr ""
+
+#. [option]: speaker=Clare
+#: For_Power/scenarios5/07_Cave.cfg:1278
+msgid ""
+"it is not really necessary. They do not pose a threat. If they decide to "
+"cause troubles again then we will defeat them without problems."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1282
+msgid ""
+"You may be right but I prefer to leave no enemies behind. I will stay here "
+"with my friends to finish them. See you all later."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1304
+msgid "I will help you with it."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1312
+msgid "You are welcome, an ... old friend of mine."
+msgstr ""
+
+#. [message]: speaker=Ganesha
+#: For_Power/scenarios5/07_Cave.cfg:1370
+msgid ""
+"As I said you can't defeat me. I wield really great powers what no one can "
+"match. You could spend this time for something more useful like I don't know "
+"maybe ..."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/07_Cave.cfg:1374
+msgid "Yes, I know that our world is doomed, just shut up your ugly mouth!"
+msgstr ""
+
 #. [unit_type]: id=Amiwen_Elvish Seer, race=elf
 #: For_Power/units/Amiwen_Elvish_Seer.cfg:5
 msgid "female^Elvish Seer"
@@ -12315,7 +13089,7 @@ msgstr ""
 #. [advancement]: id=movement2
 #. [advancement]: id=wings3
 #: For_Power/units/Amiwen_Elvish_Seer.cfg:603
-#: For_Power/units/Clare_Lich.cfg:751
+#: For_Power/units/Clare_Lich.cfg:763
 msgid "more dextrous (2% better defences on all terrains)"
 msgstr ""
 
@@ -12388,14 +13162,14 @@ msgstr ""
 
 #. [advancement]: id=staff1_marksman
 #. [advancement]: id=staff3_marksman
-#: For_Power/units/Blessed_Mage.cfg:663 For_Power/units/Clare_Lich.cfg:415
+#: For_Power/units/Blessed_Mage.cfg:663 For_Power/units/Clare_Lich.cfg:427
 msgid "more precise with staff"
 msgstr ""
 
 #. [advancement]: id=staff3_attacks
 #. [advancement]: id=staff4_attacks
-#: For_Power/units/Blessed_Mage.cfg:681 For_Power/units/Clare_Lich.cfg:481
-#: For_Power/units/Clare_Lich.cfg:511
+#: For_Power/units/Blessed_Mage.cfg:681 For_Power/units/Clare_Lich.cfg:493
+#: For_Power/units/Clare_Lich.cfg:523
 msgid "faster with staff"
 msgstr ""
 
@@ -12409,8 +13183,8 @@ msgstr ""
 
 #. [advancement]: id=regeneration
 #. [advancement]: id=regeneration1
-#: For_Power/units/Blessed_Mage.cfg:787 For_Power/units/Clare_Lich.cfg:898
-#: For_Power/units/Lemyr_Lich.cfg:770 For_Power/units/Lemyr_Paladin.cfg:593
+#: For_Power/units/Blessed_Mage.cfg:787 For_Power/units/Clare_Lich.cfg:910
+#: For_Power/units/Lemyr_Lich.cfg:782 For_Power/units/Lemyr_Paladin.cfg:593
 #: For_Power/units/Merissa_Lich.cfg:303
 msgid "regenerating 4 additional hitpoints per turn"
 msgstr ""
@@ -12441,32 +13215,32 @@ msgid "female^able to make allies resist damage better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=leadership
-#: For_Power/units/Blessed_Mage.cfg:962 For_Power/units/Lemyr_Lich.cfg:577
+#: For_Power/units/Blessed_Mage.cfg:962 For_Power/units/Lemyr_Lich.cfg:589
 #: For_Power/units/Lemyr_Paladin.cfg:400
 msgid "inspiring allies to fight better"
 msgstr ""
 
 #. [advancement]: id=leadership2
-#: For_Power/units/Blessed_Mage.cfg:994 For_Power/units/Lemyr_Lich.cfg:593
+#: For_Power/units/Blessed_Mage.cfg:994 For_Power/units/Lemyr_Lich.cfg:605
 #: For_Power/units/Lemyr_Paladin.cfg:416
 msgid "inspiring allies to fight much better"
 msgstr ""
 
 #. [advancement]: id=illumination
-#: For_Power/units/Blessed_Mage.cfg:1016 For_Power/units/Lemyr_Lich.cfg:653
+#: For_Power/units/Blessed_Mage.cfg:1016 For_Power/units/Lemyr_Lich.cfg:665
 #: For_Power/units/Lemyr_Paladin.cfg:476
 msgid "illuminating"
 msgstr ""
 
 #. [advancement]: id=illumination2
-#: For_Power/units/Blessed_Mage.cfg:1048 For_Power/units/Lemyr_Lich.cfg:669
+#: For_Power/units/Blessed_Mage.cfg:1048 For_Power/units/Lemyr_Lich.cfg:681
 #: For_Power/units/Lemyr_Paladin.cfg:492
 msgid "spreading aura of light"
 msgstr ""
 
 #. [advancement]: id=movement
-#: For_Power/units/Blessed_Mage.cfg:1084 For_Power/units/Clare_Lich.cfg:737
-#: For_Power/units/Lemyr_Lich.cfg:723 For_Power/units/Lemyr_Paladin.cfg:546
+#: For_Power/units/Blessed_Mage.cfg:1084 For_Power/units/Clare_Lich.cfg:749
+#: For_Power/units/Lemyr_Lich.cfg:735 For_Power/units/Lemyr_Paladin.cfg:546
 #: For_Power/units/Merissa_Lich.cfg:259
 #: For_Power/units/Tinry_Shadow_Prince.cfg:272
 msgid "faster"
@@ -12489,12 +13263,12 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=staff2_plague
-#: For_Power/units/Clare_Lich.cfg:448
+#: For_Power/units/Clare_Lich.cfg:460
 msgid "creating undead with staff"
 msgstr ""
 
 #. [advancement]: id=staff4_plague
-#: For_Power/units/Clare_Lich.cfg:526
+#: For_Power/units/Clare_Lich.cfg:538
 msgid "creating better undead with staff"
 msgstr ""
 
@@ -12503,133 +13277,133 @@ msgstr ""
 #. [advancement]: id=missile3
 #. [advancement]: id=missile4
 #. [advancement]: id=missile5
-#: For_Power/units/Clare_Lich.cfg:545 For_Power/units/Clare_Lich.cfg:561
-#: For_Power/units/Clare_Lich.cfg:577 For_Power/units/Clare_Lich.cfg:607
-#: For_Power/units/Clare_Lich.cfg:622
+#: For_Power/units/Clare_Lich.cfg:557 For_Power/units/Clare_Lich.cfg:573
+#: For_Power/units/Clare_Lich.cfg:589 For_Power/units/Clare_Lich.cfg:619
+#: For_Power/units/Clare_Lich.cfg:634
 msgid "causing more havoc with missile"
 msgstr ""
 
 #. [advancement]: id=missile3_speed
-#: For_Power/units/Clare_Lich.cfg:592
+#: For_Power/units/Clare_Lich.cfg:604
 msgid "faster with missile"
 msgstr ""
 
 #. [advancement]: id=entangle1
-#: For_Power/units/Clare_Lich.cfg:637
+#: For_Power/units/Clare_Lich.cfg:649
 msgid "female^able to entangle enemies"
 msgstr ""
 
 #. [advancement]: id=entangle2
 #. [advancement]: id=entangle3
 #. [advancement]: id=entangle4
-#: For_Power/units/Clare_Lich.cfg:659 For_Power/units/Clare_Lich.cfg:674
-#: For_Power/units/Clare_Lich.cfg:707
+#: For_Power/units/Clare_Lich.cfg:671 For_Power/units/Clare_Lich.cfg:686
+#: For_Power/units/Clare_Lich.cfg:719
 msgid "harming enemies more when entangling"
 msgstr ""
 
 #. [advancement]: id=entangle3_marksman
-#: For_Power/units/Clare_Lich.cfg:689
+#: For_Power/units/Clare_Lich.cfg:701
 msgid "more precise when entangling"
 msgstr ""
 
 #. [advancement]: id=entangle4_speed
-#: For_Power/units/Clare_Lich.cfg:722
+#: For_Power/units/Clare_Lich.cfg:734
 msgid "faster with entangling"
 msgstr ""
 
 #. [advancement]: id=armour
-#: For_Power/units/Clare_Lich.cfg:781
+#: For_Power/units/Clare_Lich.cfg:793
 msgid ""
 "female^better protected from magical attacks (2 or 3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=possessed
-#: For_Power/units/Clare_Lich.cfg:800
+#: For_Power/units/Clare_Lich.cfg:812
 msgid "female^possessed by death (more hitpoints but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=drain
-#: For_Power/units/Clare_Lich.cfg:821
+#: For_Power/units/Clare_Lich.cfg:833
 msgid ""
 "female^able to drain life force from living enemies (but worse arcane "
 "resistance)"
 msgstr ""
 
 #. [advancement]: id=cold
-#: For_Power/units/Clare_Lich.cfg:847
+#: For_Power/units/Clare_Lich.cfg:859
 msgid "female^cold-hearted (better cold resistance)"
 msgstr ""
 
 #. [advancement]: id=cold1
-#: For_Power/units/Clare_Lich.cfg:864
+#: For_Power/units/Clare_Lich.cfg:876
 msgid "female^more cold-hearted (better cold resistance)"
 msgstr ""
 
 #. [advancement]: id=fire
-#: For_Power/units/Clare_Lich.cfg:881
+#: For_Power/units/Clare_Lich.cfg:893
 msgid "female^better protected from fire"
 msgstr ""
 
 #. [advancement]: id=regeneration1
 #. [advancement]: id=regeneration2
-#: For_Power/units/Clare_Lich.cfg:920 For_Power/units/Lemyr_Lich.cfg:792
+#: For_Power/units/Clare_Lich.cfg:932 For_Power/units/Lemyr_Lich.cfg:804
 #: For_Power/units/Lemyr_Paladin.cfg:615 For_Power/units/Merissa_Lich.cfg:325
 msgid "regenerating 2 additional hitpoints per turn"
 msgstr ""
 
 #. [advancement]: id=darkness
-#: For_Power/units/Clare_Lich.cfg:942
+#: For_Power/units/Clare_Lich.cfg:954
 msgid ""
 "female^connected with darkness (spread despair but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=darkness1
-#: For_Power/units/Clare_Lich.cfg:965
+#: For_Power/units/Clare_Lich.cfg:977
 msgid ""
 "female^more connected with darkness (spread even greater despair and "
 "invisible during the night but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=shadowwave1
-#: For_Power/units/Clare_Lich.cfg:1000
+#: For_Power/units/Clare_Lich.cfg:1012
 msgid "female^able to cast shadow wave"
 msgstr ""
 
 #. [advancement]: id=shadowwave2
-#: For_Power/units/Clare_Lich.cfg:1023
+#: For_Power/units/Clare_Lich.cfg:1035
 msgid "female^casting shadow wave faster"
 msgstr ""
 
 #. [advancement]: id=shadowwave3
-#: For_Power/units/Clare_Lich.cfg:1038
+#: For_Power/units/Clare_Lich.cfg:1050
 msgid "female^casting shadow wave better"
 msgstr ""
 
 #. [advancement]: id=regeneration2
 #. [advancement]: id=regeneration3
-#: For_Power/units/Clare_Lich.cfg:1053 For_Power/units/Clare_Lich.cfg:1075
-#: For_Power/units/Lemyr_Lich.cfg:968 For_Power/units/Lemyr_Lich.cfg:990
+#: For_Power/units/Clare_Lich.cfg:1065 For_Power/units/Clare_Lich.cfg:1087
+#: For_Power/units/Lemyr_Lich.cfg:980 For_Power/units/Lemyr_Lich.cfg:1002
 msgid "regenerating 3 additional hitpoints per turn"
 msgstr ""
 
 #. [advancement]: id=movement3
-#: For_Power/units/Clare_Lich.cfg:1097
+#: For_Power/units/Clare_Lich.cfg:1109
 msgid ""
 "female^able to muster enough mental powers to levitate through hard terrains"
 msgstr ""
 
 #. [advancement]: id=conviction
-#: For_Power/units/Clare_Lich.cfg:1131
+#: For_Power/units/Clare_Lich.cfg:1143
 msgid "-15% to resistances of all adjacent enemies"
 msgstr ""
 
 #. [advancement]: id=conviction1
-#: For_Power/units/Clare_Lich.cfg:1147
+#: For_Power/units/Clare_Lich.cfg:1159
 msgid "-20% to resistances of all adjacent enemies"
 msgstr ""
 
 #. [advancement]: id=conviction2
-#: For_Power/units/Clare_Lich.cfg:1169
+#: For_Power/units/Clare_Lich.cfg:1181
 msgid "-25% to resistances of all adjacent enemies"
 msgstr ""
 
@@ -12644,9 +13418,9 @@ msgstr ""
 #. [advancement]: id=sword4
 #. [advancement]: id=sword5
 #. [advancement]: id=sword6
-#: For_Power/units/Lemyr_Lich.cfg:328 For_Power/units/Lemyr_Lich.cfg:358
-#: For_Power/units/Lemyr_Lich.cfg:391 For_Power/units/Lemyr_Lich.cfg:406
-#: For_Power/units/Lemyr_Lich.cfg:421 For_Power/units/Lemyr_Lich.cfg:451
+#: For_Power/units/Lemyr_Lich.cfg:340 For_Power/units/Lemyr_Lich.cfg:370
+#: For_Power/units/Lemyr_Lich.cfg:403 For_Power/units/Lemyr_Lich.cfg:418
+#: For_Power/units/Lemyr_Lich.cfg:433 For_Power/units/Lemyr_Lich.cfg:463
 #: For_Power/units/Lemyr_Paladin.cfg:151 For_Power/units/Lemyr_Paladin.cfg:181
 #: For_Power/units/Lemyr_Paladin.cfg:214 For_Power/units/Lemyr_Paladin.cfg:229
 #: For_Power/units/Lemyr_Paladin.cfg:244 For_Power/units/Lemyr_Paladin.cfg:274
@@ -12655,13 +13429,13 @@ msgstr ""
 
 #. [advancement]: id=sword1_speed
 #. [advancement]: id=sword5_speed
-#: For_Power/units/Lemyr_Lich.cfg:343 For_Power/units/Lemyr_Lich.cfg:436
+#: For_Power/units/Lemyr_Lich.cfg:355 For_Power/units/Lemyr_Lich.cfg:448
 #: For_Power/units/Lemyr_Paladin.cfg:166 For_Power/units/Lemyr_Paladin.cfg:259
 msgid "faster with sword"
 msgstr ""
 
 #. [advancement]: id=sword2_marksman
-#: For_Power/units/Lemyr_Lich.cfg:373 For_Power/units/Lemyr_Paladin.cfg:196
+#: For_Power/units/Lemyr_Lich.cfg:385 For_Power/units/Lemyr_Paladin.cfg:196
 msgid "more precise with sword"
 msgstr ""
 
@@ -12669,63 +13443,63 @@ msgstr ""
 #. [advancement]: id=lance2
 #. [advancement]: id=lance3
 #. [advancement]: id=lance4
-#: For_Power/units/Lemyr_Lich.cfg:466 For_Power/units/Lemyr_Lich.cfg:481
-#: For_Power/units/Lemyr_Lich.cfg:511 For_Power/units/Lemyr_Lich.cfg:526
+#: For_Power/units/Lemyr_Lich.cfg:478 For_Power/units/Lemyr_Lich.cfg:493
+#: For_Power/units/Lemyr_Lich.cfg:523 For_Power/units/Lemyr_Lich.cfg:538
 #: For_Power/units/Lemyr_Paladin.cfg:289 For_Power/units/Lemyr_Paladin.cfg:304
 #: For_Power/units/Lemyr_Paladin.cfg:334 For_Power/units/Lemyr_Paladin.cfg:349
 msgid "better with lance"
 msgstr ""
 
 #. [advancement]: id=lance1_speed
-#: For_Power/units/Lemyr_Lich.cfg:496 For_Power/units/Lemyr_Paladin.cfg:319
+#: For_Power/units/Lemyr_Lich.cfg:508 For_Power/units/Lemyr_Paladin.cfg:319
 msgid "faster with lance"
 msgstr ""
 
 #. [advancement]: id=lance3_speed
-#: For_Power/units/Lemyr_Lich.cfg:541 For_Power/units/Lemyr_Paladin.cfg:364
+#: For_Power/units/Lemyr_Lich.cfg:553 For_Power/units/Lemyr_Paladin.cfg:364
 msgid "always attacking first with lance"
 msgstr ""
 
 #. [advancement]: id=lance3_marksman
-#: For_Power/units/Lemyr_Lich.cfg:559 For_Power/units/Lemyr_Paladin.cfg:382
+#: For_Power/units/Lemyr_Lich.cfg:571 For_Power/units/Lemyr_Paladin.cfg:382
 msgid "more precise with lance"
 msgstr ""
 
 #. [advancement]: id=healing
-#: For_Power/units/Lemyr_Lich.cfg:615 For_Power/units/Lemyr_Paladin.cfg:438
+#: For_Power/units/Lemyr_Lich.cfg:627 For_Power/units/Lemyr_Paladin.cfg:438
 msgid "able to heal allies more"
 msgstr ""
 
 #. [advancement]: id=healing2
-#: For_Power/units/Lemyr_Lich.cfg:637 For_Power/units/Lemyr_Paladin.cfg:460
+#: For_Power/units/Lemyr_Lich.cfg:649 For_Power/units/Lemyr_Paladin.cfg:460
 msgid "able to cure allies"
 msgstr ""
 
 #. [advancement]: id=armour
-#: For_Power/units/Lemyr_Lich.cfg:737 For_Power/units/Lemyr_Paladin.cfg:560
+#: For_Power/units/Lemyr_Lich.cfg:749 For_Power/units/Lemyr_Paladin.cfg:560
 msgid "better protected from physical blows (2% better resistances)"
 msgstr ""
 
 #. [advancement]: id=hardy
-#: For_Power/units/Lemyr_Lich.cfg:756 For_Power/units/Lemyr_Paladin.cfg:579
+#: For_Power/units/Lemyr_Lich.cfg:768 For_Power/units/Lemyr_Paladin.cfg:579
 msgid "more hardy"
 msgstr ""
 
 #. [advancement]: id=armour2
-#: For_Power/units/Lemyr_Lich.cfg:814 For_Power/units/Lemyr_Paladin.cfg:637
+#: For_Power/units/Lemyr_Lich.cfg:826 For_Power/units/Lemyr_Paladin.cfg:637
 msgid "better protected from magical attacks (1 or 2% better resistances)"
 msgstr ""
 
 #. [advancement]: id=magic2
 #. [advancement]: id=magic3
-#: For_Power/units/Lemyr_Lich.cfg:853 For_Power/units/Lemyr_Lich.cfg:872
+#: For_Power/units/Lemyr_Lich.cfg:865 For_Power/units/Lemyr_Lich.cfg:884
 #: For_Power/units/Lemyr_Paladin.cfg:676 For_Power/units/Lemyr_Paladin.cfg:695
 msgid "better with lightbeam (also increases chance to hit)"
 msgstr ""
 
 #. [advancement]: id=magic3_speed
 #. [advancement]: id=magic5_speed
-#: For_Power/units/Lemyr_Lich.cfg:892 For_Power/units/Lemyr_Lich.cfg:938
+#: For_Power/units/Lemyr_Lich.cfg:904 For_Power/units/Lemyr_Lich.cfg:950
 #: For_Power/units/Lemyr_Paladin.cfg:715 For_Power/units/Lemyr_Paladin.cfg:761
 msgid "faster with lightbeam"
 msgstr ""
@@ -12733,29 +13507,29 @@ msgstr ""
 #. [advancement]: id=magic4
 #. [advancement]: id=magic5
 #. [advancement]: id=magic6
-#: For_Power/units/Lemyr_Lich.cfg:908 For_Power/units/Lemyr_Lich.cfg:923
-#: For_Power/units/Lemyr_Lich.cfg:953 For_Power/units/Lemyr_Paladin.cfg:731
+#: For_Power/units/Lemyr_Lich.cfg:920 For_Power/units/Lemyr_Lich.cfg:935
+#: For_Power/units/Lemyr_Lich.cfg:965 For_Power/units/Lemyr_Paladin.cfg:731
 #: For_Power/units/Lemyr_Paladin.cfg:746 For_Power/units/Lemyr_Paladin.cfg:776
 msgid "better with lightbeam"
 msgstr ""
 
 #. [advancement]: id=leadership3
-#: For_Power/units/Lemyr_Lich.cfg:1012
+#: For_Power/units/Lemyr_Lich.cfg:1024
 msgid "inspiring allies to fight even much better"
 msgstr ""
 
 #. [advancement]: id=shield
-#: For_Power/units/Lemyr_Lich.cfg:1034
+#: For_Power/units/Lemyr_Lich.cfg:1046
 msgid "able to make allies resist damage better (15% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield2
-#: For_Power/units/Lemyr_Lich.cfg:1050
+#: For_Power/units/Lemyr_Lich.cfg:1062
 msgid "able to make allies resist damage better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield3
-#: For_Power/units/Lemyr_Lich.cfg:1072
+#: For_Power/units/Lemyr_Lich.cfg:1084
 msgid "able to make allies resist damage better (25% to resistances)"
 msgstr ""
 
@@ -13335,6 +14109,157 @@ msgstr ""
 msgid ""
 "Merissa led her friends for a few days to a place where Clare never was. It "
 "was not definitely in her (former) realm."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/utils5/cave.cfg:48
+msgid "I can sense a powerful minion of him close to this place."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/utils5/cave.cfg:55
+msgid "Another fiend to destroy. On him!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/utils5/cave.cfg:62
+msgid "One of his pets is near. Let us send him where he belongs."
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:244
+msgid ""
+"$item_list.object[$item_number].description\n"
+"Take this item?"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:341
+msgid "Which unit would you like to recall?"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:344 For_Power/utils5/cave.cfg:376
+msgid "None"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:350
+msgid ""
+"&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i]."
+"language_name"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:365
+msgid "&{IMAGE}={TYPE}"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:386
+msgid "Glitch"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:389
+msgid "New obligation: Report this bug on the forums"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:398
+msgid "Ring of Health"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:411
+msgid "Leather Armor"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:414
+msgid "This armor grants the wearer 10/15% better physical resistances!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:428
+msgid "Armor of Inferno Dweller"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:431
+msgid ""
+"This armor grants the wearer 15/25% better physical resistances and 30% "
+"better fire resistance!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:446
+msgid "Armor of the Cold-hearted One"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:449
+msgid ""
+"This armor grants the wearer 15/25% better physical resistances and 30% "
+"better cold resistance!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:464
+msgid "Guide of the Treasure Hunter"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:467
+msgid "This book teaches the reader to be faster in caves!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:483
+msgid "Ring of Eternity"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:486
+msgid ""
+"The essence of immortality spreads within this item's wearer, granting "
+"additional 5 maximum hitpoints and regenerates ability!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:502
+msgid "Warlord's Armor"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:505
+msgid ""
+"This armor grants the wearer 30% better physical resistances and level 3 "
+"leadership but slows him down!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:529
+msgid "Bombs"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:532
+msgid "This unit can throw bombs at its enemies!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:539
+msgid "bomb"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:547
+msgid "Robe of mages"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:550
+msgid ""
+"This robe grants the wearer 20% better magical resistances and allows "
+"casting lighting!"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:566
+msgid "lighting"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:578
+msgid "Ring of titanic strength"
+msgstr ""
+
+#: For_Power/utils5/cave.cfg:581
+msgid "This ring grants the wearer +3 melee damage!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/utils5/deaths.cfg:102
+msgid "I fall to the darkness."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/utils5/deaths.cfg:106
+msgid "Jolla! No!"
 msgstr ""
 
 #. [part]
