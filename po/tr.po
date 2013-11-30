@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 17:58-0400\n"
+"POT-Creation-Date: 2013-11-30 19:16+0100\n"
 "PO-Revision-Date: 2013-08-02 23:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -6868,54 +6868,61 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:276
-msgid ""
-"I think that I have to use necromancy to survive. I know that this is bad "
-"but I have no more options. I hope that no one will see it."
+msgid "This is not good at all. What shall I do?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:291
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:283
+msgid ""
+"Oh, I can see some corpses lying nearby. I think that I have to rise them in "
+"order to survive, I would be able to do it. I know that this is bad but I "
+"can do nothing else. I only hope that no one will see me doing something "
+"such horrible."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:298
 msgid ""
 "Wow. These undead are very good even if I have no experiences with "
 "necromancy."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:306
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:313
 msgid "Not a real challange for me."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:310
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:317
 msgid ""
 "No. They have no chance against these necromancers. I have to kill them at "
 "my own."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:347
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:354
 msgid "My master will kill you, little witch!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:354
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:361
 msgid "They ... will ... reject you ..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:361
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:368
 msgid "No this is impossible!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:382
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:389
 msgid ""
 "Well I made it. But I think that something weird is happening here. I have "
 "to investigate it."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:420
+#: For_Power/scenarios2/10_Undeads_in_front_of_Dwarven_Doors.cfg:427
 msgid "More undead are coming. I am doomed."
 msgstr ""
 
@@ -14140,16 +14147,6 @@ msgstr ""
 msgid "None"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:350
-msgid ""
-"&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i]."
-"language_name"
-msgstr ""
-
-#: For_Power/utils5/cave.cfg:365
-msgid "&{IMAGE}={TYPE}"
-msgstr ""
-
 #: For_Power/utils5/cave.cfg:386
 msgid "Glitch"
 msgstr ""
@@ -14237,11 +14234,11 @@ msgstr ""
 #: For_Power/utils5/cave.cfg:550
 msgid ""
 "This robe grants the wearer 20% better magical resistances and allows "
-"casting lighting!"
+"casting lightning!"
 msgstr ""
 
 #: For_Power/utils5/cave.cfg:566
-msgid "lighting"
+msgid "lightning"
 msgstr ""
 
 #: For_Power/utils5/cave.cfg:578
