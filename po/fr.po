@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:55+0100\n"
+"POT-Creation-Date: 2014-03-03 21:39+0100\n"
 "PO-Revision-Date: 2013-08-02 23:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -699,6 +699,7 @@ msgstr ""
 #: For_Power/scenarios5/04_March_to_the_East.cfg:26
 #: For_Power/scenarios5/05_An_old_friend.cfg:27
 #: For_Power/scenarios5/06_Entrance.cfg:27 For_Power/scenarios5/07_Cave.cfg:31
+#: For_Power/scenarios5/08_Avenger.cfg:65
 msgid "Clare"
 msgstr ""
 
@@ -727,6 +728,7 @@ msgid "Lemyr"
 msgstr ""
 
 #. [side]
+#. [side]: type=Dark Lord human, id=Shyama
 #. [side]: type=Dwarvish Lord, id=dwarf
 #. [side]: type=Elvish Hero, id=elf
 #. [side]: type=Fire Dragon, id=dragon
@@ -739,7 +741,8 @@ msgstr ""
 #: For_Power/scenarios5/04_March_to_the_East.cfg:45
 #: For_Power/scenarios5/05_An_old_friend.cfg:141
 #: For_Power/scenarios5/06_Entrance.cfg:45 For_Power/scenarios5/07_Cave.cfg:49
-#: For_Power/scenarios5/07_Cave.cfg:275 For_Power/utils5/cave.cfg:8
+#: For_Power/scenarios5/07_Cave.cfg:275 For_Power/scenarios5/08_Avenger.cfg:81
+#: For_Power/utils5/cave.cfg:8
 msgid "Evil"
 msgstr ""
 
@@ -776,6 +779,8 @@ msgstr ""
 #: For_Power/scenarios5/05_An_old_friend.cfg:23
 #: For_Power/scenarios5/05_An_old_friend.cfg:45
 #: For_Power/scenarios5/06_Entrance.cfg:23 For_Power/scenarios5/07_Cave.cfg:26
+#: For_Power/scenarios5/08_Avenger.cfg:60
+#: For_Power/scenarios5/08_Avenger.cfg:109
 msgid "Good"
 msgstr ""
 
@@ -2318,7 +2323,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: For_Power/scenarios/07_Searching_The_Mage.cfg:126
-msgid "Find the mage's place"
+msgid "Find Haldar's place with Clare"
 msgstr ""
 
 #. [message]: speaker=Tinry
@@ -6584,6 +6589,7 @@ msgstr ""
 #: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:116
 #: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:354
 #: For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:105
+#: For_Power/scenarios5/08_Avenger.cfg:152
 msgid "This scenario uses 24 hours schedule unlike the rest."
 msgstr ""
 
@@ -8220,6 +8226,7 @@ msgstr ""
 #: For_Power/scenarios5/04_March_to_the_East.cfg:116
 #: For_Power/scenarios5/05_An_old_friend.cfg:176
 #: For_Power/scenarios5/06_Entrance.cfg:105
+#: For_Power/scenarios5/08_Avenger.cfg:129
 msgid "Destruction of Clare, Merrisa or Lemyr"
 msgstr ""
 
@@ -10477,6 +10484,7 @@ msgstr ""
 #: For_Power/scenarios5/04_March_to_the_East.cfg:120
 #: For_Power/scenarios5/05_An_old_friend.cfg:180
 #: For_Power/scenarios5/06_Entrance.cfg:109
+#: For_Power/scenarios5/08_Avenger.cfg:133
 msgid "Death of Jolla or Amiwen"
 msgstr ""
 
@@ -13155,6 +13163,234 @@ msgstr ""
 msgid "Yes, I know that our world is doomed, just shut up your ugly mouth!"
 msgstr ""
 
+#. [scenario]: id=08_Avenger
+#: For_Power/scenarios5/08_Avenger.cfg:21
+msgid "Avenger"
+msgstr ""
+
+#. [side]: type=Dark Lord human, id=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:85
+msgid "Shyama"
+msgstr ""
+
+#. [objective]: condition=win
+#: For_Power/scenarios5/08_Avenger.cfg:125
+msgid "Defeat Shyama"
+msgstr ""
+
+#. [objective]: condition=lose
+#: For_Power/scenarios5/08_Avenger.cfg:143
+msgid "Death of Jolla, Amiwen or Bhaskara"
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/08_Avenger.cfg:180
+msgid ""
+"We are nearly at home. Oh, I am so tired from all of this fighting. I cannot "
+"wait to go to bed and rest for a while."
+msgstr ""
+
+#. [message]: speaker=Amiwen
+#: For_Power/scenarios5/08_Avenger.cfg:184
+msgid ""
+"I worry that you have to fight for a bit longer. Someone is blocking our way."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/08_Avenger.cfg:194
+msgid "A mere necromancer cannot postpone my rest for a long time."
+msgstr ""
+
+#. [message]: speaker=$puritan
+#: For_Power/scenarios5/08_Avenger.cfg:213
+msgid ""
+"She is not a mere necromancer by any means. I am not sure what she is but "
+"she wields really great powers. It will not be easy to defeat her."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:217
+msgid ""
+"You're right, I'm very powerful. I can kill two of your 'great' mages "
+"without problem. And not only this. Every damned evildoer around will help "
+"me with my vengeance on you."
+msgstr ""
+
+#. [message]: speaker=$puritan
+#: For_Power/scenarios5/08_Avenger.cfg:221
+msgid ""
+"I have not the slightest idea what we have done you but we will send you to "
+"the land of dead with your minions quickly."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:225
+msgid ""
+"Hahaha, I haven't heard anything so funny and nonsense for a long time. Do "
+"you know who I am?"
+msgstr ""
+
+#. [message]: speaker=$puritan
+#: For_Power/scenarios5/08_Avenger.cfg:229
+msgid "No but I do not really care."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:233
+msgid ""
+"My name is Shyama. I belong to a group of dark mages with unmatched powers. "
+"We're the dark lords. We seek to rule all Irdya ... well, we will one day, "
+"we're just waiting for the right time to show up. Until then ... we just "
+"relish watching our minions to cause havoc on the Great Continent and "
+"slaughter mere mortals."
+msgstr ""
+
+#. [message]: speaker=$puritan
+#: For_Power/scenarios5/08_Avenger.cfg:237
+msgid ""
+"That sounds very horrible. I and my friends will do anything to put an end "
+"to your evil. Well, you were aware that we would do it if we knew about your "
+"aims so you wanted to send us to the land of dead. It is clear to me but I "
+"do not understand why right now and why are you speaking about your revenge."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:241
+msgid ""
+"Don't get me wrong. We don't want to get rid of your friend Clare. She'll "
+"have an important role in the ongoing events so we wish to ... keep her in "
+"this world. Well, I meant the others want this, not me. They must forgive me "
+"but I can't let you walk this world anymore after you destroyed my dear "
+"Ganesha. I know you understand me, you would did it too if someone harmed "
+"you friend Lemyr. I must do it but I'll enjoy it too."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:245
+msgid ""
+"I ... you are a fool when you are challenging me. You have no chance at all. "
+"But enough talking. Slay her with all her minions!"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:343
+msgid ""
+"Look! It seems that her legions are endless. I am not sure if we can defeat "
+"her."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:347
+msgid ""
+"Trust the lords of light, my friend. They are with us. The good always "
+"prevails at the end."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:353
+msgid ""
+"Oh no! She has too many soldiers and Jolla with her friends is still not "
+"returning. I am not sure if we can defeat her."
+msgstr ""
+
+#. [unit]: type=Prophet, id=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:362
+msgid "Bhaskara"
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:375
+msgid ""
+"We have finally found you, fiend! It took us several years but now we can "
+"finally send you to the fiery wastelands of Urvatha and fulfil the God's "
+"will. Men, slay her!"
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:379
+msgid ""
+"I was awaiting you, Bhaskara. They told me about your endeavor but you have "
+"no chance against me at all. You'll soon join these fools in the land of "
+"dead."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:383
+msgid ""
+"Who are you talking about? Oh my God ... three liches and they are fighting "
+"on the side of good. It is really weird."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:392
+msgid ""
+"You may trust them, brother. Yes, I was suprised by it as well but their "
+"hearts are still pure. "
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:392
+msgid "At least, the darkness did not absorb them completly."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:396
+msgid ""
+"I am not so sure about it but I think that you may be trusted, sister. So we "
+"accept your help against her but I will not let you lead my men. And when we "
+"are done with her we will leave once and for all."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/08_Avenger.cfg:402
+msgid ""
+"I am aware what they are but they raised me. They did many good deeds even "
+"before I was born and they still do. You may trust them."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:406
+msgid ""
+"I know nothing about their deeds but I can see pureness in your heart, young "
+"one. So we accept your help against her but I will not let you lead my men. "
+"And when we are done with her we will leave once and for all."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:412
+msgid ""
+"It was not nice but I understand you. I do not either like what we are but "
+"there was no other way. And we still fight the evil. But enough talking, on "
+"her!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/08_Avenger.cfg:417
+msgid ""
+"Although Bhaskara does not let you command him and his men, you can still "
+"instruct him to move somewhere but only himself."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/08_Avenger.cfg:436
+msgid "I have ... failed. Please, forgive me."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:447
+msgid "Without him, we have no chance to defeat her."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:464
+msgid "Now there will be no dawn until the end of the days, haha."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:468
+msgid "Everything is lost now."
+msgstr ""
+
 #. [unit_type]: id=Amiwen_Elvish Seer, race=elf
 #: For_Power/units/Amiwen_Elvish_Seer.cfg:5
 msgid "female^Elvish Seer"
@@ -13773,15 +14009,15 @@ msgstr ""
 
 #. [unit_type]: id=Dark Lord human, race=human
 #. [unit_type]: id=Dark Lord, race=undead
-#: For_Power/units/dark-lords.cfg:6 For_Power/units/dark-lords.cfg:386
-#: For_Power/units/dark-lords.cfg:797
+#: For_Power/units/dark-lords.cfg:6 For_Power/units/dark-lords.cfg:385
+#: For_Power/units/dark-lords.cfg:796
 msgid "Dark Lord"
 msgstr ""
 
 #. [unit_type]: id=Dark Lord human, race=human
 #. [unit_type]: id=Dark Lord, race=undead
-#: For_Power/units/dark-lords.cfg:31 For_Power/units/dark-lords.cfg:412
-#: For_Power/units/dark-lords.cfg:823
+#: For_Power/units/dark-lords.cfg:30 For_Power/units/dark-lords.cfg:411
+#: For_Power/units/dark-lords.cfg:822
 msgid ""
 "These are the commanders of dark legions. Most of their soldiers obey them "
 "because of fear. They possess unmatched powers and spread despair and "
@@ -13791,14 +14027,14 @@ msgid ""
 msgstr ""
 
 #. [illuminates]: id=darkens
-#: For_Power/units/dark-lords.cfg:58 For_Power/units/dark-lords.cfg:437
-#: For_Power/units/dark-lords.cfg:848
+#: For_Power/units/dark-lords.cfg:57 For_Power/units/dark-lords.cfg:436
+#: For_Power/units/dark-lords.cfg:847
 msgid "darkens"
 msgstr ""
 
 #. [illuminates]: id=darkens
-#: For_Power/units/dark-lords.cfg:59 For_Power/units/dark-lords.cfg:438
-#: For_Power/units/dark-lords.cfg:849
+#: For_Power/units/dark-lords.cfg:58 For_Power/units/dark-lords.cfg:437
+#: For_Power/units/dark-lords.cfg:848
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse.\n"
@@ -13808,24 +14044,24 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: For_Power/units/dark-lords.cfg:66
+#: For_Power/units/dark-lords.cfg:65
 msgid "touch of the death"
 msgstr ""
 
 #. [female]
-#: For_Power/units/dark-lords.cfg:209 For_Power/units/dark-lords.cfg:659
-#: For_Power/units/dark-lords.cfg:1070
+#: For_Power/units/dark-lords.cfg:208 For_Power/units/dark-lords.cfg:658
+#: For_Power/units/dark-lords.cfg:1069
 msgid "Dark Lady"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=unit
-#: For_Power/units/dark-lords.cfg:226 For_Power/units/dark-lords.cfg:245
+#: For_Power/units/dark-lords.cfg:225 For_Power/units/dark-lords.cfg:244
 msgid "Nice try but I am immune to such a spell."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/units/dark-lords.cfg:272
+#: For_Power/units/dark-lords.cfg:271
 msgid "Prepare to turn into a stone!"
 msgstr ""
 
