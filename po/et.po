@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-03 21:39+0100\n"
+"POT-Creation-Date: 2014-04-11 15:10+0200\n"
 "PO-Revision-Date: 2013-08-02 23:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -553,9 +553,9 @@ msgstr ""
 #: For_Power/multiplayer/Seeking_evil.cfg:95
 #: For_Power/multiplayer/Seeking_evil.cfg:509
 #: For_Power/multiplayer/Seeking_evil.cfg:918
-#: For_Power/multiplayer/Source_of_evil.cfg:20
-#: For_Power/multiplayer/Source_of_evil.cfg:49
-#: For_Power/multiplayer/Source_of_evil.cfg:113
+#: For_Power/multiplayer/Source_of_evil.cfg:19
+#: For_Power/multiplayer/Source_of_evil.cfg:48
+#: For_Power/multiplayer/Source_of_evil.cfg:112
 msgid "Heroes"
 msgstr ""
 
@@ -570,7 +570,7 @@ msgstr ""
 #. [side]: type=Red Mage, id=Clare
 #. [unit]: id=Clare, type=Clare_Lich
 #: For_Power/multiplayer/Seeking_evil.cfg:62
-#: For_Power/multiplayer/Source_of_evil.cfg:26
+#: For_Power/multiplayer/Source_of_evil.cfg:25
 #: For_Power/scenarios/01_Defend_the_village.cfg:26
 #: For_Power/scenarios/02_Flight.cfg:33 For_Power/scenarios/02_Flight.cfg:37
 #: For_Power/scenarios/03_The_Earl.cfg:45
@@ -710,7 +710,7 @@ msgstr ""
 #. [unit]: type=Lemyr_Lich, id=Lemyr
 #. [unit]: type=Paladin, id=Lemyr
 #: For_Power/multiplayer/Seeking_evil.cfg:100
-#: For_Power/multiplayer/Source_of_evil.cfg:54
+#: For_Power/multiplayer/Source_of_evil.cfg:53
 #: For_Power/scenarios/01_Defend_the_village.cfg:44
 #: For_Power/scenarios/15a_Back_Home.cfg:39
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:41
@@ -749,7 +749,7 @@ msgstr ""
 #. [side]: type=Necromancer, id=necro
 #. [unit]: type=Necromancer, id=necro
 #: For_Power/multiplayer/Seeking_evil.cfg:138
-#: For_Power/multiplayer/Source_of_evil.cfg:321
+#: For_Power/multiplayer/Source_of_evil.cfg:320
 msgid "Cilith"
 msgstr ""
 
@@ -791,7 +791,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: For_Power/multiplayer/Seeking_evil.cfg:299
-#: For_Power/multiplayer/Source_of_evil.cfg:139
+#: For_Power/multiplayer/Source_of_evil.cfg:138
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:111
 #: For_Power/scenarios/18a_The_Last_battle.cfg:185
 #: For_Power/scenarios/18a_The_Last_battle.cfg:532
@@ -818,7 +818,7 @@ msgstr ""
 #. [objective]: condition=lose
 #. [objective]: condition=win
 #: For_Power/multiplayer/Seeking_evil.cfg:303
-#: For_Power/multiplayer/Source_of_evil.cfg:143
+#: For_Power/multiplayer/Source_of_evil.cfg:142
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:115
 #: For_Power/scenarios/18b_The_Truth.cfg:101
 #: For_Power/scenarios3/02_More_undeads.cfg:445 For_Power/utils/chapter1.cfg:9
@@ -959,11 +959,11 @@ msgid ""
 "Please, take it and kill the dragon."
 msgstr ""
 
-#. [message]: id=Tinry
 #. [message]: speaker=Clare
 #. [message]: speaker=Haldar
 #. [message]: speaker=Lemyr
 #. [message]: speaker=Merissa
+#. [message]: speaker=Tinry
 #. [message]: speaker=necro
 #. [message]: speaker=unit
 #: For_Power/multiplayer/Seeking_evil.cfg:585
@@ -971,7 +971,7 @@ msgstr ""
 #: For_Power/scenarios/14b_More_Power.cfg:64
 #: For_Power/scenarios/17a_Conversation_with_the_earl.cfg:123
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:191
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:317
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:320
 #: For_Power/scenarios2/13b_The_Underground.cfg:328
 #: For_Power/scenarios3/02_More_undeads.cfg:656
 #: For_Power/scenarios4/05_Back_in_the_city.cfg:185
@@ -1249,81 +1249,81 @@ msgid "FP - Source of evil"
 msgstr ""
 
 #. [side]: type=Elvish Sylph, id=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:78
+#: For_Power/multiplayer/Source_of_evil.cfg:77
 msgid "Twisted good"
 msgstr ""
 
 #. [side]: type=Elvish Sylph, id=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:82
+#: For_Power/multiplayer/Source_of_evil.cfg:81
 msgid "Luthien"
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/multiplayer/Source_of_evil.cfg:135
+#: For_Power/multiplayer/Source_of_evil.cfg:134
 msgid "Kill Luthien"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:159
+#: For_Power/multiplayer/Source_of_evil.cfg:158
 msgid ""
 "Where are we? Hmm, this place does not look like a den of a villian. It is "
 "really nice here but it is empty."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:163
+#: For_Power/multiplayer/Source_of_evil.cfg:162
 msgid "Wait, I can see someone in distance."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:173
+#: For_Power/multiplayer/Source_of_evil.cfg:172
 msgid ""
 "An elf? Well, it is not so weird because there is a forest here after all "
 "but ..."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:177
+#: For_Power/multiplayer/Source_of_evil.cfg:176
 msgid "Welcome in my humble lair, humans."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:181
+#: For_Power/multiplayer/Source_of_evil.cfg:180
 msgid "Wait. So you are behind this all evil things? I cannot believe it."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:185
+#: For_Power/multiplayer/Source_of_evil.cfg:184
 msgid "Of course I am not. I do only good deeds."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:189
+#: For_Power/multiplayer/Source_of_evil.cfg:188
 msgid "In this case, may you tell us who got us at this place?"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:193
+#: For_Power/multiplayer/Source_of_evil.cfg:192
 msgid "It was me."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:197
+#: For_Power/multiplayer/Source_of_evil.cfg:196
 msgid "Did you not just tell that you are not behind this all?"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:201
+#: For_Power/multiplayer/Source_of_evil.cfg:200
 msgid "You misunderstood me. I am behind it but I do nothing wrong."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:205
+#: For_Power/multiplayer/Source_of_evil.cfg:204
 msgid "So killing other people is all right for you?"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:209
+#: For_Power/multiplayer/Source_of_evil.cfg:208
 msgid ""
 "I do not like killing but most of them deserve it. They harm not only "
 "forests but the nature generally. They do not understand the laws of the "
@@ -1331,19 +1331,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:213
+#: For_Power/multiplayer/Source_of_evil.cfg:212
 msgid "So you are going to kill all no-elves?"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:217
+#: For_Power/multiplayer/Source_of_evil.cfg:216
 msgid ""
 "Not all of them. For example, you. You seem to be good, for humans. You are "
 "very powerful as well. I may let you help me in my noble quest."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:221
+#: For_Power/multiplayer/Source_of_evil.cfg:220
 msgid ""
 "We will not help you in this slaughtering. I think that your power corrupted "
 "you. I feel really sorry for you but we cannot let you murder people. We "
@@ -1351,12 +1351,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:225
+#: For_Power/multiplayer/Source_of_evil.cfg:224
 msgid "Yes, prepare to die, fallen fairy!"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:229
+#: For_Power/multiplayer/Source_of_evil.cfg:228
 msgid ""
 "You are fools. You cannot defeat me in my own realm. I control it here. And "
 "not only that. Many good elves will fight at my side because they share my "
@@ -1364,75 +1364,75 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: For_Power/multiplayer/Source_of_evil.cfg:279
+#: For_Power/multiplayer/Source_of_evil.cfg:278
 msgid "Amadrieriand"
 msgstr ""
 
 #. [message]: speaker=lord
-#: For_Power/multiplayer/Source_of_evil.cfg:286
+#: For_Power/multiplayer/Source_of_evil.cfg:285
 msgid ""
 "We are finally here! I apologize that we let you wait for us, our beloved "
 "perfect wise beautiful ..."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:290
+#: For_Power/multiplayer/Source_of_evil.cfg:289
 msgid ""
 "Please, stop it. You are making me embarrassed. The only important thing is "
 "that you have arrived. Help me with them, please."
 msgstr ""
 
 #. [message]: speaker=lord
-#: For_Power/multiplayer/Source_of_evil.cfg:294
+#: For_Power/multiplayer/Source_of_evil.cfg:293
 msgid "Anything for our queen. Send those humans where they belong!"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:298
+#: For_Power/multiplayer/Source_of_evil.cfg:297
 msgid ""
 "Oh, look at them. They adore me. Do you really think that they could adore "
 "anyone evil?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:302
+#: For_Power/multiplayer/Source_of_evil.cfg:301
 msgid "I am pretty sure that you control their pure minds by a spell."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:306
+#: For_Power/multiplayer/Source_of_evil.cfg:305
 msgid "How do you dare?! I could never do such a thing."
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/multiplayer/Source_of_evil.cfg:338
+#: For_Power/multiplayer/Source_of_evil.cfg:337
 msgid "Yes! I made it!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:342
+#: For_Power/multiplayer/Source_of_evil.cfg:341
 msgid "Cilith? What you are doing here?"
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/multiplayer/Source_of_evil.cfg:346
+#: For_Power/multiplayer/Source_of_evil.cfg:345
 msgid "I promised to help you fighting this evil and it isn't over yet, is it?"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:350
+#: For_Power/multiplayer/Source_of_evil.cfg:349
 msgid "Well, it is not. It is good that you got yourself here."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:354
+#: For_Power/multiplayer/Source_of_evil.cfg:353
 msgid ""
 "Hmm, this is interesting. You are fighting on one side with a necromacer but "
 "call me evil."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:358
+#: For_Power/multiplayer/Source_of_evil.cfg:357
 msgid ""
 "She is lesser evil than you. She does not seek more power like most of the "
 "necromancers but knowledge. But it is not important. With her help we will "
@@ -1440,94 +1440,94 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:372
+#: For_Power/multiplayer/Source_of_evil.cfg:371
 msgid ""
 "And now you are attacking an innocent and peaceful person. I do not think "
 "that I am the evil one here."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/multiplayer/Source_of_evil.cfg:384
+#: For_Power/multiplayer/Source_of_evil.cfg:383
 msgid "No! Please, save me, milady."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:388
+#: For_Power/multiplayer/Source_of_evil.cfg:387
 msgid ""
 "I promise you that you will feel no pain from this moment. That you will "
 "live on a beautiful place like this."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/multiplayer/Source_of_evil.cfg:392
+#: For_Power/multiplayer/Source_of_evil.cfg:391
 msgid "Thank you very much, milady."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/multiplayer/Source_of_evil.cfg:405
+#: For_Power/multiplayer/Source_of_evil.cfg:404
 msgid "What?! Where is she?"
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:409
+#: For_Power/multiplayer/Source_of_evil.cfg:408
 msgid ""
 "I already said it. I healed all wounds what you caused her and sent her away "
 "from you. You will never find her."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/multiplayer/Source_of_evil.cfg:426
+#: For_Power/multiplayer/Source_of_evil.cfg:425
 msgid ""
 "At least I die for a good cause. Only thing I wish is to see your face for "
 "the last time, milady."
 msgstr ""
 
 #. [message]: speaker=Luthien
-#: For_Power/multiplayer/Source_of_evil.cfg:430
+#: For_Power/multiplayer/Source_of_evil.cfg:429
 msgid "I am here, my dear. And I promise that they will pay for this."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/multiplayer/Source_of_evil.cfg:441
+#: For_Power/multiplayer/Source_of_evil.cfg:440
 msgid ""
 "No! Now no one can save this world. Mark my words, humans: nothing beautiful "
 "on Irdya will remain. Your foolish experiements with magic will doom us all."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:452
+#: For_Power/multiplayer/Source_of_evil.cfg:451
 msgid "What was she talking about?"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:456
+#: For_Power/multiplayer/Source_of_evil.cfg:455
 msgid ""
 "I have no idea. I think that she got crazy. Power can really change people."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:460
+#: For_Power/multiplayer/Source_of_evil.cfg:459
 msgid ""
 "You may be right. Well, this place is really nice but I prefer to return to "
 "our land."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/multiplayer/Source_of_evil.cfg:464
+#: For_Power/multiplayer/Source_of_evil.cfg:463
 msgid ""
 "Me too but first thank you for your help, Cilith. I think that you are not "
 "so bad like other necromancers."
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/multiplayer/Source_of_evil.cfg:468
+#: For_Power/multiplayer/Source_of_evil.cfg:467
 msgid ""
 "Thanks. Well, I like our world in fact. And it was fun to kick a crazy "
 "sylph's butt, hehe."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/multiplayer/Source_of_evil.cfg:472
+#: For_Power/multiplayer/Source_of_evil.cfg:471
 msgid "Let us leave this place."
 msgstr ""
 
@@ -1713,7 +1713,7 @@ msgstr ""
 
 #. [message]: speaker=Lemyr
 #: For_Power/scenarios/02_Flight.cfg:138
-msgid "NO! More orcs are coming."
+msgid "What is that what I can see in distance? No! More orcs are coming."
 msgstr ""
 
 #. [message]: speaker=Glacyn
@@ -1875,14 +1875,17 @@ msgstr ""
 #. [message]: speaker=Lemyr
 #: For_Power/scenarios/04_Return.cfg:255
 msgid ""
-"We have arrived, but this is not good news. The orcs have crossed the river!"
+"We have arrived, but this is not good news. The orcs have crossed the river! "
+"And it is even worse - their strongest warriors besieged our keep! They are "
+"standing above dead corpses of many of our militiamen. I worry that we have "
+"arrived too late to save my village."
 msgstr ""
 
 #. [message]: speaker=Rheran
 #: For_Power/scenarios/04_Return.cfg:259
 msgid ""
-"Worry not. My riders shall eliminate the orcs this side of the river, then "
-"we shall drive them back!"
+"Worry not, young knight. My riders shall eliminate the orcs this side of the "
+"river, then we shall drive them back! Your fellows will survive."
 msgstr ""
 
 #. [message]: speaker=Rheran
@@ -1892,7 +1895,9 @@ msgstr ""
 
 #. [message]: speaker=Glacyn
 #: For_Power/scenarios/04_Return.cfg:295
-msgid "I thank you, Sir Lemyr, for bringing us reinforcments."
+msgid ""
+"I thank you, Sir Lemyr, for bringing us reinforcements. We were already "
+"giving up on hope that we could keep our lives."
 msgstr ""
 
 #. [message]: speaker=Lemyr
@@ -1922,7 +1927,9 @@ msgstr ""
 
 #. [message]: speaker=Glacyn
 #: For_Power/scenarios/04_Return.cfg:366
-msgid "Give my thanks to the Earl."
+msgid ""
+"Agreed. But we shall not forgot to show our gratidute to our savior. "
+"Lieutenant, give my thanks to the Earl."
 msgstr ""
 
 #. [message]: speaker=Rheran
@@ -1937,7 +1944,7 @@ msgstr ""
 
 #. [message]: speaker=Lemyr
 #: For_Power/scenarios/04_Return.cfg:383
-msgid "And I am glad to be back."
+msgid "And I am also glad to be back."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2105,7 +2112,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/scenarios/05_A_Mage.cfg:275
-msgid "But... How? Who could have done such a thing?"
+msgid "But... How? And who could have done such a thing?"
 msgstr ""
 
 #. [message]: speaker=guard
@@ -2125,23 +2132,35 @@ msgstr ""
 msgid "I’m sorry, ma’am, but we need every guard to defend the village."
 msgstr ""
 
-#. [message]: speaker=Lemyr
+#. [message]: speaker=Clare
 #: For_Power/scenarios/05_A_Mage.cfg:291
 msgid ""
-"Clare, I am afraid that we must part ways again. Good luck in the search. "
-"Give the orc my hate, and that of the entire village."
+"Oh, yes, now when Glacyn is no longer among us the orcs will again attempt "
+"to raid our village for sure. So it seems that it is upon me to find that "
+"accursed orc who dared to do such a horrible thing and bring the justice to "
+"him. But you Lemyr will follow me on my mission, right?"
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/05_A_Mage.cfg:295
+msgid ""
+"I would really love to, my dearest friend but I feel that my place is here. "
+"I shall stay and replace Glacyn on his position. I was not officialy "
+"appointed to it yet but I am pretty that I will be. So sadly we must part "
+"ways again. Good luck in the search. Give the orc my hate, and that of the "
+"entire village."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/05_A_Mage.cfg:295
+#: For_Power/scenarios/05_A_Mage.cfg:299
 msgid ""
 "I suppose that you are right. I need to go now to stand a chance, so this is "
 "goodbye, for now. I hope we can re-unite at the soonest possible time."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/scenarios/05_A_Mage.cfg:299
-msgid "So do I, Clare."
+#: For_Power/scenarios/05_A_Mage.cfg:303
+msgid "So do I, my ... friend."
 msgstr ""
 
 #. [scenario]: id=06_On_The_Road
@@ -2488,18 +2507,46 @@ msgid ""
 "in the river. I never saw them but be careful."
 msgstr ""
 
-#. [message]: speaker=unit
+#. [message]: speaker=Tinry
 #: For_Power/scenarios/07_Searching_The_Mage.cfg:306
-msgid "I can feel the remnants of magic in the air. We have arrived."
+msgid ""
+"Aaaahhh! Some monsters just emerged from the deep water! The rumours were "
+"true. They'll drown us!"
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/07_Searching_The_Mage.cfg:310
+msgid ""
+"Tinry, you scaredy-cat! You forgot we're pretty quick so we can avoid them "
+"but if they dare to attack us I'm sure your guys could handle them. These "
+"creatures aren't so strong ... I think."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/scenarios/07_Searching_The_Mage.cfg:319
+#: For_Power/scenarios/07_Searching_The_Mage.cfg:314
+msgid "Ah, alright, alrigh. Let's go smite them, guys."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios/07_Searching_The_Mage.cfg:327
+msgid ""
+"I can feel the remnants of magic in the air. We have arrived. Well, thank "
+"you for your help, people, I could not get here without your help. But what "
+"is ahead is just for me. Wait for me here, I shall be back soon."
+msgstr ""
+
+#. [message]: speaker=Tinry
+#: For_Power/scenarios/07_Searching_The_Mage.cfg:331
+msgid "Yes, ma'am!"
+msgstr ""
+
+#. [message]: speaker=Tinry
+#: For_Power/scenarios/07_Searching_The_Mage.cfg:344
 msgid "There goes the last of our water."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/07_Searching_The_Mage.cfg:323
+#: For_Power/scenarios/07_Searching_The_Mage.cfg:348
 msgid ""
 "All the water in these mountains is infectious, so I suppose... This is it. "
 "We are doomed."
@@ -2512,12 +2559,17 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/scenarios/08_The_Teacher.cfg:51
-msgid "Are you here, Haldar?"
+msgid ""
+"Well, I am here finally. Hm, why does he have to reside in a dark cave? It "
+"is very unusual. But I think that this is not important. He is a master of "
+"magic and can teach me many of his arts so I should not complain. I better "
+"look for him. Ehm, where are you, Haldar?"
 msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/scenarios/08_The_Teacher.cfg:60
-msgid "You are here."
+#: For_Power/scenarios3/07_Back_in_underground.cfg:288
+msgid "Here you are."
 msgstr ""
 
 #. [message]: speaker=Haldar
@@ -2554,7 +2606,9 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/08_The_Teacher.cfg:88
-msgid "It was surely an orc. But how can I help you?"
+msgid ""
+"It was surely an orc. They are well known to do such things. But how can I "
+"help you?"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2575,7 +2629,8 @@ msgstr ""
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/08_The_Teacher.cfg:104
 msgid ""
-"I am not a common mage. I walk on more darker paths. I am a necromancer."
+"I am not a common mage. I do not limit myself to the knowledge that is "
+"taught at the Academy. I walk on more darker paths. I am a necromancer."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2596,14 +2651,14 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/08_The_Teacher.cfg:121
-msgid "Didn't you hear anything about me?"
+msgid "Did you not hear anything about me?"
 msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/scenarios/08_The_Teacher.cfg:125
 msgid ""
-"Two bandits said something but I didn't trust them. They are bandits. But "
-"this is wrong."
+"Two bandits said something but I did not trust them. They are bandits, they "
+"are not shy to tell a lie for any reason. But this is wrong."
 msgstr ""
 
 #. [message]: speaker=Haldar
@@ -2654,79 +2709,133 @@ msgstr ""
 msgid "Mubryn"
 msgstr ""
 
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/09a_Bandits.cfg:59
+msgid "Hey, Tinry! Someone's coming out of the cave. Go to check who's that."
+msgstr ""
+
 #. [message]: speaker=Tinry
-#: For_Power/scenarios/09a_Bandits.cfg:56
+#: For_Power/scenarios/09a_Bandits.cfg:63
+msgid "Yeah, I'm going ... Looks like a girl. I think it's Clare."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/09a_Bandits.cfg:67
+msgid "Yes, Tinry, it is me. I am back."
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/09a_Bandits.cfg:71
+msgid "Hmmm, that was somehow quick. Tell me what happend."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/09a_Bandits.cfg:75
+msgid ""
+"You were right, Haldar was evil, you were right. But what can i do now? I "
+"sense that accursed orc. He may be just a few days of walking from us but he "
+"is hiding in an orcish city. It is protected by dozens of other orcs. I "
+"cannot crush such a big force just at my own. Could you help me one more "
+"time, please?"
+msgstr ""
+
+#. [message]: speaker=Tinry
+#: For_Power/scenarios/09a_Bandits.cfg:79
+msgid "Well, no. Sorry but we're too few to attack a city."
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/09a_Bandits.cfg:83
+msgid ""
+"But we know someone who could help you. But you won't like him either I "
+"fear. He's a well known highwayman. He killed many men of law chasing just "
+"alone. But also he's gathered a quite bigger group of guys as tough and "
+"strong as him. His name is Mubryn. His band could make what you need."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/09a_Bandits.cfg:87
+msgid "Can you show me where he lives? "
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/09a_Bandits.cfg:91
+msgid "Sure, we'll accompany you!"
+msgstr ""
+
+#. [message]: speaker=Tinry
+#: For_Power/scenarios/09a_Bandits.cfg:105
 msgid "Hi, Mubryn."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/09a_Bandits.cfg:60
+#: For_Power/scenarios/09a_Bandits.cfg:109
 msgid ""
 "Tinry and Merissa? I haven't seen you for a long time. Why are you here?"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/scenarios/09a_Bandits.cfg:64
+#: For_Power/scenarios/09a_Bandits.cfg:113
 msgid "This lady..."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/scenarios/09a_Bandits.cfg:68
+#: For_Power/scenarios/09a_Bandits.cfg:117
 msgid "She isn't a lady."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/scenarios/09a_Bandits.cfg:72
+#: For_Power/scenarios/09a_Bandits.cfg:121
 msgid "... needs your help to kill some orc."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/09a_Bandits.cfg:76
+#: For_Power/scenarios/09a_Bandits.cfg:125
 msgid "Some orc, you say? Can't you handle one orc, Tinry?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/09a_Bandits.cfg:80
+#: For_Power/scenarios/09a_Bandits.cfg:129
 msgid ""
 "Maybe he is only one, but he is quick and likes night actions. He killed my "
 "village's sergant."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/09a_Bandits.cfg:84
+#: For_Power/scenarios/09a_Bandits.cfg:133
 msgid ""
 "I don't like his kind, but hate the orcs much more. But why should I do this?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/09a_Bandits.cfg:88
+#: For_Power/scenarios/09a_Bandits.cfg:137
 msgid "Maybe they will forgive you some of your not so good deeds."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/09a_Bandits.cfg:92
+#: For_Power/scenarios/09a_Bandits.cfg:141
 msgid "Do I have any guarantees?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/09a_Bandits.cfg:96
+#: For_Power/scenarios/09a_Bandits.cfg:145
 msgid ""
 "I cannot promise you anything but my words have some importance in my "
 "village."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/09a_Bandits.cfg:100
+#: For_Power/scenarios/09a_Bandits.cfg:149
 msgid "Ok, I can do this. Alas this will be expensive."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/09a_Bandits.cfg:104
+#: For_Power/scenarios/09a_Bandits.cfg:153
 msgid "You will recieve adequate compensation."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/09a_Bandits.cfg:108
+#: For_Power/scenarios/09a_Bandits.cfg:157
 msgid ""
 "So we have a deal then. Guys, prepare yourself. We are leaving immediately."
 msgstr ""
@@ -2761,7 +2870,8 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/09b_Learning_Dark_Arts.cfg:127
-msgid "You are a great apprentice, Clare. I am proud of you."
+msgid ""
+"You are a great apprentice, Clare, you learn very quickly. I am proud of you."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2776,8 +2886,8 @@ msgstr ""
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/09b_Learning_Dark_Arts.cfg:135
 msgid ""
-"Alas this is only a begining. Your true power is not in you but in your "
-"minions."
+"Alas this is only a begining. You learnt a few useful spells but your true "
+"power is not in you but in your minions."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2788,8 +2898,9 @@ msgstr ""
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/09b_Learning_Dark_Arts.cfg:143
 msgid ""
-"This is only a weak example of the path you chose. There are also skeletons, "
-"revenants and even ghosts."
+"This is only a weak example of the path you chose. A master of necromancy "
+"has much stronger minions under his command: skeletons, revenants and even "
+"ghosts."
 msgstr ""
 
 #. [message]: speaker=Haldar
@@ -2830,7 +2941,9 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/09b_Learning_Dark_Arts.cfg:201
-msgid "No, they are not for you, only for your minions!"
+msgid ""
+"No, they are not for you, only for your minions! Summoning them is quite "
+"easy but you need to learn to command them properly too."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2881,26 +2994,36 @@ msgstr ""
 msgid "An Exercise"
 msgstr ""
 
-#. [message]: speaker=orc
+#. [message]: speaker=Clare
 #: For_Power/scenarios/10a_An_Exercise.cfg:71
 msgid ""
-"Human worms? Ok, we wanted to attacks some their villages. Grunts, bring me "
-"their skulls!"
+"He is near. I can feel him very strongly. We could get to him just in a few "
+"hours if he still will be sitting at the same place. We just need to defeat "
+"this small group of orcs."
+msgstr ""
+
+#. [message]: speaker=orc
+#: For_Power/scenarios/10a_An_Exercise.cfg:75
+msgid ""
+"Human worms? Well, we wanted to attacks some their villages. Grunts, bring "
+"me their skulls!"
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/scenarios/10a_An_Exercise.cfg:75
-msgid "You will never get us. Men, to arms!"
+#: For_Power/scenarios/10a_An_Exercise.cfg:79
+msgid "You'll never get us. Men, to arms!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/10a_An_Exercise.cfg:87
+#: For_Power/scenarios/10a_An_Exercise.cfg:91
 msgid "It is done. Let us go to the north."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios/10a_An_Exercise.cfg:100
-msgid "We lost a lot of time here. I cannot find his tracks anymore."
+#: For_Power/scenarios/10a_An_Exercise.cfg:104
+msgid ""
+"We lost a lot of time here. I cannot feel his presence anymore. He probably "
+"moved to a much bigger town where we will never get him. I have failed."
 msgstr ""
 
 #. [scenario]: id=10b_Skeletons
@@ -3297,7 +3420,7 @@ msgstr ""
 #. [message]: speaker=Haldar
 #: For_Power/scenarios/13_The_Assassin.cfg:197
 #: For_Power/scenarios/16b_Preserving.cfg:153
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:274
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:277
 msgid "As you think."
 msgstr ""
 
@@ -3522,109 +3645,153 @@ msgstr ""
 msgid "Back Home"
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/15a_Back_Home.cfg:68
-msgid "It is good to be back home. I can even see Lemyr."
-msgstr ""
-
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:77
-msgid "Hi, Lemyr. I am back. I slew the orc."
-msgstr ""
-
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:81
 msgid ""
-"It is a great news, Clare. I missed you. But what are these bandits doing "
-"here?"
+"Ah, it is so good to be back home. I really missed this place. Let us see "
+"how it looks here now like. Well, every building is at the same place and in "
+"the same state as I remember so the orcs probably have not attacked the "
+"village in my absence. And there, at the fields are some children playing. "
+"That reminds me of me and Lemyr playing there before I left our village to "
+"go to study magic arts. And when I am thinking of him - where he is? I would "
+"like to ... say hello to him and tell that I succeeded in my mission."
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:85
+#. [message]: speaker=Tinry
+#: For_Power/scenarios/15a_Back_Home.cfg:72
+msgid "Who is that Lemyr you're talking about? ... If I can ask ..."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:76
 msgid ""
-"They helped me defeat him and by the way conquer an orcish city. Do not "
-"fight them."
+"My closest friend. I know him since my childhood. He has been so righteous "
+"and kind since I remember. Almost everyone liked him. But he was a bit shy "
+"and not so talkative so he did not have so much friends. A few days before I "
+"left our village he have been knighted and after Gl ... Glacyn have been "
+"killed he is probably in charge of our village."
 msgstr ""
 
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:89
+#. [message]: speaker=Tinry
+#: For_Power/scenarios/15a_Back_Home.cfg:80
+msgid ""
+"Hm, with someone like him around, I don't think she could think of me. "
+"Compared to him, I'm nobody. At least nobody she could like."
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/15a_Back_Home.cfg:84
+msgid ""
+"I can see someone looking like a knight in front of some old keep, Clare. "
+"Hmm, but when I look better at him his clothing seems somehow poor and it's "
+"white and blue. He doesn't look like knights I have heard about. But he may "
+"be a paladin. Anyhow is that your friend?"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:88
+msgid ""
+"Yes, it is him! I am so glad to see him again. I am going to go to greet him."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:97
+msgid "Lemyr! Hello! It is me, Clare. I am back. I slew the orc."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/15a_Back_Home.cfg:101
+msgid ""
+"Clare! Welcome back. I missed you. Well, it is a great news what you bring "
+"to me. Now, our beloved Glacyn can rest in peace. But can we talk about "
+"those bandits? It seems that they came with you. Do you know them? And what "
+"are they doing around our village?"
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:105
+msgid ""
+"They helped me to get to that accursed orc. He was hiding in one orcish city "
+"so we had to capture it first. Please, do not fight them."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/15a_Back_Home.cfg:109
 msgid "If you say so. They can enter the village."
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:108
-msgid "Thank you. But now tell me what happended here."
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:128
+msgid ""
+"Thank you. But now tell me what happended in our village during my absence."
 msgstr ""
 
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:112
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/15a_Back_Home.cfg:132
 msgid ""
 "Nothing interested. You know it. This is a small village. But it is a place "
-"of justice and law again."
+"of peace and justice again. There have been no more assassinations here. "
+"Also for a reason, the orcs did not attemp to attack us again. But no one of "
+"us mind it. We are happy for some time when we do not have to fight."
 msgstr ""
 
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:116
-msgid "There have been no more assassinations here."
-msgstr ""
-
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:120
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:136
 msgid "You did a great job. I am proud of you. Come to me. I want to hug you."
 msgstr ""
 
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:130
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/15a_Back_Home.cfg:146
 msgid ""
 "(he hugged Clare and gave her a kiss)It is ... you are so cold. You are "
 "probably ill. You should rest."
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:134
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:150
 msgid "Yes, I should."
 msgstr ""
 
-#. [message]: id=Merissa
-#: For_Power/scenarios/15a_Back_Home.cfg:138
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/15a_Back_Home.cfg:154
 msgid "(whispers) He loves you. It is cute."
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:142
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:158
 msgid ""
 "(whispers) What are you talking about? We are friends from our childhood."
 msgstr ""
 
-#. [message]: id=Merissa
-#: For_Power/scenarios/15a_Back_Home.cfg:146
+#. [message]: speaker=Merissa
+#: For_Power/scenarios/15a_Back_Home.cfg:162
 msgid "(whispers) Maybe but I can see it on him, you can't?"
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:150
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:166
 msgid "Do you love me, Lemyr?"
 msgstr ""
 
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:154
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/15a_Back_Home.cfg:170
 msgid ""
 "What? Ehhm to be honest yes. I have loved you for a long time but I could "
 "not say it. Alas I expected nothing from you."
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:158
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:174
 msgid "I love you too, Lemyr. I do not know how it happened but it is true."
 msgstr ""
 
-#. [message]: id=Lemyr
-#: For_Power/scenarios/15a_Back_Home.cfg:162
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios/15a_Back_Home.cfg:178
 msgid "It is the happiest day of my life."
 msgstr ""
 
-#. [message]: id=Clare
-#: For_Power/scenarios/15a_Back_Home.cfg:166
+#. [message]: speaker=Clare
+#: For_Power/scenarios/15a_Back_Home.cfg:182
 msgid "Of mine too. I do not want to leave you again."
 msgstr ""
 
@@ -3844,7 +4011,9 @@ msgstr ""
 #. [message]: role=reporter
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:139
 #: For_Power/scenarios/18b_The_Truth.cfg:129
-msgid "Oh no. There are the orcs again, Lemyr."
+msgid ""
+"Oh no. There are the orcs again, Lemyr. It seems our peace time came to its "
+"end."
 msgstr ""
 
 #. [message]: speaker=Lemyr
@@ -3874,7 +4043,7 @@ msgstr ""
 msgid "Then prepare to die, human worms."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:167
 msgid "Lemyr, this is not your fight. This has nothing to do with you."
 msgstr ""
@@ -3884,7 +4053,7 @@ msgstr ""
 msgid "No. Nothing is more important to me than you."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:175
 msgid ""
 "Even our village? You cannot give up its inhabinants because of me. I cannot "
@@ -3896,7 +4065,7 @@ msgstr ""
 msgid "But what can I do?"
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:183
 msgid ""
 "You can fight on my side if is it your choice, but you may not require it "
@@ -3910,7 +4079,6 @@ msgid ""
 "for us."
 msgstr ""
 
-#. [message]: id=Clare
 #. [message]: speaker=Clare
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:196
 #: For_Power/scenarios2/04_Visiting_The_Earl.cfg:134
@@ -3918,13 +4086,13 @@ msgstr ""
 msgid "But ..."
 msgstr ""
 
-#. [message]: id=Merissa
+#. [message]: speaker=Merissa
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:200
 msgid ""
 "He is right. They have chosen as I did. I told you that you were a good girl."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:204
 msgid "Ok, Merissa."
 msgstr ""
@@ -3940,7 +4108,7 @@ msgstr ""
 msgid "What did we miss?"
 msgstr ""
 
-#. [message]: id=Merissa
+#. [message]: speaker=Merissa
 #: For_Power/scenarios/16a_Another_Orcish_Assault.cfg:265
 msgid "A good fight with the orcs."
 msgstr ""
@@ -4187,141 +4355,144 @@ msgstr ""
 msgid "Am I welcome at home?"
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:72
-msgid "Who is it?"
+msgid ""
+"Hm, it seems that this night will be just calm as the other ones this month. "
+"But I wonder what could happen to Clare. She is gone for too long. I hope "
+"that ... Wait, someone is sneaking around the village. Who is it?"
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:76
 msgid "It is me, Clare."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:80
 msgid "Thanks be to the gods. I thought that you were dead."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:84
 msgid "May I enter the village?"
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:88
 msgid "You know that you do not need to ask. Come to me, please."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #. [message]: speaker=unit
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:97
 #: For_Power/scenarios5/03_Besieged.cfg:245
 msgid "I am here."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:101
 msgid "I missed you. You were away for a long time."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:105
 msgid "I am sorry. But the orc is history."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:109
 msgid "That is good news. I was worried that some harm had come to you."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:113
 msgid ""
 "That is nice but you do not have to worry about me. I am a mage, you know."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:117
 msgid "I will worry about you. You are my best friend."
 msgstr ""
 
-#. [message]: id=Merissa
+#. [message]: speaker=Merissa
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:131
 msgid "We finally found you."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:135
 msgid "What are these bandits doing here? And how do they know you, Clare?"
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:139
 msgid ""
 "I met them on my way to Haldar. They helped me. They are not as bad as they "
 "seem."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:143
 msgid "Ok. So what do you want?"
 msgstr ""
 
-#. [message]: id=Tinry
+#. [message]: speaker=Tinry
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:147
 msgid "We wanted to say hello to Clare and ask how she is."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:151
 msgid "I am fine. But did you really travel to here just to say hello?"
 msgstr ""
 
-#. [message]: id=Merissa
+#. [message]: speaker=Merissa
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:155
 msgid ""
 "We haven't seen you since you visited Haldar. We wanted to make sure that "
 "you are ok."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:159
 msgid "I am ok."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:163
 msgid "Why should she not be ok? Is something wrong with Haldar?"
 msgstr ""
 
-#. [message]: id=Merissa
+#. [message]: speaker=Merissa
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:167
 msgid ""
 "He doesn't have a good reputation, even among the outlaws. I don't know the "
 "hard facts."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:171
 msgid "What did you hear?"
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:175
 msgid "It does not matter. I am fine."
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:179
 msgid "If you say so. But what of you, bandits? What are you going to do?"
 msgstr ""
 
-#. [message]: id=Tinry
+#. [message]: speaker=Tinry
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:183
 msgid "May we rest in your village for a short time?"
 msgstr ""
 
-#. [message]: id=Lemyr
+#. [message]: speaker=Lemyr
 #: For_Power/scenarios/17b_Am_I_welcomed_at_home.cfg:187
 msgid "You helped Clare so you may. But I am watching you."
 msgstr ""
@@ -4362,9 +4533,11 @@ msgstr ""
 msgid "Death of Lemyr, Tinry, Merissa or Mubryn"
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/18a_The_Last_battle.cfg:215
-msgid "We are here, sir. And we bring some soldiers and mages with us."
+msgid ""
+"We have arrived as you ordered, earl Menvan. And we bring some soldiers and "
+"mages with us."
 msgstr ""
 
 #. [message]: speaker=earl
@@ -4379,14 +4552,18 @@ msgstr ""
 
 #. [message]: speaker=earl
 #: For_Power/scenarios/18a_The_Last_battle.cfg:227
-msgid "I fear that we can't defeat them. We are outnumbered."
+msgid ""
+"I fear that we can't defeat them. We are outnumbered. And these orcs aren't "
+"the weaklings we usually fight. They are just strong as my finest warriors, "
+"maybe even stronger. And it seems they have also some tough trolls and ogres "
+"with them."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/18a_The_Last_battle.cfg:231
 msgid ""
-"In that case we must kill the sovereign and hope that they will fight among "
-"themselves and we will defeat them easily."
+"I see. In that case we must kill the sovereign and hope that they will fight "
+"among themselves and we will defeat them easily."
 msgstr ""
 
 #. [message]: speaker=earl
@@ -4394,7 +4571,7 @@ msgstr ""
 msgid "Can you see his guards? It won't be easy."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/18a_The_Last_battle.cfg:242
 msgid ""
 "Yes but I can teleport myself. I could get close to him and kill him quickly."
@@ -4414,7 +4591,7 @@ msgid ""
 "and you will sneak up on him."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/18a_The_Last_battle.cfg:254
 msgid "I agree."
 msgstr ""
@@ -4627,7 +4804,7 @@ msgstr ""
 msgid "She is not a necromancer, orc. She would never do such things."
 msgstr ""
 
-#. [message]: id=Clare
+#. [message]: speaker=Clare
 #: For_Power/scenarios/18b_The_Truth.cfg:157
 msgid ""
 "Lemyr, they do not tell lies. I needed to be a necromancer to defeat the "
@@ -4961,10 +5138,15 @@ msgid "Return of troubles"
 msgstr ""
 
 #. [side]: type=Clare_Lich, id=Clare
-#. [side]: type=Elvish Lord, id=Gaeril
 #: For_Power/scenarios2/01_Return_of_troubles.cfg:22
+msgid "Mages"
+msgstr ""
+
+#. [side]: type=Elvish High Lord, id=elf
+#. [side]: type=Elvish Lord, id=Gaeril
 #: For_Power/scenarios2/01_Return_of_troubles.cfg:45
-msgid "Living beings"
+#: For_Power/scenarios3/08_The_Elves.cfg:51
+msgid "Elves"
 msgstr ""
 
 #. [side]: type=Elvish Lord, id=Gaeril
@@ -5019,124 +5201,139 @@ msgid "Defeat dark sorcerer"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:215
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:214
+msgid ""
+"Ah, I am so tired of walking, I need to rest for a while. But where? "
+"Everything what I can see around is just a flat land. It would not have to "
+"be necessary uncomfortable but I do not know what perils could appear when I "
+"close my eyes. I would feel safer among some people. Hm, wait. I can see a "
+"forest in not so long distance and it seems to be inhabited by elves. They "
+"may let me rest in their village."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:218
 msgid "Hail, elves. May I rest in your village?"
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:219
-msgid "You must be Clare. We've heard about you."
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:222
+msgid "You must be Clare. We have heard about you."
 msgstr ""
 
 #. [message]: speaker=Clare
 #. [message]: speaker=Merissa
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:223
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:226
 #: For_Power/scenarios2/06_Dwarven_Doors.cfg:118
 #: For_Power/scenarios2/13b_The_Underground.cfg:304
 msgid "Yes, it is me."
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:227
-msgid "Yes, you can rest here but we have some troubles. You could help us."
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:230
+msgid ""
+"Well, you are welcome here but we are having some troubles. Would you mind "
+"helping us to deal with them?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:231
-msgid "I will help you. What is the problem?"
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:234
+msgid "Not at all. I will gladly help you. What is that what troubles you?"
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:235
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:238
 msgid ""
 "Some weeks ago a necromancer came to near swamp and started to disturb the "
 "rest of the dead."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:239
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:242
 msgid "Even if I have only a few mages with me I will help you."
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:243
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:246
 msgid "Thank you, maiden."
 msgstr ""
 
 #. [message]: speaker=Clare
+#. [message]: speaker=Lemyr
 #. [message]: speaker=olderJolla
 #. [message]: speaker=outlaw
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:247
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:341
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:250
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:344
 #: For_Power/scenarios2/13b_The_Underground.cfg:332
 #: For_Power/scenarios5/07_Cave.cfg:548
+#: For_Power/scenarios5/08_Avenger.cfg:521
 msgid "You are welcome."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:258
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:261
 msgid "Tell me, necromancer, why are you disturbing the rest of these dead?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:262
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:265
 msgid ""
 "It is an exercise from my master. I must prove him that I can be useful to "
 "him."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:266
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:269
 msgid "Who is your master?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:270
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:273
 msgid "I will never tell you his name."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:285
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:288
 msgid ""
 "You may kill me but my master is every day stronger and one day will destroy "
 "Wesnoth and all people of the continent will serve him."
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:297
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:300
 msgid "So our dead can finally rest in peace."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:301
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:304
 msgid ""
 "Yes, but he was only a puppet. Someone stronger is behind this all and he "
 "has greater plans."
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:305
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:308
 msgid ""
 "I heard his words alas he will not appear today even tommorow. We can "
 "prepare for his actions."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:309
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:312
 msgid ""
 "You may be right, elvish lord. I will watch the flow of events but I need "
 "some rest in this moment."
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:313
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:316
 msgid "You can rest here. You helped us a lot. We will never forget about it."
 msgstr ""
 
 #. [unit]: type=Amiwen_Elvish Seer, id=Amiwen
 #. [unit]: type=Elvish Enchantress, id=Amiwen
 #. [unit]: type=Elvish Sylph, id=Amiwen
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:323
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:326
 #: For_Power/scenarios3/01_End_of_peace.cfg:170
 #: For_Power/scenarios4/01_Searching_adventures.cfg:248
 #: For_Power/scenarios5/01_Banished_from_paradise.cfg:296
@@ -5144,19 +5341,19 @@ msgid "Amiwen"
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:337
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:340
 msgid ""
 "Hello, maiden. Can I join you? This country is not always safe and I could "
 "help you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:370
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:373
 msgid "Farewell, the world."
 msgstr ""
 
 #. [message]: speaker=Gaeril
-#: For_Power/scenarios2/01_Return_of_troubles.cfg:379
+#: For_Power/scenarios2/01_Return_of_troubles.cfg:382
 msgid "This is hopeless. Our dead will never rest in peace."
 msgstr ""
 
@@ -6589,7 +6786,6 @@ msgstr ""
 #: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:116
 #: For_Power/scenarios2/08_Talks_with_Ralenyth.cfg:354
 #: For_Power/scenarios2/13a_Escape_from_Dwarven_Doors.cfg:105
-#: For_Power/scenarios5/08_Avenger.cfg:152
 msgid "This scenario uses 24 hours schedule unlike the rest."
 msgstr ""
 
@@ -8624,11 +8820,6 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios3/07_Back_in_underground.cfg:288
-msgid "Here you are."
-msgstr ""
-
-#. [message]: speaker=Clare
 #: For_Power/scenarios3/07_Back_in_underground.cfg:313
 msgid "He looks very badly. I am worried that he can die in every moment."
 msgstr ""
@@ -8704,11 +8895,6 @@ msgstr ""
 #. [scenario]: id=08_The_Elves
 #: For_Power/scenarios3/08_The_Elves.cfg:19
 msgid "The Elves"
-msgstr ""
-
-#. [side]: type=Elvish High Lord, id=elf
-#: For_Power/scenarios3/08_The_Elves.cfg:51
-msgid "Elves"
 msgstr ""
 
 #. [side]
@@ -13184,32 +13370,32 @@ msgid "Death of Jolla, Amiwen or Bhaskara"
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/scenarios5/08_Avenger.cfg:180
+#: For_Power/scenarios5/08_Avenger.cfg:181
 msgid ""
 "We are nearly at home. Oh, I am so tired from all of this fighting. I cannot "
 "wait to go to bed and rest for a while."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/scenarios5/08_Avenger.cfg:184
+#: For_Power/scenarios5/08_Avenger.cfg:185
 msgid ""
 "I worry that you have to fight for a bit longer. Someone is blocking our way."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/scenarios5/08_Avenger.cfg:194
+#: For_Power/scenarios5/08_Avenger.cfg:195
 msgid "A mere necromancer cannot postpone my rest for a long time."
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/scenarios5/08_Avenger.cfg:213
+#: For_Power/scenarios5/08_Avenger.cfg:214
 msgid ""
 "She is not a mere necromancer by any means. I am not sure what she is but "
 "she wields really great powers. It will not be easy to defeat her."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/scenarios5/08_Avenger.cfg:217
+#: For_Power/scenarios5/08_Avenger.cfg:218
 msgid ""
 "You're right, I'm very powerful. I can kill two of your 'great' mages "
 "without problem. And not only this. Every damned evildoer around will help "
@@ -13217,26 +13403,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/scenarios5/08_Avenger.cfg:221
+#: For_Power/scenarios5/08_Avenger.cfg:222
 msgid ""
 "I have not the slightest idea what we have done you but we will send you to "
 "the land of dead with your minions quickly."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/scenarios5/08_Avenger.cfg:225
+#: For_Power/scenarios5/08_Avenger.cfg:226
 msgid ""
 "Hahaha, I haven't heard anything so funny and nonsense for a long time. Do "
 "you know who I am?"
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/scenarios5/08_Avenger.cfg:229
+#: For_Power/scenarios5/08_Avenger.cfg:230
 msgid "No but I do not really care."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/scenarios5/08_Avenger.cfg:233
+#: For_Power/scenarios5/08_Avenger.cfg:234
 msgid ""
 "My name is Shyama. I belong to a group of dark mages with unmatched powers. "
 "We're the dark lords. We seek to rule all Irdya ... well, we will one day, "
@@ -13246,7 +13432,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/scenarios5/08_Avenger.cfg:237
+#: For_Power/scenarios5/08_Avenger.cfg:238
 msgid ""
 "That sounds very horrible. I and my friends will do anything to put an end "
 "to your evil. Well, you were aware that we would do it if we knew about your "
@@ -13255,7 +13441,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/scenarios5/08_Avenger.cfg:241
+#: For_Power/scenarios5/08_Avenger.cfg:242
 msgid ""
 "Don't get me wrong. We don't want to get rid of your friend Clare. She'll "
 "have an important role in the ongoing events so we wish to ... keep her in "
@@ -13266,40 +13452,79 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios5/08_Avenger.cfg:245
+#: For_Power/scenarios5/08_Avenger.cfg:246
 msgid ""
 "I ... you are a fool when you are challenging me. You have no chance at all. "
 "But enough talking. Slay her with all her minions!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios5/08_Avenger.cfg:343
+#: For_Power/scenarios5/08_Avenger.cfg:311
+msgid "Who goes there? ... Jolla? Is it you? Thanks to gods!"
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:315
+msgid ""
+"Yes, it is me, Clare. But can you tell me what is going on here? I thought "
+"that you all are already back at your place."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:319
+msgid ""
+"Well, we were heading there but that woman crossed our way. She wants to "
+"make us pay for that we have destroyed that lich Ganesha who was closed to "
+"her heart. Anyway, she is just one among many. Her group craves to do "
+"horrible things, we have to stop them ... well, just her for now as the "
+"others are not going to show up themselves. But she is very powerful and it "
+"seems that she commands endless legions of undead and I am not sure if we "
+"could be able to defeat her without your help. Well, if you want to do so ..."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:323
+msgid ""
+"Of course that I am going to help you, my friend. I have no reason to refuse "
+"to aid you as she is my enemy as well according to what you have just said "
+"to me."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:327
+msgid ""
+"Who is that? Another do-gooder wishing to kill me? It doesn't matter anyway, "
+"I'll do deal with all of you quickly."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:371
 msgid ""
 "Look! It seems that her legions are endless. I am not sure if we can defeat "
 "her."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/scenarios5/08_Avenger.cfg:347
+#: For_Power/scenarios5/08_Avenger.cfg:375
 msgid ""
 "Trust the lords of light, my friend. They are with us. The good always "
 "prevails at the end."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios5/08_Avenger.cfg:353
+#: For_Power/scenarios5/08_Avenger.cfg:381
 msgid ""
 "Oh no! She has too many soldiers and Jolla with her friends is still not "
 "returning. I am not sure if we can defeat her."
 msgstr ""
 
 #. [unit]: type=Prophet, id=Bhaskara
-#: For_Power/scenarios5/08_Avenger.cfg:362
+#: For_Power/scenarios5/08_Avenger.cfg:390
 msgid "Bhaskara"
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/scenarios5/08_Avenger.cfg:375
+#: For_Power/scenarios5/08_Avenger.cfg:404
 msgid ""
 "We have finally found you, fiend! It took us several years but now we can "
 "finally send you to the fiery wastelands of Urvatha and fulfil the God's "
@@ -13307,7 +13532,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/scenarios5/08_Avenger.cfg:379
+#: For_Power/scenarios5/08_Avenger.cfg:408
 msgid ""
 "I was awaiting you, Bhaskara. They told me about your endeavor but you have "
 "no chance against me at all. You'll soon join these fools in the land of "
@@ -13315,26 +13540,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/scenarios5/08_Avenger.cfg:383
+#: For_Power/scenarios5/08_Avenger.cfg:412
 msgid ""
 "Who are you talking about? Oh my God ... three liches and they are fighting "
 "on the side of good. It is really weird."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/scenarios5/08_Avenger.cfg:392
+#: For_Power/scenarios5/08_Avenger.cfg:421
 msgid ""
 "You may trust them, brother. Yes, I was suprised by it as well but their "
 "hearts are still pure. "
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/scenarios5/08_Avenger.cfg:392
+#: For_Power/scenarios5/08_Avenger.cfg:421
 msgid "At least, the darkness did not absorb them completly."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/scenarios5/08_Avenger.cfg:396
+#: For_Power/scenarios5/08_Avenger.cfg:425
 msgid ""
 "I am not so sure about it but I think that you may be trusted, sister. So we "
 "accept your help against her but I will not let you lead my men. And when we "
@@ -13342,14 +13567,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/scenarios5/08_Avenger.cfg:402
+#: For_Power/scenarios5/08_Avenger.cfg:431
 msgid ""
 "I am aware what they are but they raised me. They did many good deeds even "
 "before I was born and they still do. You may trust them."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/scenarios5/08_Avenger.cfg:406
+#: For_Power/scenarios5/08_Avenger.cfg:435
 msgid ""
 "I know nothing about their deeds but I can see pureness in your heart, young "
 "one. So we accept your help against her but I will not let you lead my men. "
@@ -13357,7 +13582,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios5/08_Avenger.cfg:412
+#: For_Power/scenarios5/08_Avenger.cfg:441
 msgid ""
 "It was not nice but I understand you. I do not either like what we are but "
 "there was no other way. And we still fight the evil. But enough talking, on "
@@ -13365,29 +13590,260 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/scenarios5/08_Avenger.cfg:417
+#: For_Power/scenarios5/08_Avenger.cfg:446
 msgid ""
 "Although Bhaskara does not let you command him and his men, you can still "
 "instruct him to move somewhere but only himself."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/scenarios5/08_Avenger.cfg:436
+#: For_Power/scenarios5/08_Avenger.cfg:465
+msgid ""
+"How is this possible?! ... Well, at least we'll be together, Ganesha. But "
+"you, Clare, ... I know everything about you ... your life story has been "
+"already written and you can't change it. You'll join us in the end ..."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:469
+msgid "What do you mean with it? ..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: For_Power/scenarios5/08_Avenger.cfg:473
+msgid ""
+"The necromancer was about to say something but her lips refused to work any "
+"longer, she was dying. Her hair became as black as the death itself, as well "
+"as her face. But she had smile on her face because she was to reunite with "
+"someone who was close to her. She did not realise at all that her body was "
+"falling to the cold ground. In her mind, she was already with her friend. "
+"After a few seconds, she has breathed her last."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:481
+msgid "Speak! Speak! I want to know it!"
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/08_Avenger.cfg:485
+msgid ""
+"Clare, she cannot say anything anymore. Her soul has left this world for "
+"good."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:489
+msgid ""
+"It is no complication for me at all. I am able to drag her back to our world "
+"to hear what I long to know."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/08_Avenger.cfg:493
+msgid ""
+"You really can? ... Well, I should not be so surprised by it. You did it to "
+"yourself. I just ..."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/08_Avenger.cfg:497
+msgid ""
+"But the question is if you really want to do such a thing. I was in belief "
+"that you want to have nothing to do with this horrible art anymore."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:501
+msgid ""
+"That is what I thought as well but ... I do not know what is wrong with me. "
+"Well, but after thinking about her last words for a while I think that she "
+"could mean that once I will join the dark side. It is possible, anger and "
+"hatred burn my soul for so long. I am falling ..."
+msgstr ""
+
+#. [message]: speaker=Amiwen
+#: For_Power/scenarios5/08_Avenger.cfg:505
+msgid ""
+"We are not going to let you fall to the darkness. We will help you fight it. "
+"You can overcome it, you can be again so good person as you once were."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:509
+msgid "I am not so sure about it ..."
+msgstr ""
+
+#. [message]: speaker=Lemyr
+#: For_Power/scenarios5/08_Avenger.cfg:513
+msgid ""
+"Of course you can, Clare! ... Well, with our help. You know that we all will "
+"be by your side until the end of our days. We are not going to leave you, "
+"especially at your hour of need."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:517
+msgid ""
+"... Thank you very much. It is so nice to hear it, really. I may not give up "
+"now."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:533
+msgid ""
+"Oh, I catched you finally. But this place is not your home, is it? So what "
+"was going on here? I can smell ... death."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:537
+msgid ""
+"You smell it right, sister. Many a man lost their lives at this place, not "
+"only recently but over centuries too. I was told, by the Lord, that this "
+"place attracted dark archons since time immemorial. I know not why but that "
+"is not important. Now, forces of light and darkness clashed here once again. "
+"The enemy appeared to be a worthy opponent for my men but we were "
+"victourious in the end with help of these people which you seem to know."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:541
+msgid ""
+"Well, not so much. I used to know just one of them and when we were younger. "
+"I met her again just a few days ago and I was a bit suprised how she "
+"changed. But where are my good manners, I forgot to introduce myself. I am "
+"Jolla."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:545
+msgid ""
+"And my name is Bhaskara. I am pleased to meet you but unfortunately I have "
+"not got time to talk to you."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:551
+msgid ""
+"So, the enemy have been vanquished finally. Thank you for your help, people, "
+"she was a bit more powerful than I expected. But now I have to return to my "
+"land so farewell."
+msgstr ""
+
+#. [message]: speaker=Clare
+#: For_Power/scenarios5/08_Avenger.cfg:555
+msgid "For your help?! We did ..."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:559
+msgid ""
+"Clare, my friend, let him believe that it was you who helped him. He just "
+"cannot accept that he was helping someone like you. Not that I blame him ..."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:563
+msgid ""
+"We were glad that we could be of help to you, brother. May the lords of "
+"light guide your path."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:567
+msgid "Yours too, sister, yours too."
+msgstr ""
+
+#. [message]: speaker=Amiwen
+#: For_Power/scenarios5/08_Avenger.cfg:598
+msgid ""
+"Well, I suppose that it is the time for us to return home too. We still have "
+"one fight before us and after that our deserved rest ... for some time."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/scenarios5/08_Avenger.cfg:602
+msgid ""
+"Oh, yes! I forgot about that battle we have to go through. Well but I "
+"believe that you will love that place as well, Jolla."
+msgstr ""
+
+#. [message]: speaker=olderJolla
+#: For_Power/scenarios5/08_Avenger.cfg:606
+msgid ""
+"May be but whoever are you going to face I am ready for them. Let us go "
+"ahead, do not waste more time here."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:618
+msgid ""
+"$unit.name, fear not of what is to come. You were a good and brave man who "
+"loyally served to the God. He will warmly welcome you in his halls."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/08_Avenger.cfg:622
+msgid ""
+"Thank you. This is what I needed to hear. And also that this devil will go "
+"where she belongs as well."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:626
+msgid "I may assure you, my friend that no one of us will rest until we do so."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/08_Avenger.cfg:630
+msgid "Good. Now I may leave this world in peace."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:649
+msgid ""
+"All of your men have fallen to us, Bhaskara. Can you see it now? You never "
+"had a real chance to defeat us. Maybe it's the time for you to finally "
+"acknowledge it and leave me for all."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:653
+msgid ""
+"Never! I will fight until the end, your end. Lord, bless your Chosen one."
+msgstr ""
+
+#. [message]: speaker=Bhaskara
+#: For_Power/scenarios5/08_Avenger.cfg:685
+msgid "Urvatha awaits your foul soul, devil."
+msgstr ""
+
+#. [message]: speaker=unit
+#: For_Power/scenarios5/08_Avenger.cfg:696
 msgid "I have ... failed. Please, forgive me."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios5/08_Avenger.cfg:447
+#: For_Power/scenarios5/08_Avenger.cfg:707
 msgid "Without him, we have no chance to defeat her."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/scenarios5/08_Avenger.cfg:464
+#: For_Power/scenarios5/08_Avenger.cfg:716
+msgid ""
+"You have fought pretty well but you're no challenge for the power of dark "
+"lords. Your soldiers still have the will to fight but I can break it very "
+"easily."
+msgstr ""
+
+#. [message]: speaker=Shyama
+#: For_Power/scenarios5/08_Avenger.cfg:728
 msgid "Now there will be no dawn until the end of the days, haha."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/scenarios5/08_Avenger.cfg:468
+#: For_Power/scenarios5/08_Avenger.cfg:732
 msgid "Everything is lost now."
 msgstr ""
 
