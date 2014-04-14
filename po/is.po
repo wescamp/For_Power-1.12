@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-11 15:10+0200\n"
+"POT-Creation-Date: 2014-04-14 13:27+0200\n"
 "PO-Revision-Date: 2013-08-02 23:05+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5873,7 +5873,7 @@ msgid "Ring of HP"
 msgstr ""
 
 #. [object]
-#: For_Power/scenarios2/05_The_Countess.cfg:153 For_Power/utils5/cave.cfg:401
+#: For_Power/scenarios2/05_The_Countess.cfg:153 For_Power/utils5/cave.cfg:402
 msgid "This ring grants the wearer +10 max hp!"
 msgstr ""
 
@@ -15013,119 +15013,119 @@ msgstr ""
 msgid "One of his pets is near. Let us send him where he belongs."
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:244
+#: For_Power/utils5/cave.cfg:245
 msgid ""
 "$item_list.object[$item_number].description\n"
 "Take this item?"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:341
+#: For_Power/utils5/cave.cfg:342
 msgid "Which unit would you like to recall?"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:344 For_Power/utils5/cave.cfg:376
+#: For_Power/utils5/cave.cfg:345 For_Power/utils5/cave.cfg:377
 msgid "None"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:386
+#: For_Power/utils5/cave.cfg:387
 msgid "Glitch"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:389
+#: For_Power/utils5/cave.cfg:390
 msgid "New obligation: Report this bug on the forums"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:398
+#: For_Power/utils5/cave.cfg:399
 msgid "Ring of Health"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:411
+#: For_Power/utils5/cave.cfg:412
 msgid "Leather Armor"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:414
+#: For_Power/utils5/cave.cfg:415
 msgid "This armor grants the wearer 10/15% better physical resistances!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:428
+#: For_Power/utils5/cave.cfg:429
 msgid "Armor of Inferno Dweller"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:431
+#: For_Power/utils5/cave.cfg:432
 msgid ""
 "This armor grants the wearer 15/25% better physical resistances and 30% "
 "better fire resistance!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:446
+#: For_Power/utils5/cave.cfg:447
 msgid "Armor of the Cold-hearted One"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:449
+#: For_Power/utils5/cave.cfg:450
 msgid ""
 "This armor grants the wearer 15/25% better physical resistances and 30% "
 "better cold resistance!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:464
+#: For_Power/utils5/cave.cfg:465
 msgid "Guide of the Treasure Hunter"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:467
+#: For_Power/utils5/cave.cfg:468
 msgid "This book teaches the reader to be faster in caves!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:483
+#: For_Power/utils5/cave.cfg:484
 msgid "Ring of Eternity"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:486
+#: For_Power/utils5/cave.cfg:487
 msgid ""
 "The essence of immortality spreads within this item's wearer, granting "
 "additional 5 maximum hitpoints and regenerates ability!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:502
+#: For_Power/utils5/cave.cfg:503
 msgid "Warlord's Armor"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:505
+#: For_Power/utils5/cave.cfg:506
 msgid ""
 "This armor grants the wearer 30% better physical resistances and level 3 "
 "leadership but slows him down!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:529
+#: For_Power/utils5/cave.cfg:530
 msgid "Bombs"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:532
+#: For_Power/utils5/cave.cfg:533
 msgid "This unit can throw bombs at its enemies!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:539
+#: For_Power/utils5/cave.cfg:540
 msgid "bomb"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:547
+#: For_Power/utils5/cave.cfg:548
 msgid "Robe of mages"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:550
+#: For_Power/utils5/cave.cfg:551
 msgid ""
 "This robe grants the wearer 20% better magical resistances and allows "
 "casting lightning!"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:566
+#: For_Power/utils5/cave.cfg:567
 msgid "lightning"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:578
+#: For_Power/utils5/cave.cfg:579
 msgid "Ring of titanic strength"
 msgstr ""
 
-#: For_Power/utils5/cave.cfg:581
+#: For_Power/utils5/cave.cfg:582
 msgid "This ring grants the wearer +3 melee damage!"
 msgstr ""
 
